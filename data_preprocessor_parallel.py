@@ -134,7 +134,7 @@ if __name__ == "__main__":
                     failed_count += 1
                     print(f"Error processing {filename}: {message}")
 
-        print("\nFinished processing.")
+        print(f"\nFinished processing.")
         print(f"Total files successfully processed: {success_count}")
         print(f"Total files failed: {failed_count}")
 
