@@ -1,0 +1,21 @@
+{
+    "id": "2505.13002",
+    "title": "PIM-malloc: A Fast and Scalable Dynamic Memory Allocator for   Processing-In-Memory (PIM) Architectures",
+    "abstract": "Dynamic memory allocation is essential in modern programming but remains under-supported in current PIM devices. In this work, we first conduct a design space exploration of PIM memory allocators, examining optimal metadata placement and management strategies. Building on these insights, we propose PIM-malloc, a fast and scalable allocator for real PIM hardware, improving allocation performance by $66\\times$. We further enhance this design with a lightweight, per-PIM core hardware cache for dynamic allocation, achieving an additional $31\\%$ performance gain. Finally, we demonstrate the effectiveness of PIM-malloc using a dynamic graph update workload, achieving a $28\\times$ throughput increase.",
+    "authors": [
+        "Dongjae Lee",
+        "Bongjoon Hyun",
+        "Youngjin Kwon",
+        "Minsoo Rhu"
+    ],
+    "published_date": "2025-05-19T11:41:21Z",
+    "updated_date": "2025-05-20T07:34:45Z",
+    "primary_category": "cs.AR",
+    "categories": [
+        "cs.AR"
+    ],
+    "pdf_link": "http://arxiv.org/pdf/2505.13002v2",
+    "abstract_link": "http://arxiv.org/abs/2505.13002v2",
+    "doi": null,
+    "journal_ref": null
+}
