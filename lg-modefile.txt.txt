@@ -1,0 +1,1 @@
+FROM ./exaone-q8_0.gguf
