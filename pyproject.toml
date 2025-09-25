@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "docling>=2.54.0",
     "pip>=25.2",
+    "pypdf>=6.1.0",
     "qdrant-client>=1.15.1",
     "requests>=2.32.5",
     "spacy>=3.8.7",

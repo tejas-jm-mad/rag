@@ -4,8 +4,8 @@
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name = 'LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct'
-save_dir = 'EXAONE-3.5-2.4B-Instruct'
+model_name = "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct"
+save_dir = "EXAONE-3.5-2.4B-Instruct"
 
 model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
