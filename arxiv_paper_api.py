@@ -15,15 +15,15 @@ warnings.filterwarnings("ignore", message=".*pin_memory.*")
 # ==============================================================================
 # == CONFIGURATION - SET YOUR PARAMETERS HERE
 # ==============================================================================
-MAX_WORKERS = 4
+MAX_WORKERS = 5
 SEARCH_CATEGORY = "cs.AI"
-MAX_RESULTS = 5
-DAYS_TO_SEARCH = 3
+MAX_RESULTS = 2
+DAYS_TO_SEARCH = 300
 
 # --- Directory Paths ---
-PDF_SAVE_DIR = "downloaded_pdfs"
-MD_SAVE_DIR = "processed_markdown"
-METADATA_SAVE_DIR = "paper_metadata"
+PDF_SAVE_DIR = "downloaded_pdfs_dataset"
+MD_SAVE_DIR = "processed_markdown_dataset"
+METADATA_SAVE_DIR = "paper_metadata_dataset"
 
 # ==============================================================================
 # == SCRIPT LOGIC ==

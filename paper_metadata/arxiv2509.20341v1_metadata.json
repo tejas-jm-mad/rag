@@ -1,0 +1,24 @@
+{
+    "id": "2509.20341v1",
+    "versioned_id": "2509.20341v1",
+    "title": "Morphological Synthesizer for Ge'ez Language: Addressing Morphological   Complexity and Resource Limitations",
+    "abstract": "Ge'ez is an ancient Semitic language renowned for its unique alphabet. It serves as the script for numerous languages, including Tigrinya and Amharic, and played a pivotal role in Ethiopia's cultural and religious development during the Aksumite kingdom era. Ge'ez remains significant as a liturgical language in Ethiopia and Eritrea, with much of the national identity documentation recorded in Ge'ez. These written materials are invaluable primary sources for studying Ethiopian and Eritrean philosophy, creativity, knowledge, and civilization. Ge'ez has a complex morphological structure with rich inflectional and derivational morphology, and no usable NLP has been developed and published until now due to the scarcity of annotated linguistic data, corpora, labeled datasets, and lexicons. Therefore, we propose a rule-based Ge'ez morphological synthesizer to generate surface words from root words according to the morphological structures of the language. We used 1,102 sample verbs, representing all verb morphological structures, to test and evaluate the system. The system achieves a performance of 97.4%, outperforming the baseline model and suggesting that future work should build a comprehensive system considering morphological variations of the language.   Keywords: Ge'ez, NLP, morphology, morphological synthesizer, rule-based",
+    "authors": [
+        "Gebrearegawi Gebremariam",
+        "Hailay Teklehaymanot",
+        "Gebregewergs Mezgebe"
+    ],
+    "published_date": "2025-09-24T17:33:47Z",
+    "updated_date": "2025-09-24T17:33:47Z",
+    "primary_category": "cs.CL",
+    "categories": [
+        "cs.CL",
+        "cs.AI",
+        "68T50, 68T35, 68N01",
+        "I.2.7; I.2.6; H.3.1"
+    ],
+    "pdf_link": "http://arxiv.org/pdf/2509.20341v1",
+    "abstract_link": "http://arxiv.org/abs/2509.20341v1",
+    "doi": null,
+    "journal_ref": null
+}

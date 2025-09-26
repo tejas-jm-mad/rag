@@ -1,0 +1,25 @@
+{
+    "id": "2509.20336v1",
+    "versioned_id": "2509.20336v1",
+    "title": "Uncovering Graph Reasoning in Decoder-only Transformers with Circuit   Tracing",
+    "abstract": "Transformer-based LLMs demonstrate strong performance on graph reasoning tasks, yet their internal mechanisms remain underexplored. To uncover these reasoning process mechanisms in a fundamental and unified view, we set the basic decoder-only transformers and explain them using the circuit-tracer framework. Through this lens, we visualize reasoning traces and identify two core mechanisms in graph reasoning: token merging and structural memorization, which underlie both path reasoning and substructure extraction tasks. We further quantify these behaviors and analyze how they are influenced by graph density and model size. Our study provides a unified interpretability framework for understanding structural reasoning in decoder-only Transformers.",
+    "authors": [
+        "Xinnan Dai",
+        "Chung-Hsiang Lo",
+        "Kai Guo",
+        "Shenglai Zeng",
+        "Dongsheng Luo",
+        "Jiliang Tang"
+    ],
+    "published_date": "2025-09-24T17:25:05Z",
+    "updated_date": "2025-09-24T17:25:05Z",
+    "primary_category": "cs.LG",
+    "categories": [
+        "cs.LG",
+        "cs.AI"
+    ],
+    "pdf_link": "http://arxiv.org/pdf/2509.20336v1",
+    "abstract_link": "http://arxiv.org/abs/2509.20336v1",
+    "doi": null,
+    "journal_ref": null
+}

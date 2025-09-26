@@ -14,8 +14,7 @@ INPUT_DIRECTORY = "processed_markdown"
 # Define a custom list of stop words to ignore during keyword extraction
 CUSTOM_STOP_WORDS = {
     'abstract', 'introduction', 'conclusion', 'references', 'appendix',
-    'arxiv', 'preprint', 'figure', 'fig', 'table', 'et', 'al', 'eq', 'equation',
-    'paper', 'research', 'study', 'result', 'method', 'model'
+    'arxiv', 'preprint', 'figure', 'fig', 'table', 'et', 'al', 'eq',
 }
 
 
