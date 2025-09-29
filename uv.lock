@@ -458,6 +458,18 @@ wheels = [
 ]
 
 [[package]]
+name = "grobid-client-python"
+version = "0.0.17"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/20/b5/29738bae58cdc3319819c2be95fb43d3b8c49a378e0836c5c2c43b371288/grobid_client_python-0.0.17.tar.gz", hash = "sha256:6785d951f82b09f63e6976521a7c86a9027e95bfb66045f689a6939422bffcfa", size = 1205091, upload-time = "2025-09-03T12:49:42.097Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/8d/1a/f2b4a7eef61219b5c3bb93f584a2725361d348fc53fede95dd8b363609bb/grobid_client_python-0.0.17-py3-none-any.whl", hash = "sha256:e140d48fd3ed09bffddc0f408172fc0bbc504abf2b968db3fc35af656be0c770", size = 18862, upload-time = "2025-09-03T12:49:40.453Z" },
+]
+
+[[package]]
 name = "grpcio"
 version = "1.75.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1863,6 +1875,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "docling" },
+    { name = "grobid-client-python" },
     { name = "pip" },
     { name = "pypdf" },
     { name = "qdrant-client" },
@@ -1874,6 +1887,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "docling", specifier = ">=2.54.0" },
+    { name = "grobid-client-python", specifier = ">=0.0.17" },
     { name = "pip", specifier = ">=25.2" },
     { name = "pypdf", specifier = ">=6.1.0" },
     { name = "qdrant-client", specifier = ">=1.15.1" },

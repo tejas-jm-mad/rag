@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "docling>=2.54.0",
+    "grobid-client-python>=0.0.17",
     "pip>=25.2",
     "pypdf>=6.1.0",
     "qdrant-client>=1.15.1",
