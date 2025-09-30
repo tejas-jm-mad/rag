@@ -11,5 +11,6 @@ arxiv_preprocessed/
 downloaded_pdfs/
 processed_markdown/
 dataset/
+benchmark/
 # Virtual environments
 .venv
