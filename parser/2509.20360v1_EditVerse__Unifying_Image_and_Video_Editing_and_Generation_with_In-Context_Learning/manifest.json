@@ -1,0 +1,3251 @@
+{
+  "file": "2509.20360v1_EditVerse_ Unifying Image and Video Editing and Generation with   In-Context Learning.pdf",
+  "output_dir": "parser/2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning",
+  "text_file": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning",
+    "author": "Xuan Ju; Tianyu Wang; Yuqian Zhou; He Zhang; Qing Liu; Nanxuan Zhao; Zhifei Zhang; Yijun Li; Yuanhao Cai; Shaoteng Liu; Daniil Pakhomov; Zhe Lin; Soo Ye Kim; Qiang Xu",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p0_001",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img001.png"
+      },
+      {
+        "id": "img_p0_002",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img002.png"
+      },
+      {
+        "id": "img_p0_003",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img003.png"
+      },
+      {
+        "id": "img_p0_004",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img004.png"
+      },
+      {
+        "id": "img_p0_005",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img005.png"
+      },
+      {
+        "id": "img_p0_006",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img006.png"
+      },
+      {
+        "id": "img_p0_007",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img007.png"
+      },
+      {
+        "id": "img_p0_008",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img008.png"
+      },
+      {
+        "id": "img_p0_009",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img009.png"
+      },
+      {
+        "id": "img_p0_010",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img010.png"
+      },
+      {
+        "id": "img_p0_011",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img011.png"
+      },
+      {
+        "id": "img_p0_012",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img012.png"
+      },
+      {
+        "id": "img_p0_013",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img013.png"
+      },
+      {
+        "id": "img_p0_014",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img014.png"
+      },
+      {
+        "id": "img_p0_015",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img015.png"
+      },
+      {
+        "id": "img_p0_016",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img016.png"
+      },
+      {
+        "id": "img_p0_017",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img017.png"
+      },
+      {
+        "id": "img_p0_018",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img018.png"
+      },
+      {
+        "id": "img_p0_019",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img019.png"
+      },
+      {
+        "id": "img_p0_020",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img020.png"
+      },
+      {
+        "id": "img_p0_021",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img021.png"
+      },
+      {
+        "id": "img_p0_022",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img022.png"
+      },
+      {
+        "id": "img_p0_023",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img023.png"
+      },
+      {
+        "id": "img_p0_024",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img024.png"
+      },
+      {
+        "id": "img_p0_025",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img025.png"
+      },
+      {
+        "id": "img_p0_026",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img026.png"
+      },
+      {
+        "id": "img_p0_027",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img027.png"
+      },
+      {
+        "id": "img_p0_028",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img028.png"
+      },
+      {
+        "id": "img_p0_029",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img029.png"
+      },
+      {
+        "id": "img_p0_030",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img030.png"
+      },
+      {
+        "id": "img_p0_031",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img031.png"
+      },
+      {
+        "id": "img_p0_032",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img032.png"
+      },
+      {
+        "id": "img_p0_033",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img033.png"
+      },
+      {
+        "id": "img_p0_034",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img034.png"
+      },
+      {
+        "id": "img_p0_035",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img035.png"
+      },
+      {
+        "id": "img_p0_036",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img036.png"
+      },
+      {
+        "id": "img_p0_037",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img037.png"
+      },
+      {
+        "id": "img_p0_038",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img038.png"
+      },
+      {
+        "id": "img_p0_039",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img039.png"
+      },
+      {
+        "id": "img_p0_040",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img040.png"
+      },
+      {
+        "id": "img_p0_041",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img041.png"
+      },
+      {
+        "id": "img_p0_042",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img042.png"
+      },
+      {
+        "id": "img_p0_043",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img043.png"
+      },
+      {
+        "id": "img_p0_044",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img044.png"
+      },
+      {
+        "id": "img_p0_045",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img045.png"
+      },
+      {
+        "id": "img_p0_046",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img046.png"
+      },
+      {
+        "id": "img_p0_047",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img047.png"
+      },
+      {
+        "id": "img_p0_048",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img048.png"
+      },
+      {
+        "id": "img_p0_049",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img049.png"
+      },
+      {
+        "id": "img_p0_050",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img050.png"
+      },
+      {
+        "id": "img_p0_051",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img051.png"
+      },
+      {
+        "id": "img_p0_052",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img052.png"
+      },
+      {
+        "id": "img_p0_053",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img053.png"
+      },
+      {
+        "id": "img_p0_054",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img054.png"
+      },
+      {
+        "id": "img_p0_055",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img055.png"
+      },
+      {
+        "id": "img_p0_056",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img056.png"
+      },
+      {
+        "id": "img_p0_057",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img057.png"
+      },
+      {
+        "id": "img_p0_058",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img058.png"
+      },
+      {
+        "id": "img_p0_059",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img059.png"
+      },
+      {
+        "id": "img_p0_060",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0000/img060.png"
+      },
+      {
+        "id": "img_p3_061",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p3_062",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img001.png"
+      },
+      {
+        "id": "img_p3_063",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img002.png"
+      },
+      {
+        "id": "img_p3_064",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img003.png"
+      },
+      {
+        "id": "img_p3_065",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img004.png"
+      },
+      {
+        "id": "img_p3_066",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img005.png"
+      },
+      {
+        "id": "img_p3_067",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img006.png"
+      },
+      {
+        "id": "img_p3_068",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img007.png"
+      },
+      {
+        "id": "img_p3_069",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img008.png"
+      },
+      {
+        "id": "img_p3_070",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img009.png"
+      },
+      {
+        "id": "img_p3_071",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img010.png"
+      },
+      {
+        "id": "img_p3_072",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img011.png"
+      },
+      {
+        "id": "img_p3_073",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img012.png"
+      },
+      {
+        "id": "img_p3_074",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img013.png"
+      },
+      {
+        "id": "img_p3_075",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img014.png"
+      },
+      {
+        "id": "img_p3_076",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img015.png"
+      },
+      {
+        "id": "img_p3_077",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img016.png"
+      },
+      {
+        "id": "img_p3_078",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img017.png"
+      },
+      {
+        "id": "img_p3_079",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img018.png"
+      },
+      {
+        "id": "img_p3_080",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img019.png"
+      },
+      {
+        "id": "img_p3_081",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img020.png"
+      },
+      {
+        "id": "img_p3_082",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img021.png"
+      },
+      {
+        "id": "img_p3_083",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img022.png"
+      },
+      {
+        "id": "img_p3_084",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img023.png"
+      },
+      {
+        "id": "img_p3_085",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img024.png"
+      },
+      {
+        "id": "img_p3_086",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img025.png"
+      },
+      {
+        "id": "img_p3_087",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img026.png"
+      },
+      {
+        "id": "img_p3_088",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img027.png"
+      },
+      {
+        "id": "img_p3_089",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img028.png"
+      },
+      {
+        "id": "img_p3_090",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img029.png"
+      },
+      {
+        "id": "img_p3_091",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img030.png"
+      },
+      {
+        "id": "img_p3_092",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img031.png"
+      },
+      {
+        "id": "img_p3_093",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img032.png"
+      },
+      {
+        "id": "img_p3_094",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img033.png"
+      },
+      {
+        "id": "img_p3_095",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0003/img034.png"
+      },
+      {
+        "id": "img_p6_096",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p6_097",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img001.png"
+      },
+      {
+        "id": "img_p6_098",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img002.png"
+      },
+      {
+        "id": "img_p6_099",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img003.png"
+      },
+      {
+        "id": "img_p6_100",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img004.png"
+      },
+      {
+        "id": "img_p6_101",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img005.png"
+      },
+      {
+        "id": "img_p6_102",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img006.png"
+      },
+      {
+        "id": "img_p6_103",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img007.png"
+      },
+      {
+        "id": "img_p6_104",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img008.png"
+      },
+      {
+        "id": "img_p6_105",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img009.png"
+      },
+      {
+        "id": "img_p6_106",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img010.png"
+      },
+      {
+        "id": "img_p6_107",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img011.png"
+      },
+      {
+        "id": "img_p6_108",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img012.png"
+      },
+      {
+        "id": "img_p6_109",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img013.png"
+      },
+      {
+        "id": "img_p6_110",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img014.png"
+      },
+      {
+        "id": "img_p6_111",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img015.png"
+      },
+      {
+        "id": "img_p6_112",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img016.png"
+      },
+      {
+        "id": "img_p6_113",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img017.png"
+      },
+      {
+        "id": "img_p6_114",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img018.png"
+      },
+      {
+        "id": "img_p6_115",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img019.png"
+      },
+      {
+        "id": "img_p6_116",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img020.png"
+      },
+      {
+        "id": "img_p6_117",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img021.png"
+      },
+      {
+        "id": "img_p6_118",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img022.png"
+      },
+      {
+        "id": "img_p6_119",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0006/img023.png"
+      },
+      {
+        "id": "img_p7_120",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p8_121",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img000.png"
+      },
+      {
+        "id": "img_p8_122",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img001.png"
+      },
+      {
+        "id": "img_p8_123",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img002.png"
+      },
+      {
+        "id": "img_p8_124",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img003.png"
+      },
+      {
+        "id": "img_p8_125",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img004.png"
+      },
+      {
+        "id": "img_p8_126",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img005.png"
+      },
+      {
+        "id": "img_p8_127",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img006.png"
+      },
+      {
+        "id": "img_p8_128",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img007.png"
+      },
+      {
+        "id": "img_p8_129",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img008.png"
+      },
+      {
+        "id": "img_p8_130",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img009.png"
+      },
+      {
+        "id": "img_p8_131",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img010.png"
+      },
+      {
+        "id": "img_p8_132",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img011.png"
+      },
+      {
+        "id": "img_p8_133",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img012.png"
+      },
+      {
+        "id": "img_p8_134",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img013.png"
+      },
+      {
+        "id": "img_p8_135",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img014.png"
+      },
+      {
+        "id": "img_p8_136",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img015.png"
+      },
+      {
+        "id": "img_p8_137",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img016.png"
+      },
+      {
+        "id": "img_p8_138",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img017.png"
+      },
+      {
+        "id": "img_p8_139",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img018.png"
+      },
+      {
+        "id": "img_p8_140",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img019.png"
+      },
+      {
+        "id": "img_p8_141",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img020.png"
+      },
+      {
+        "id": "img_p8_142",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img021.png"
+      },
+      {
+        "id": "img_p8_143",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img022.png"
+      },
+      {
+        "id": "img_p8_144",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img023.png"
+      },
+      {
+        "id": "img_p8_145",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img024.png"
+      },
+      {
+        "id": "img_p8_146",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0008/img025.png"
+      },
+      {
+        "id": "img_p9_147",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img000.png"
+      },
+      {
+        "id": "img_p9_148",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img001.png"
+      },
+      {
+        "id": "img_p9_149",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img002.png"
+      },
+      {
+        "id": "img_p9_150",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img003.png"
+      },
+      {
+        "id": "img_p9_151",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img004.png"
+      },
+      {
+        "id": "img_p9_152",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img005.png"
+      },
+      {
+        "id": "img_p9_153",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img006.png"
+      },
+      {
+        "id": "img_p9_154",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img007.png"
+      },
+      {
+        "id": "img_p9_155",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img008.png"
+      },
+      {
+        "id": "img_p9_156",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img009.png"
+      },
+      {
+        "id": "img_p9_157",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img010.png"
+      },
+      {
+        "id": "img_p9_158",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img011.png"
+      },
+      {
+        "id": "img_p9_159",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img012.png"
+      },
+      {
+        "id": "img_p9_160",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img013.png"
+      },
+      {
+        "id": "img_p9_161",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img014.png"
+      },
+      {
+        "id": "img_p9_162",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0009/img015.png"
+      },
+      {
+        "id": "img_p19_163",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img000.png"
+      },
+      {
+        "id": "img_p19_164",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img001.png"
+      },
+      {
+        "id": "img_p19_165",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img002.png"
+      },
+      {
+        "id": "img_p19_166",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img003.png"
+      },
+      {
+        "id": "img_p19_167",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img004.png"
+      },
+      {
+        "id": "img_p19_168",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img005.png"
+      },
+      {
+        "id": "img_p19_169",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img006.png"
+      },
+      {
+        "id": "img_p19_170",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/images/page_0019/img007.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          395.1026916503906,
+          565.6819458007812,
+          418.7778625488281,
+          576.0856323242188
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "to-Video"
+      },
+      {
+        "id": "eq_p0_001",
+        "page": 0,
+        "bbox": [
+          466.04736328125,
+          547.3261108398438,
+          489.7225341796875,
+          557.7297973632812
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0000/eq_p0_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0000/eq_p0_001.tex",
+        "latex": null,
+        "text_hint": "to-Video"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          162.3087615966797,
+          484.5552978515625,
+          224.4231719970703,
+          509.7611083984375
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "+ (1 −t)X(i)"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          218.99267578125,
+          569.1862182617188,
+          393.00927734375,
+          595.6432495117188
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "L = Et,X0,X1 ∥uΘ(Xt, t) −(X1 −X0))∥"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          357.4938659667969,
+          121.99773406982422,
+          429.9273681640625,
+          137.06204223632812
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "ShareGPT-4o-Image"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          374.3280334472656,
+          158.5287322998047,
+          413.0936279296875,
+          173.59304809570312
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "NHR-Edit"
+      },
+      {
+        "id": "eq_p5_002",
+        "page": 5,
+        "bbox": [
+          353.97943115234375,
+          185.4438018798828,
+          433.4433898925781,
+          200.50811767578125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_002.tex",
+        "latex": null,
+        "text_hint": "GPT-Image-Edit-1.5M"
+      },
+      {
+        "id": "eq_p5_003",
+        "page": 5,
+        "bbox": [
+          368.77825927734375,
+          208.1265411376953,
+          418.6441650390625,
+          223.19085693359375
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_003.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_003.tex",
+        "latex": null,
+        "text_hint": "BLIP3-o 60K"
+      },
+      {
+        "id": "eq_p5_004",
+        "page": 5,
+        "bbox": [
+          366.185546875,
+          226.7141571044922,
+          420.8233947753906,
+          241.95578002929688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_004.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_004.tex",
+        "latex": null,
+        "text_hint": "Text-to-Image‡"
+      },
+      {
+        "id": "eq_p5_005",
+        "page": 5,
+        "bbox": [
+          366.6546630859375,
+          299.6068420410156,
+          420.3543395996094,
+          314.8493347167969
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_005.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0005/eq_p5_005.tex",
+        "latex": null,
+        "text_hint": "Text-to-Video‡"
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          114.66851806640625,
+          461.96588134765625,
+          158.60870361328125,
+          475.6817626953125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "<v1> Add a"
+      },
+      {
+        "id": "eq_p6_001",
+        "page": 6,
+        "bbox": [
+          159.42381286621094,
+          461.96588134765625,
+          210.38238525390625,
+          475.6817626953125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_001.tex",
+        "latex": null,
+        "text_hint": "<v1> Remove"
+      },
+      {
+        "id": "eq_p6_002",
+        "page": 6,
+        "bbox": [
+          208.1280059814453,
+          461.96588134765625,
+          258.2091369628906,
+          475.6817626953125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_002.tex",
+        "latex": null,
+        "text_hint": "<v1> Replace"
+      },
+      {
+        "id": "eq_p6_003",
+        "page": 6,
+        "bbox": [
+          257.0207824707031,
+          466.56011962890625,
+          305.84613037109375,
+          480.2760009765625
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_003.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_003.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_004",
+        "page": 6,
+        "bbox": [
+          312.8304443359375,
+          471.19256591796875,
+          394.8309020996094,
+          484.908447265625
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_004.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_004.tex",
+        "latex": null,
+        "text_hint": "mask <v2>. A woman is"
+      },
+      {
+        "id": "eq_p6_005",
+        "page": 6,
+        "bbox": [
+          415.8392028808594,
+          475.78668212890625,
+          482.9693603515625,
+          489.5025634765625
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_005.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_005.tex",
+        "latex": null,
+        "text_hint": "the first frame <i1>."
+      },
+      {
+        "id": "eq_p6_006",
+        "page": 6,
+        "bbox": [
+          111.37322235107422,
+          550.9397583007812,
+          210.16806030273438,
+          564.6555786132812
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_006.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_006.tex",
+        "latex": null,
+        "text_hint": "<v1> Insert a paper boat <i1>"
+      },
+      {
+        "id": "eq_p6_007",
+        "page": 6,
+        "bbox": [
+          211.7371368408203,
+          546.3456420898438,
+          254.6000518798828,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_007.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_007.tex",
+        "latex": null,
+        "text_hint": "<v1> Make"
+      },
+      {
+        "id": "eq_p6_008",
+        "page": 6,
+        "bbox": [
+          257.0204772949219,
+          546.3456420898438,
+          305.8458251953125,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_008.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_008.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_009",
+        "page": 6,
+        "bbox": [
+          305.28594970703125,
+          546.3456420898438,
+          354.1112976074219,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_009.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_009.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_010",
+        "page": 6,
+        "bbox": [
+          353.5511169433594,
+          546.3456420898438,
+          402.37646484375,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_010.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_010.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_011",
+        "page": 6,
+        "bbox": [
+          401.8162841796875,
+          546.3456420898438,
+          450.64166259765625,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_011.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_011.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_012",
+        "page": 6,
+        "bbox": [
+          455.176025390625,
+          546.3456420898438,
+          493.8122863769531,
+          560.0614624023438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_012.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_012.tex",
+        "latex": null,
+        "text_hint": "<v1> Add"
+      },
+      {
+        "id": "eq_p6_013",
+        "page": 6,
+        "bbox": [
+          454.9766540527344,
+          555.6105346679688,
+          494.0107116699219,
+          569.3263549804688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_013.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_013.tex",
+        "latex": null,
+        "text_hint": "time-lapse"
+      },
+      {
+        "id": "eq_p6_014",
+        "page": 6,
+        "bbox": [
+          214.75765991210938,
+          576.8096313476562,
+          249.66200256347656,
+          591.5853881835938
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_014.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_014.tex",
+        "latex": null,
+        "text_hint": "Pose-to-"
+      },
+      {
+        "id": "eq_p6_015",
+        "page": 6,
+        "bbox": [
+          260.1513671875,
+          576.8096313476562,
+          300.79840087890625,
+          591.5853881835938
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_015.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_015.tex",
+        "latex": null,
+        "text_hint": "Depth-to-"
+      },
+      {
+        "id": "eq_p6_016",
+        "page": 6,
+        "bbox": [
+          307.2201232910156,
+          576.8096313476562,
+          350.25994873046875,
+          591.5853881835938
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_016.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_016.tex",
+        "latex": null,
+        "text_hint": "Sketch-to-"
+      },
+      {
+        "id": "eq_p6_017",
+        "page": 6,
+        "bbox": [
+          112.22547149658203,
+          663.5353393554688,
+          161.05081176757812,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_017.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_017.tex",
+        "latex": null,
+        "text_hint": "<v1> Change"
+      },
+      {
+        "id": "eq_p6_018",
+        "page": 6,
+        "bbox": [
+          162.19546508789062,
+          663.5353393554688,
+          207.60043334960938,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_018.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_018.tex",
+        "latex": null,
+        "text_hint": "<v1> Detect"
+      },
+      {
+        "id": "eq_p6_019",
+        "page": 6,
+        "bbox": [
+          207.36192321777344,
+          663.5353393554688,
+          258.974365234375,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_019.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_019.tex",
+        "latex": null,
+        "text_hint": "<v1> A young"
+      },
+      {
+        "id": "eq_p6_020",
+        "page": 6,
+        "bbox": [
+          255.7246856689453,
+          663.5353393554688,
+          307.1411437988281,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_020.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_020.tex",
+        "latex": null,
+        "text_hint": "<v1> Colorful"
+      },
+      {
+        "id": "eq_p6_021",
+        "page": 6,
+        "bbox": [
+          308.04803466796875,
+          663.5353393554688,
+          351.3496398925781,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_021.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_021.tex",
+        "latex": null,
+        "text_hint": "<v1> Three"
+      },
+      {
+        "id": "eq_p6_022",
+        "page": 6,
+        "bbox": [
+          358.64569091796875,
+          663.5353393554688,
+          397.2819519042969,
+          677.2511596679688
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_022.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_022.tex",
+        "latex": null,
+        "text_hint": "<v1> Add"
+      },
+      {
+        "id": "eq_p6_023",
+        "page": 6,
+        "bbox": [
+          399.6694641113281,
+          677.3561401367188,
+          482.31292724609375,
+          691.0719604492188
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_023.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0006/eq_p6_023.tex",
+        "latex": null,
+        "text_hint": "shown in the mask <v2>."
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          217.7361602783203,
+          170.241455078125,
+          391.7742919921875,
+          186.76480102539062
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "Instruction-Guided (w/ End-to-End Training)"
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          115.34481811523438,
+          148.85826110839844,
+          255.57427978515625,
+          166.09954833984375
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "//stock.adobe.com/, 2025."
+      },
+      {
+        "id": "eq_p12_000",
+        "page": 12,
+        "bbox": [
+          115.34481811523438,
+          238.38511657714844,
+          400.5303955078125,
+          255.62640380859375
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_000.tex",
+        "latex": null,
+        "text_hint": "llava-vl.github.io/blog/2024-01-30-llava-next/."
+      },
+      {
+        "id": "eq_p12_001",
+        "page": 12,
+        "bbox": [
+          326.9001770019531,
+          459.5230712890625,
+          506.6217956542969,
+          476.764404296875
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_001.tex",
+        "latex": null,
+        "text_hint": "URL https://openai.com/index/"
+      },
+      {
+        "id": "eq_p12_002",
+        "page": 12,
+        "bbox": [
+          115.34481811523438,
+          470.4820861816406,
+          201.7762908935547,
+          487.7234191894531
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_002.tex",
+        "latex": null,
+        "text_hint": "hello-gpt-4o/."
+      },
+      {
+        "id": "eq_p12_003",
+        "page": 12,
+        "bbox": [
+          115.34481811523438,
+          533.2361450195312,
+          213.03408813476562,
+          550.4774169921875
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_003.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_003.tex",
+        "latex": null,
+        "text_hint": "Accessed: 2025-09-11."
+      },
+      {
+        "id": "eq_p12_004",
+        "page": 12,
+        "bbox": [
+          115.34481811523438,
+          718.0381469726562,
+          336.7696228027344,
+          735.2794189453125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_004.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0012/eq_p12_004.tex",
+        "latex": null,
+        "text_hint": "URL https://arxiv.org/abs/2410.13720."
+      },
+      {
+        "id": "eq_p13_000",
+        "page": 13,
+        "bbox": [
+          115.34483337402344,
+          268.3861389160156,
+          230.66783142089844,
+          285.6274719238281
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0013/eq_p13_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0013/eq_p13_000.tex",
+        "latex": null,
+        "text_hint": "org/abs/2408.00714."
+      },
+      {
+        "id": "eq_p17_000",
+        "page": 17,
+        "bbox": [
+          111.65617370605469,
+          651.3241577148438,
+          163.3682403564453,
+          666.1641845703125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0017/eq_p17_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0017/eq_p17_000.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-Image"
+      },
+      {
+        "id": "eq_p18_000",
+        "page": 18,
+        "bbox": [
+          150.1878204345703,
+          197.16026306152344,
+          188.90846252441406,
+          214.40155029296875
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_000.tex",
+        "latex": null,
+        "text_hint": "Pika-1.0"
+      },
+      {
+        "id": "eq_p18_001",
+        "page": 18,
+        "bbox": [
+          150.1878204345703,
+          251.95433044433594,
+          221.7850341796875,
+          269.1956481933594
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_001.tex",
+        "latex": null,
+        "text_hint": "Step-Video-T2V"
+      },
+      {
+        "id": "eq_p18_002",
+        "page": 18,
+        "bbox": [
+          112.80045318603516,
+          450.2101135253906,
+          157.25186157226562,
+          466.8016662597656
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_002.tex",
+        "latex": null,
+        "text_hint": "DALL-E 2"
+      },
+      {
+        "id": "eq_p18_003",
+        "page": 18,
+        "bbox": [
+          112.80045318603516,
+          459.8110656738281,
+          158.7705535888672,
+          476.4026184082031
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_003.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_003.tex",
+        "latex": null,
+        "text_hint": "Emu3-Gen"
+      },
+      {
+        "id": "eq_p18_004",
+        "page": 18,
+        "bbox": [
+          112.80045318603516,
+          479.0129699707031,
+          157.25186157226562,
+          495.6045227050781
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_004.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_004.tex",
+        "latex": null,
+        "text_hint": "DALL-E 3"
+      },
+      {
+        "id": "eq_p18_005",
+        "page": 18,
+        "bbox": [
+          112.80045318603516,
+          498.9043884277344,
+          167.97862243652344,
+          515.4959106445312
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_005.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0018/eq_p18_005.tex",
+        "latex": null,
+        "text_hint": "SD3-Medium"
+      },
+      {
+        "id": "eq_p19_000",
+        "page": 19,
+        "bbox": [
+          113.01436614990234,
+          115.80783081054688,
+          167.1393280029297,
+          131.67677307128906
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_000.tex",
+        "latex": null,
+        "text_hint": "Tune-A-Video"
+      },
+      {
+        "id": "eq_p19_001",
+        "page": 19,
+        "bbox": [
+          113.01436614990234,
+          191.04690551757812,
+          155.1746063232422,
+          206.9158477783203
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_001.tex",
+        "latex": null,
+        "text_hint": "Video-P2P"
+      },
+      {
+        "id": "eq_p19_002",
+        "page": 19,
+        "bbox": [
+          113.01436614990234,
+          209.02685546875,
+          152.84544372558594,
+          224.8957977294922
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0019/eq_p19_002.tex",
+        "latex": null,
+        "text_hint": "Fate-Zero"
+      },
+      {
+        "id": "eq_p20_000",
+        "page": 20,
+        "bbox": [
+          123.70001983642578,
+          131.55502319335938,
+          189.09701538085938,
+          145.70787048339844
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_000.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_000.tex",
+        "latex": null,
+        "text_hint": "ShareGPT-4o-Image"
+      },
+      {
+        "id": "eq_p20_001",
+        "page": 20,
+        "bbox": [
+          138.74021911621094,
+          205.63064575195312,
+          174.05691528320312,
+          219.7834930419922
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_001.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_001.tex",
+        "latex": null,
+        "text_hint": "NHR-Edit"
+      },
+      {
+        "id": "eq_p20_002",
+        "page": 20,
+        "bbox": [
+          120.68826293945312,
+          261.1871337890625,
+          192.10952758789062,
+          275.34002685546875
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_002.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_002.tex",
+        "latex": null,
+        "text_hint": "GPT-Image-Edit-1.5M"
+      },
+      {
+        "id": "eq_p20_003",
+        "page": 20,
+        "bbox": [
+          135.88258361816406,
+          309.4186096191406,
+          176.91513061523438,
+          323.5715026855469
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_003.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_003.tex",
+        "latex": null,
+        "text_hint": "BLIP3o-60k"
+      },
+      {
+        "id": "eq_p20_004",
+        "page": 20,
+        "bbox": [
+          268.24029541015625,
+          320.6453552246094,
+          482.7232360839844,
+          334.1402893066406
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_004.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_004.tex",
+        "latex": null,
+        "text_hint": "Text-to-Image data re-captioned using Qwen2-VL (from text-to-image-2M)."
+      },
+      {
+        "id": "eq_p20_005",
+        "page": 20,
+        "bbox": [
+          131.73365783691406,
+          332.1250915527344,
+          180.71707153320312,
+          346.2779846191406
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_005.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_005.tex",
+        "latex": null,
+        "text_hint": "Text-to-Image‡"
+      },
+      {
+        "id": "eq_p20_006",
+        "page": 20,
+        "bbox": [
+          279.3634338378906,
+          343.35186767578125,
+          471.59967041015625,
+          356.8468017578125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_006.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_006.tex",
+        "latex": null,
+        "text_hint": "Text-to-Image data generated by Flux-dev (from text-to-image-2M)."
+      },
+      {
+        "id": "eq_p20_007",
+        "page": 20,
+        "bbox": [
+          131.25624084472656,
+          532.4434814453125,
+          181.54112243652344,
+          546.5963134765625
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_007.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_007.tex",
+        "latex": null,
+        "text_hint": "Depth-to-Video"
+      },
+      {
+        "id": "eq_p20_008",
+        "page": 20,
+        "bbox": [
+          131.25624084472656,
+          543.6292114257812,
+          181.5411376953125,
+          557.7820434570312
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_008.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_008.tex",
+        "latex": null,
+        "text_hint": "Video-to-Depth"
+      },
+      {
+        "id": "eq_p20_009",
+        "page": 20,
+        "bbox": [
+          130.3378448486328,
+          554.8142700195312,
+          182.45948791503906,
+          568.9671020507812
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_009.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_009.tex",
+        "latex": null,
+        "text_hint": "Sketch-to-Video"
+      },
+      {
+        "id": "eq_p20_010",
+        "page": 20,
+        "bbox": [
+          130.3378448486328,
+          566.0,
+          182.45950317382812,
+          580.15283203125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_010.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_010.tex",
+        "latex": null,
+        "text_hint": "Video-to-Sketch"
+      },
+      {
+        "id": "eq_p20_011",
+        "page": 20,
+        "bbox": [
+          122.60002136230469,
+          577.185791015625,
+          190.19703674316406,
+          591.338623046875
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_011.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_011.tex",
+        "latex": null,
+        "text_hint": "First Frame-to-Video"
+      },
+      {
+        "id": "eq_p20_012",
+        "page": 20,
+        "bbox": [
+          133.61033630371094,
+          588.3715209960938,
+          179.1868133544922,
+          602.5243530273438
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_012.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_012.tex",
+        "latex": null,
+        "text_hint": "Pose-to-Video"
+      },
+      {
+        "id": "eq_p20_013",
+        "page": 20,
+        "bbox": [
+          133.61033630371094,
+          599.5572509765625,
+          179.18679809570312,
+          613.7100830078125
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_013.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_013.tex",
+        "latex": null,
+        "text_hint": "Video-to-Pose"
+      },
+      {
+        "id": "eq_p20_014",
+        "page": 20,
+        "bbox": [
+          132.4291534423828,
+          611.0786743164062,
+          180.02157592773438,
+          625.2315063476562
+        ],
+        "inline": false,
+        "path_png": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_014.png",
+        "path_tex": "2509.20360v1_EditVerse__Unifying_Image_and_Video_Editing_and_Generation_with_In-Context_Learning/equations/page_0020/eq_p20_014.tex",
+        "latex": null,
+        "text_hint": "Text-to-Video‡"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_002",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_003",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_004",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_005",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_006",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_007",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_008",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_009",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_010",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_011",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_012",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_013",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_014",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_015",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_016",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_017",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_018",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_019",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_020",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_021",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_022",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_023",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_024",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_025",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_026",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_027",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_028",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_029",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_030",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_031",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_032",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_033",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_034",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_035",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_036",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_037",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_038",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_039",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_040",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_041",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_042",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_043",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_044",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_045",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_046",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_047",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_048",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_049",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_050",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_051",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_052",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_053",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_054",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_055",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_056",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_057",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_058",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_059",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_060",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p3_061",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_062",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_063",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_064",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_065",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_066",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_067",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_068",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_069",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_070",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_071",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_072",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_073",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_074",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_075",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_076",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_077",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_078",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_079",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_080",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_081",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_082",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_083",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_084",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_085",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_086",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_087",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_088",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_089",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_090",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_091",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_092",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_093",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_094",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_095",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_002",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_004",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_005",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_096",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_097",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_098",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_099",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_100",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_101",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_102",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_103",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_104",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_105",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_106",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_107",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_108",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_109",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_110",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_111",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_112",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_113",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_114",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_115",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_116",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_117",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_118",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_119",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_001",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_002",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_003",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_004",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_005",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_006",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_007",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_008",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_009",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_010",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_011",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_012",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_013",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_014",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_015",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_016",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_017",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_018",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_019",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_020",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_021",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_022",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_023",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_120",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p8_121",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_122",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_123",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_124",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_125",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_126",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_127",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_128",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_129",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_130",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_131",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_132",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_133",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_134",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_135",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_136",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_137",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_138",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_139",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_140",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_141",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_142",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_143",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_144",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_145",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_146",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p9_147",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_148",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_149",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_150",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_151",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_152",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_153",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_154",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_155",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_156",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_157",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_158",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_159",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_160",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_161",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_162",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_000",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_001",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_002",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_003",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_004",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p13_000",
+      "page": 13
+    },
+    {
+      "type": "equation",
+      "id": "eq_p17_000",
+      "page": 17
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_000",
+      "page": 18
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_001",
+      "page": 18
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_002",
+      "page": 18
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_003",
+      "page": 18
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_004",
+      "page": 18
+    },
+    {
+      "type": "equation",
+      "id": "eq_p18_005",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p19_163",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_164",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_165",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_166",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_167",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_168",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_169",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_170",
+      "page": 19
+    },
+    {
+      "type": "equation",
+      "id": "eq_p19_000",
+      "page": 19
+    },
+    {
+      "type": "equation",
+      "id": "eq_p19_001",
+      "page": 19
+    },
+    {
+      "type": "equation",
+      "id": "eq_p19_002",
+      "page": 19
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_000",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_001",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_002",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_003",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_004",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_005",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_006",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_007",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_008",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_009",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_010",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_011",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_012",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_013",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_014",
+      "page": 20
+    }
+  ]
+}

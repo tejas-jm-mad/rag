@@ -1,0 +1,1194 @@
+{
+  "file": "2509.20341v1_Morphological Synthesizer for Ge'ez Language_ Addressing Morphological   Complexity and Resource Limitations.pdf",
+  "output_dir": "parser/2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations",
+  "text_file": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.3",
+    "title": "Morphological Synthesizer for Ge'ez Language: Addressing Morphological Complexity and Resource Limitations",
+    "author": "Gebrearegawi Gebremariam Gidey ; Hailay Kidu Teklehaymanot ; Gebregewergs Mezgebe Atsbha",
+    "subject": "RAIL 2024",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p3_000",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p5_001",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/images/page_0005/img000.png"
+      },
+      {
+        "id": "img_p10_002",
+        "kind": "xobject",
+        "page": 10,
+        "path": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/images/page_0010/img000.png"
+      },
+      {
+        "id": "img_p12_003",
+        "kind": "xobject",
+        "page": 12,
+        "path": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/images/page_0012/img000.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p1_000",
+        "page": 1,
+        "bbox": [
+          94.18482208251953,
+          199.34732055664062,
+          155.4132537841797,
+          217.79580688476562
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_000.tex",
+        "latex": null,
+        "text_hint": "ረጠነ/reTene/"
+      },
+      {
+        "id": "eq_p1_001",
+        "page": 1,
+        "bbox": [
+          94.18482208251953,
+          211.7003173828125,
+          158.16293334960938,
+          230.1488037109375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_001.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_001.tex",
+        "latex": null,
+        "text_hint": "ይረጥን/yreTn/"
+      },
+      {
+        "id": "eq_p1_002",
+        "page": 1,
+        "bbox": [
+          94.18482208251953,
+          224.0543212890625,
+          153.34103393554688,
+          242.5028076171875
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_002.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_002.tex",
+        "latex": null,
+        "text_hint": "ይርጥን/yrTn/"
+      },
+      {
+        "id": "eq_p1_003",
+        "page": 1,
+        "bbox": [
+          94.18482208251953,
+          236.4083251953125,
+          146.9051971435547,
+          254.8568115234375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_003.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_003.tex",
+        "latex": null,
+        "text_hint": "ርጢን/rTin/"
+      },
+      {
+        "id": "eq_p1_004",
+        "page": 1,
+        "bbox": [
+          324.5827941894531,
+          70.6707534790039,
+          528.3241577148438,
+          90.17355346679688
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_004.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_004.tex",
+        "latex": null,
+        "text_hint": "ing higher Ge’ez-Amharic, Ge’ez-Tigrinya or"
+      },
+      {
+        "id": "eq_p1_005",
+        "page": 1,
+        "bbox": [
+          316.9757995605469,
+          738.717529296875,
+          460.9146728515625,
+          757.171630859375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_005.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0001/eq_p1_005.tex",
+        "latex": null,
+        "text_hint": "1http://downloads.sil.org/legacy/pc-"
+      },
+      {
+        "id": "eq_p2_000",
+        "page": 2,
+        "bbox": [
+          316.11480712890625,
+          342.02874755859375,
+          528.1644287109375,
+          361.5315856933594
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0002/eq_p2_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0002/eq_p2_000.tex",
+        "latex": null,
+        "text_hint": "• Stem + subject-marker suﬀix = surface word"
+      },
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          69.38182067871094,
+          701.08984375,
+          294.5443115234375,
+          721.0808715820312
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "kill/, ሐዊር/to walk/, ሰጊድ/to Prostrate/, ፈቂድ/to al-"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          474.3309020996094,
+          653.2688598632812,
+          529.8186645507812,
+          672.7716674804688
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "The alpha-"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          69.38182067871094,
+          326.1037292480469,
+          292.8765869140625,
+          346.0958251953125
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "ቀተለ/qetele/+-ኩ/ku/: ቀተልኩ/qetelku/ (here, ለ/le/ is"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          69.3818130493164,
+          350.01470947265625,
+          135.4479217529297,
+          370.00579833984375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "SMS {ኩ/ku/})."
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          69.38182067871094,
+          495.2265625,
+          294.54644775390625,
+          515.2175903320312
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "ሐ/He/, ኀ/H/, አ/a/ and ዐ/A/ either at their begin-"
+      },
+      {
+        "id": "eq_p4_003",
+        "page": 4,
+        "bbox": [
+          69.05281829833984,
+          519.1365356445312,
+          292.8861083984375,
+          539.1275634765625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_003.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_003.tex",
+        "latex": null,
+        "text_hint": "(namely የ/ye/ and ወ/we/) at any positions of the"
+      },
+      {
+        "id": "eq_p4_004",
+        "page": 4,
+        "bbox": [
+          68.71381378173828,
+          676.3036499023438,
+          292.87628173828125,
+          696.294677734375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_004.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_004.tex",
+        "latex": null,
+        "text_hint": "‘ይቀትል’/yqetl/ has a valid aﬀix ‘ዎ’/wo/ to create a"
+      },
+      {
+        "id": "eq_p4_005",
+        "page": 4,
+        "bbox": [
+          244.42982482910156,
+          736.9547119140625,
+          294.54766845703125,
+          756.45751953125
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_005.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_005.tex",
+        "latex": null,
+        "text_hint": "This sub-"
+      },
+      {
+        "id": "eq_p4_006",
+        "page": 4,
+        "bbox": [
+          304.6578063964844,
+          130.44677734375,
+          528.1611938476562,
+          150.4378204345703
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_006.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_006.tex",
+        "latex": null,
+        "text_hint": "morphemes when the suﬀixes ከ/ke/, ኩ/ku/, ኪ"
+      },
+      {
+        "id": "eq_p4_007",
+        "page": 4,
+        "bbox": [
+          304.6578063964844,
+          142.40176391601562,
+          528.157470703125,
+          162.39280700683594
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_007.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_007.tex",
+        "latex": null,
+        "text_hint": "/ki/, ክን/kn/ or ክሙ/kmu/ are added to the end"
+      },
+      {
+        "id": "eq_p4_008",
+        "page": 4,
+        "bbox": [
+          304.6578063964844,
+          166.311767578125,
+          529.5457153320312,
+          186.3028106689453
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_008.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0004/eq_p4_008.tex",
+        "latex": null,
+        "text_hint": "bets, namely ቀ/QE/, ከ/ke/, or ገ/Ge/ (Lambdin,"
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          304.6578063964844,
+          273.90875244140625,
+          529.8186645507812,
+          293.89984130859375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "ሀ/he/, ሐ/He/, ኀ/H/, አ/a/ and ዐ/A/ either at their be-"
+      },
+      {
+        "id": "eq_p6_001",
+        "page": 6,
+        "bbox": [
+          304.6577453613281,
+          297.8187561035156,
+          528.1598510742188,
+          317.8098449707031
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_001.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_001.tex",
+        "latex": null,
+        "text_hint": "semi-vowel alphabets, namely የ/ye/ and ወ/we/ at"
+      },
+      {
+        "id": "eq_p6_002",
+        "page": 6,
+        "bbox": [
+          328.4524841308594,
+          632.3970947265625,
+          397.21923828125,
+          644.5956420898438
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_002.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_002.tex",
+        "latex": null,
+        "text_hint": "ሠረቀ/sereke/ ይሠርቅ/yserk/"
+      },
+      {
+        "id": "eq_p6_003",
+        "page": 6,
+        "bbox": [
+          397.5965270996094,
+          632.3970947265625,
+          432.04974365234375,
+          644.5956420898438
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_003.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_003.tex",
+        "latex": null,
+        "text_hint": "ይሥርቅ/ysrk/"
+      },
+      {
+        "id": "eq_p6_004",
+        "page": 6,
+        "bbox": [
+          433.9815368652344,
+          632.3970947265625,
+          468.5135192871094,
+          644.5956420898438
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_004.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_004.tex",
+        "latex": null,
+        "text_hint": "ይሥርቅ/ysrq/"
+      },
+      {
+        "id": "eq_p6_005",
+        "page": 6,
+        "bbox": [
+          470.3659973144531,
+          632.3970947265625,
+          501.55377197265625,
+          644.5956420898438
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_005.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_005.tex",
+        "latex": null,
+        "text_hint": "ሠሪቅ/seriq/"
+      },
+      {
+        "id": "eq_p6_006",
+        "page": 6,
+        "bbox": [
+          328.4524841308594,
+          638.9071655273438,
+          434.90570068359375,
+          651.105712890625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_006.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_006.tex",
+        "latex": null,
+        "text_hint": "ሐደገ/Hedege/ የሐድግ/yeHedg/ይሕድግ/yHdg/"
+      },
+      {
+        "id": "eq_p6_007",
+        "page": 6,
+        "bbox": [
+          433.9815368652344,
+          638.9071655273438,
+          505.1709289550781,
+          651.105712890625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_007.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_007.tex",
+        "latex": null,
+        "text_hint": "ይሕድግ/yHdq/ ሐዲግ/Hedig/"
+      },
+      {
+        "id": "eq_p6_008",
+        "page": 6,
+        "bbox": [
+          328.4524841308594,
+          645.417236328125,
+          397.03057861328125,
+          657.6157836914062
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_008.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_008.tex",
+        "latex": null,
+        "text_hint": "ለሐቀ/leHeqe/ ይልሕቅ/ylHq/"
+      },
+      {
+        "id": "eq_p6_009",
+        "page": 6,
+        "bbox": [
+          397.5965270996094,
+          645.417236328125,
+          502.54217529296875,
+          657.6157836914062
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_009.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0006/eq_p6_009.tex",
+        "latex": null,
+        "text_hint": "ይልሐቅ/ylHaq/ ይልሐቅ/ylHaq/ ልሒቅ/lHiq/"
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          69.38182067871094,
+          70.6707534790039,
+          294.2766418457031,
+          90.66180419921875
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "phemes ከረም/kerem/ and ነ/ne/ are concatenated,"
+      },
+      {
+        "id": "eq_p7_001",
+        "page": 7,
+        "bbox": [
+          69.38182067871094,
+          106.53575897216797,
+          294.54241943359375,
+          126.52680969238281
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_001.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_001.tex",
+        "latex": null,
+        "text_hint": "phemes አመን/amen/ + ነ/ne/, it gives አመንነ/ amen-"
+      },
+      {
+        "id": "eq_p7_002",
+        "page": 7,
+        "bbox": [
+          69.1328125,
+          238.6997833251953,
+          292.8782958984375,
+          258.6908264160156
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_002.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_002.tex",
+        "latex": null,
+        "text_hint": "verbs ወለደ/welede/ and ወቀሰ/weqese/, we assume"
+      },
+      {
+        "id": "eq_p7_003",
+        "page": 7,
+        "bbox": [
+          137.4428253173828,
+          379.58270263671875,
+          183.47735595703125,
+          392.7463684082031
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_003.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_003.tex",
+        "latex": null,
+        "text_hint": "ተከብበ/tekebbe/"
+      },
+      {
+        "id": "eq_p7_004",
+        "page": 7,
+        "bbox": [
+          226.60462951660156,
+          379.58270263671875,
+          264.94012451171875,
+          392.7463684082031
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_004.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_004.tex",
+        "latex": null,
+        "text_hint": "ተከበ/tekebe/"
+      },
+      {
+        "id": "eq_p7_005",
+        "page": 7,
+        "bbox": [
+          137.4428253173828,
+          386.9951171875,
+          189.8434600830078,
+          400.1587829589844
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_005.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_005.tex",
+        "latex": null,
+        "text_hint": "ተከብበት/tekebbet/"
+      },
+      {
+        "id": "eq_p7_006",
+        "page": 7,
+        "bbox": [
+          226.60462951660156,
+          386.9951171875,
+          271.30621337890625,
+          400.1587829589844
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_006.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_006.tex",
+        "latex": null,
+        "text_hint": "ተከበት/tekebet/"
+      },
+      {
+        "id": "eq_p7_007",
+        "page": 7,
+        "bbox": [
+          137.4428253173828,
+          394.4068908691406,
+          185.30648803710938,
+          407.570556640625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_007.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_007.tex",
+        "latex": null,
+        "text_hint": "ተከብቡ/tekebbu/"
+      },
+      {
+        "id": "eq_p7_008",
+        "page": 7,
+        "bbox": [
+          226.60462951660156,
+          394.4068908691406,
+          266.7692565917969,
+          407.570556640625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_008.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_008.tex",
+        "latex": null,
+        "text_hint": "ተከቡ/tekebu/"
+      },
+      {
+        "id": "eq_p7_009",
+        "page": 7,
+        "bbox": [
+          137.4428253173828,
+          401.8193054199219,
+          183.5909423828125,
+          414.98297119140625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_009.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_009.tex",
+        "latex": null,
+        "text_hint": "ተከብባ/tekebba/"
+      },
+      {
+        "id": "eq_p7_010",
+        "page": 7,
+        "bbox": [
+          226.60462951660156,
+          401.8193054199219,
+          265.0536804199219,
+          414.98297119140625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_010.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_010.tex",
+        "latex": null,
+        "text_hint": "ተከባ/tekeba/"
+      },
+      {
+        "id": "eq_p7_011",
+        "page": 7,
+        "bbox": [
+          304.6578063964844,
+          196.3797607421875,
+          418.0581359863281,
+          215.88255310058594
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_011.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_011.tex",
+        "latex": null,
+        "text_hint": "EOTC…………Ethiopian"
+      },
+      {
+        "id": "eq_p7_012",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          220.73275756835938,
+          479.0984191894531,
+          240.2355499267578
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_012.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_012.tex",
+        "latex": null,
+        "text_hint": "TLM…………Two-Level Morphology"
+      },
+      {
+        "id": "eq_p7_013",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          233.1297607421875,
+          515.7208862304688,
+          252.63255310058594
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_013.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_013.tex",
+        "latex": null,
+        "text_hint": "NLP…………..Natural Language Processing"
+      },
+      {
+        "id": "eq_p7_014",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          257.9247131347656,
+          456.61273193359375,
+          277.42755126953125
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_014.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_014.tex",
+        "latex": null,
+        "text_hint": "POS………….Parts Of Speech"
+      },
+      {
+        "id": "eq_p7_015",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          270.3217468261719,
+          468.4981994628906,
+          289.8245849609375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_015.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_015.tex",
+        "latex": null,
+        "text_hint": "TAM…………Tense-Aspect-Mood"
+      },
+      {
+        "id": "eq_p7_016",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          282.7197265625,
+          488.6225891113281,
+          302.2225646972656
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_016.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_016.tex",
+        "latex": null,
+        "text_hint": "SMS………….Subject Marker Suﬀixes"
+      },
+      {
+        "id": "eq_p7_017",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          295.1167297363281,
+          482.5254821777344,
+          314.61956787109375
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_017.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_017.tex",
+        "latex": null,
+        "text_hint": "OMS…………Object Marker Suﬀixes"
+      },
+      {
+        "id": "eq_p7_018",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          307.51373291015625,
+          473.6687316894531,
+          327.0165710449219
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_018.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_018.tex",
+        "latex": null,
+        "text_hint": "IR…………….Information Retrieval"
+      },
+      {
+        "id": "eq_p7_019",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          319.9117431640625,
+          460.94647216796875,
+          339.4145812988281
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_019.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_019.tex",
+        "latex": null,
+        "text_hint": "CV……………Consonant-Vowel"
+      },
+      {
+        "id": "eq_p7_020",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          332.3087463378906,
+          429.6340026855469,
+          351.81158447265625
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_020.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_020.tex",
+        "latex": null,
+        "text_hint": "PER…………..Perfective"
+      },
+      {
+        "id": "eq_p7_021",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          344.70574951171875,
+          424.2940673828125,
+          364.2085876464844
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_021.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_021.tex",
+        "latex": null,
+        "text_hint": "IND…………..Indicative"
+      },
+      {
+        "id": "eq_p7_022",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          357.103759765625,
+          428.7274169921875,
+          376.6065979003906
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_022.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_022.tex",
+        "latex": null,
+        "text_hint": "SUB………….Subjective"
+      },
+      {
+        "id": "eq_p7_023",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          369.5007629394531,
+          417.091064453125,
+          389.00360107421875
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_023.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_023.tex",
+        "latex": null,
+        "text_hint": "JUS…………..Jussive"
+      },
+      {
+        "id": "eq_p7_024",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          381.89776611328125,
+          429.08612060546875,
+          401.4006042480469
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_024.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_024.tex",
+        "latex": null,
+        "text_hint": "ST……………Stem Type"
+      },
+      {
+        "id": "eq_p7_025",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          394.2957763671875,
+          426.96405029296875,
+          413.7986145019531
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_025.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_025.tex",
+        "latex": null,
+        "text_hint": "CAU………….Causative"
+      },
+      {
+        "id": "eq_p7_026",
+        "page": 7,
+        "bbox": [
+          314.61981201171875,
+          419.08978271484375,
+          511.7857666015625,
+          438.5926208496094
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_026.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0007/eq_p7_026.tex",
+        "latex": null,
+        "text_hint": "XML………….Extensible Markup Language"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          439.7008056640625,
+          515.0799560546875,
+          529.818603515625,
+          534.3635864257812
+        ],
+        "inline": false,
+        "path_png": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20341v1_Morphological_Synthesizer_for_Ge_ez_Language__Addressing_Morphological_Complexity_and_Resource_Limitations/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "Two-level morphol-"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "equation",
+      "id": "eq_p1_000",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_001",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_002",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_003",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_004",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_005",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_000",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_003",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_004",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_005",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_006",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_007",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_008",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_001",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_002",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_003",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_004",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_005",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_006",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_007",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_008",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_009",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_001",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_002",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_003",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_004",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_005",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_006",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_007",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_008",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_009",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_010",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_011",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_012",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_013",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_014",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_015",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_016",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_017",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_018",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_019",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_020",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_021",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_022",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_023",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_024",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_025",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_026",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p10_002",
+      "page": 10
+    },
+    {
+      "type": "image",
+      "id": "img_p12_003",
+      "page": 12
+    }
+  ]
+}

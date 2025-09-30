@@ -1,0 +1,1616 @@
+
+
+# [PAGE 1]
+A Comprehensive Evaluation of YOLO-based Deer Detection
+Performance on Edge Devices
+Bishal Adhikaria, Jiajia Lib, Eric S. Michelc, Jacob Dykesc, Te-Ming Paul Tsengd, Mary
+Love Tagerta and Dong Chena
+aDepartment of Agricultural and Biological Engineering, Mississippi State University, Starkville, MS, USA
+bDepartment of Electrical and Computer Engineering, Michigan State University, East Lansing, MI, USA
+cDepartment of Wildlife, Fisheries and Aquaculture, Mississippi State University, Starkville, MS, USA
+dDepartment of Plant and Soil Science, Mississippi State University, Starkville, MS, USA
+* Dong Chen is the corresponding author
+A R T I C L E I N F O
+Keywords:
+Deer
+Deer detection
+Wildlife management
+Edge devices
+YOLO object detection
+NVIDIA Jetson
+Raspberry Pi
+YOLOv8
+YOLOv9
+YOLOv10
+YOLOv11
+A B S T R A C T
+The escalating economic losses in agriculture due to deer intrusion, estimated to be in the hundreds of
+millions of dollars annually in the U.S., highlight the inadequacy of traditional mitigation strategies
+such as fencing, use of repellents, and conventional scare tactics. These methods are often labor-
+intensive, costly, and ineffective for modern farming systems. To address this challenge, there is
+a critical need for intelligent, autonomous solutions capable of real-time wildlife detection and
+deterrence. At the core of such systems lies accurate and efficient deer detection. But the progress in
+this field is impeded by a significant gap in the literature, mainly the lack of a domain-specific, practical
+dataset and limited study on the viability of deer detection systems on edge devices. Addressing
+this gap, this study presents a comprehensive evaluation of state-of-the-art deep learning models
+for deer detection in challenging real-world scenarios. The contributions of this work are threefold.
+First, we introduce a curated, publicly available dataset of 3,095 annotated images with bounding-
+box annotations of deer, derived from the Idaho Cameratraps project, representing challenging real-
+world scenarios. Second, we provide an extensive comparative analysis of 12 model variants across
+four recent YOLO architectures(v8, v9, v10, and v11). Finally, we benchmarked performance on a
+high-end NVIDIA RTX 5090 GPU and evaluated on two representative edge computing platforms:
+the CPU-based Raspberry Pi 5 and the GPU-accelerated NVIDIA Jetson AGX Xavier to assess
+feasibility for real-world field deployment. Results show that the real-time detection performance is
+not feasible in Raspberry Pi without hardware-specific model optimization, while NVIDIA Jetson
+provides greater than 30 FPS with GPU-accelerated inference on ‘s’ and ‘n’ series models. This
+study also reveals that smaller, architecturally advanced models such as YOLOv11n, YOLOv8s, and
+YOLOv9s offer the optimal balance of high accuracy (AP@.5 > 0.85) and computational efficiency
+(FPS > 30). To support further research, both the source code and datasets are publicly available at
+https://github.com/WinnerBishal/track-the-deer.
+1. Introduction
+The growing deer population across the United States is
+a serious challenge for farmers since they have to bear sig-
+nificant economic losses that arise from deer intrusion into
+farms where crops like corn, soybeans, cotton, and wheat
+are planted. For instance, the state of Mississippi is home to
+the largest deer density across the nation, where a survey of
+row crop producers revealed that 17,830 total acres of farm-
+land were affected by deer damage, resulting in an annual
+economic loss of staggering $4.6 million (Mills and Croft,
+2025). The issue extends to the whole of the U.S. as the
+research shows, the combined loss due to wildlife damage
+across corn, soybeans, wheat, and cotton was estimated to
+be $592.6 million (McKee et al., 2021) and another research
+identified that the primary wildlife species responsible for
+the most widespread and highest crop damage across the
+U.S. is white-tailed deer (Boyer et al., 2024).
+ba974@msstate.edu (B. Adhikari); lijiajia@msu.edu (J. Li);
+eric.michel@msstate.edu (E.S. Michel); jacob.dykes@msstate.edu (J.
+Dykes); t.tseng@msstate.edu (T.P. Tseng); mltagert@abe.msstate.edu
+(M.L. Tagert); dc2528@msstate.edu (D. Chen)
+ORCID(s):
+People have explored a variety of control methods to re-
+duce wildlife-related crop damage, such as fencing, hunting,
+trapping, and repellents. Each of these approaches, however,
+presents significant limitations in terms of cost, scalability,
+and long-term sustainability. Fencing is one of the most
+widely used deterrents, and high-tensile or electrified fences
+can be effective in reducing incursions by deer. However, the
+costs are prohibitive for large-scale agricultural operations,
+averaging $13,000 per mile, and ongoing maintenance is
+required to repair damage from storms, fallen trees, or deter-
+mined animals (Landguth et al., 2020). Moreover, persistent
+deer often learn to breach or circumvent barriers, reduc-
+ing effectiveness over time. Hunting and culling programs
+represent another strategy. Regulated hunting seasons can
+provide some localized relief, but they are typically seasonal
+and therefore do not allow for year-round mitigation of
+crop losses. More intensive culling programs may reduce
+populations more significantly, yet they often face public
+opposition, animal welfare concerns, and ecological debates
+about altering wildlife populations. These programs also
+require permits from relevant wildlife management agencies,
+limiting farmers’ autonomy and flexibility (Warren, 2011).
+Adhikari et al.: Preprint submitted to Elsevier
+Page 1 of 13
+arXiv:2509.20318v1  [cs.CV]  24 Sep 2025
+[FIGURE img_p0_000]
+
+[EQ eq_p0_000] -> see eq_p0_000.tex
+
+
+# [PAGE 2]
+Benchmarking YOLO Models for Deer Detection
+Trapping is often employed for wild pigs and can be effective
+when used strategically with large corral-style traps. Yet this
+method is highly labor-intensive, requiring constant moni-
+toring, baiting, and maintenance. Trapping also carries the
+risk of capturing non-target wildlife, raising both ecological
+and ethical concerns (Conover, 2001). In addition, while
+trapping may temporarily suppress populations in localized
+areas, wild pigs reproduce rapidly and reinvade treated lands,
+making trapping alone insufficient as a long-term solution.
+Repellents have also been widely studied, particularly for
+deer (el Hani and Conover, 1995). While chemical or odor-
+based repellents can temporarily reduce browsing pressure,
+they typically degrade quickly after rain, wind, or sun ex-
+posure and therefore require frequent reapplication. Overall,
+these approaches are largely reactive rather than proactive,
+addressing the problem only after damage has occurred.
+They are often unsustainable in the long term and may cause
+unnecessary stress, injury, or mortality to wildlife, raising
+ethical as well as ecological concerns (Dubois et al., 2017).
+Sustainable wildlife management that actively prevents
+deer from entering farms without lethal measures repre-
+sents a foundational solution to these challenges (Abed
+et al., 2025; Kovacs and Hajnal, 2024). Future systems can
+leverage advanced computer vision and deep learning tech-
+niques, most notably YOLO models (Terven et al., 2023),
+to achieve highly accurate and real-time identification of
+deer presence and movement (Sharma et al., 2024). Detailed
+outputs, such as the location of deer within an image or
+enhanced segmentation masks, can then trigger tailored,
+dynamic deterrents including species-specific sound or light
+emissions, or autonomous maneuvers by UAVs and UGVs
+(Roca et al., 2024). A common design pattern in emerging
+research involves a hierarchical process in which initial
+motion detection, often through Passive Infrared (PIR) sen-
+sors, activates more sophisticated vision-based models for
+animal detection. For example, S et al. (2025) integrated
+a convolutional neural network (CNN) to identify animals,
+which then activated non-lethal deterrents such as ultrasonic
+sounds, flashing lights, or sprinklers. Similarly, Mishra and
+Yadav (2024) employed a PIR sensor to trigger a Recur-
+rent Convolutional Neural Network (R-CNN), which in turn
+activated species-specific ultrasonic frequencies to mitigate
+habituation. More advanced systems have also been devel-
+oped for other species. For instance, R et al. (2025) designed
+a wild boar deterrent system that uses YOLOv5n (Jocher
+et al., 2020) to confirm presence before escalating deterrents
+from ultrasonic sound to predator scent (wolf urine) and
+vocalizations.
+Machine vision serves as the foundation for these emerg-
+ing deterrence systems, acting as the “eyes” for real-time
+deer detection. Among the available approaches, YOLO
+models have been preferred over two-stage detectors (e.g.,
+Faster R-CNN or EfficientDet), due to their balance of
+accuracy and speed, making them well-suited for field de-
+ployment (I et al., 2025; Li et al., 2023). For instance,
+I et al. (2025) demonstrated the superiority of YOLOv10
+over YOLOv5 for wildlife detection on an NVIDIA Jetson
+Nano, achieving a mAP@0.5 of 0.934. Similarly, Nishanth
+et al. (2024) implemented a YOLOv8m-based surveillance
+system on a Raspberry Pi, showing its feasibility on low-
+power edge devices. In a more recent application, Temes-
+gen et al. (2025) deployed a TensorRT-optimized YOLOv5
+model on an NVIDIA Jetson Orion Nano for a UAV-based
+deterrence system, achieving an inference time of only 0.025
+seconds per frame. Collectively, these studies affirm that the
+YOLO family of models has become the de facto standard
+for practical, high-performance wildlife detection systems
+on edge hardware.
+Despite recent advancements, most deer and wildlife de-
+tection studies continue to rely on private datasets or general-
+purpose object detection datasets. For instance, Abood et al.
+(2023) applied YOLOv5 to the PASCAL VOC dataset, while
+others utilized aggregated datasets from Roboflow Universe
+that include multiple animal classes (I et al., 2025; Nis-
+hanth et al., 2024). In deer-specific research, custom datasets
+have been used for detecting Sika deer from camera traps
+with YOLOv8n (Sharma et al., 2024) and for identifying
+various deer species from UAV imagery with YOLOv8-
+seg (Roca et al., 2025). However, these datasets are often
+limited to simplified scenarios focused on targeted deer
+populations and are generally not publicly available, making
+reproducibility and broad benchmarking difficult. Table 1
+summarizes representative studies, highlighting the critical
+need for publicly available, high-quality, domain-specific
+datasets that reflect the complex and variable conditions of
+real farms and fields.
+On the other hand, existing studies have primarily fo-
+cused on individual YOLO models, without providing com-
+prehensive benchmarking across architectures or systematic
+evaluations. In addition, most of the studies only evaluated
+the models’ performance on high-end GPU devices, and
+few works have examined performance on edge devices in
+terms of efficiency and effectiveness, which is critical for
+practical field deployment. To address these gaps, we present
+a publicly available dataset of 3,095 annotated deer images
+with bounding-box labels, derived from the Idaho Camera-
+traps project, representing challenging real-world scenarios.
+Using this dataset, we establish a comprehensive benchmark
+of YOLOv8–YOLOv11 models, evaluating performance not
+only on a high-end NVIDIA RTX 5090 GPU but also on
+resource-constrained platforms, including the CPU-based
+Raspberry Pi 5 and the GPU-accelerated NVIDIA Jetson
+AGX Xavier. This research is expected to provide a valuable
+resource for advancing machine vision systems for wildlife
+detection and control, as well as related applications in
+agriculture and beyond. The key contributions of this work
+are as follows:
+• An open-source dataset of 3,095 annotated deer im-
+ages with bounding-box labels, covering diverse en-
+vironmental conditions and lighting scenarios.
+• A comprehensive evaluation and benchmarking of
+four YOLO architectures (v8–v11), encompassing 12
+model variants for deer detection.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 2 of 13
+
+
+# [PAGE 3]
+Benchmarking YOLO Models for Deer Detection
+Table 1
+Dataset and deep learning models across deer detection literature (N/A = Not Accessible).
+Paper
+Year
+Dataset Size (No. of Images)
+Detection Model
+Method of Data Acquisition
+Data Availability
+Roca et al. (2025)
+2025
+39000
+YOLOv11, RT-DETR
+UAV Capture
+N/A
+Temesgen et al. (2025)
+2025
+N/A
+YOLOv5
+Roboflow
+Open Source
+Sharma et al. (2024)
+2024
+6400
+YOLOv8n
+Cameratrap
+N/A
+Nishanth et al. (2024)
+2024
+7000
+YOLOv8n
+Roboflow
+Open Source
+Yen et al. (2024)
+2024
+400
+YOLOv9
+Google Images
+N/A
+Roca et al. (2024)
+2024
+39000
+YOLOv8n-seg
+UAV Capture
+N/A
+Siddique and Ahmed (2023)
+2023
+1063
+YOLOv5, ResNet
+Mixed
+N/A
+Saraswathi et al. (2023)
+2023
+4000
+Custom, MobileNet, VGG
+N/A
+N/A
+Adami et al. (2021)
+2021
+1000
+YOLOv3, Tiny-YOLOv3
+Cameratrap
+N/A
+Arshad et al. (2020)
+2020
+N/A
+YOLOv3
+Manually
+N/A
+Munian et al. (2020)
+2020
+1067
+CNN+HOG Custom
+ThermalCam
+N/A
+• Inference benchmarking of the 12 YOLO model vari-
+ants on edge devices, including the CPU-based Rasp-
+berry Pi 5 and the GPU-accelerated NVIDIA Jetson
+AGX Xavier.
+This paper is organized as follows. Section 2 describes
+the data acquisition methods, model selection, training, test-
+ing, and inference metrics. Section 3 presents the model
+evaluation results, along with the limitations of the study.
+Finally, Section 4 provides concluding remarks and potential
+directions for future work.
+2. Materials and Methods
+This section describes the data acquisition process, the
+YOLO models employed, the training procedure, and the
+model evaluation strategy, followed by inference experi-
+ments conducted on edge devices.
+2.1. Data acquisition
+To enable a comprehensive comparison, we curated
+two deer image datasets. We first selected a dataset from
+Roboflow Universe containing annotated images of deer,
+which we refer to as the “Roboflow dataset” in subsequent
+discussions. As shown in Figure 1, the Roboflow dataset
+(Dyer, 2022) consists of 2,339 images of different deer
+species captured in diverse environments, mostly under
+favorable lighting conditions and with minimal motion, as
+is common in manually photographed images. The dataset
+was divided into 2,043 training images and 296 validation
+images. However, as shown in Figure 1, this type of dataset
+does not fully capture the challenges of real-world field
+conditions, such as low-light environments, motion blur,
+partial occlusion, and varying camera trap settings.
+To better represent these scenarios, we curated a second
+dataset from the Idaho Cameratraps project, shared by the
+Idaho Department of Fish and Game via the LILA BC online
+repository (Morris, 2022). The Cameratraps project contains
+over 1.5 million camera trap images collected from video
+sequences across multiple regions. While the original dataset
+provides only sequence-level labels without bounding-box
+annotations, we filtered approximately 7,000 images con-
+taining deer (confidence score > 0.9) and manually anno-
+tated 3,095 images with bounding boxes using the Computer
+Vision Annotation Tool (CVAT) (Corporation, 2024). This
+“Cameratrap dataset” was then divided into 2,578 training
+images and 517 validation images. Some representative sam-
+ples are shown in Figure 1.
+The two datasets differ significantly in complexity and
+realism. The Roboflow dataset consists of clean, manually
+photographed images of deer, mostly under good lighting
+and with limited motion or occlusion, making it more suit-
+able for baseline model training. In contrast, the Camer-
+atrap dataset captures deer under challenging real-world
+conditions, including varying backgrounds, night/low-light
+settings, occlusion, and camouflage. As shown in Figure 1,
+the Cameratrap dataset therefore provides a more realistic
+benchmark for evaluating model robustness in field deploy-
+ments.
+2.2. Deep learning models
+The You Only Look Once (YOLO) framework made
+a groundbreaking contribution to computer vision, partic-
+ularly in object detection, by introducing a single-pass ap-
+proach that framed detection as a regression problem. This
+innovation enabled real-time inference, which was lacking
+in other state-of-the-art models at the time (Redmon et al.,
+2016). Since then, the YOLO family has evolved rapidly,
+producing numerous variants that build on the original de-
+sign with architectural and performance enhancements (Ter-
+ven et al., 2023).
+Adhikari et al.: Preprint submitted to Elsevier
+Page 3 of 13
+
+
+# [PAGE 4]
+Benchmarking YOLO Models for Deer Detection
+Figure 1: Sample images from two sources: Roboflow Universe and Idaho Cameratraps.
+In this study, we focus on four recent versions, YOLOv8,
+YOLOv9, YOLOv10, and YOLOv11, for comparative bench-
+marking. The study is further constrained to the three most
+lightweight variants of each model family: nano (n), small
+(s), and medium (m). Notably, for YOLOv9, the tiny (t)
+variant was utilized because it has a similar parameter count
+as for nano-scale variants. YOLOv8 introduced notable
+improvements, including an anchor-free detection method
+for enhanced accuracy, architectural refinements in the back-
+bone and detection head to better capture objects of varying
+scales, and a decoupled head design that further improved
+precision (Yaseen, 2024; Varghese and M., 2024). We
+conclude our comparisons with YOLOv11, as subsequent
+models such as YOLOv12 shift toward attention-centric
+vision transformer architectures, representing a fundamen-
+tal departure from the CNN-based architectures of earlier
+YOLO versions (Tian et al., 2025).
+2.2.1. YOLOv8
+YOLOv8, developed by Ultralytics, represents a state-
+of-the-art object detection model that introduced several
+architectural improvements over its predecessor, YOLOv5
+(Hussain, 2024). One of its key innovations is anchor-free
+estimation, which accelerates post-processing, particularly
+Non-Maximum Suppression (NMS), for selecting prediction
+boxes (Solawetz and Francesco, 2024). Additionally, the
+model employs the CSPDarknet backbone, which reduces
+computational complexity while maintaining accuracy by
+splitting feature maps and incorporating the Sigmoid Lin-
+ear Unit (SiLU) activation function (Hussain, 2024). This
+design enhances gradient flow and feature reuse, result-
+ing in smaller, more efficient models well-suited for edge
+devices. Furthermore, YOLOv8 integrates a PANet neck,
+which improves multi-scale feature learning by augment-
+ing the traditional Feature Pyramid Network (FPN) with a
+bottom-up path alongside the top-down pathway (Reis et al.,
+2024). Another improvement is the C2f (Cross Stage Partial
+network with two fusion blocks) module, which captures
+complex patterns more effectively, further boosting model
+accuracy (Hussain, 2024; Talib et al., 2024). Ultralytics
+provides YOLOv8 in five sizes (“n”, “s”, “m”, “l”, and
+“x”), offering flexibility depending on accuracy and resource
+constraints. The smallest model, YOLOv8n, has 3.2 million
+parameters, while the largest, YOLOv8x, has approximately
+257.8 million parameters.
+2.2.2. YOLOv9
+YOLOv9 architecture marks a significant improvement
+over earlier YOLO versions in terms of speed and accuracy
+of object detection. A key challenge it addressed is the
+information bottleneck problem in deep neural networks,
+where gradients diminish or useful information is lost as
+they propagate through successive layers of large models. To
+overcome this, YOLOv9 introduced Programmable Gradient
+Information (PGI), which ensures more reliable gradient
+flow and enhances the network’s ability to learn from com-
+plex image features. As shown in Figure 2, PGI is imple-
+mented through a reversible auxiliary branch that updates the
+main branch by generating useful gradients through a super-
+vision mechanism. Moreover, YOLOv9 introduced the Gen-
+eralized Efficient Layer Aggregation Network (GELAN), an
+Adhikari et al.: Preprint submitted to Elsevier
+Page 4 of 13
+[FIGURE img_p3_001]
+
+
+# [PAGE 5]
+Benchmarking YOLO Models for Deer Detection
+Output (Detection)
+Backbone
+80 x 80 x 512
+40 x 40 x 512
+20 x 20 x 512
+Neck
+Path Aggregation Network (PAN)
+DETECT
+Generalized ELAN (GELAN)
+ Programmable
+Gradient Information
+(PGI)
+Input Image
+(640 x 640 x 3)
+Head
+Auxiliary
+Figure 2: Overview of YOLOv9 architecture (Hidayatullah and Tubagus, 2024).
+advancement over the original ELAN architecture. Unlike
+ELAN, which relied solely on convolutional blocks, GELAN
+can flexibly incorporate different computational blocks, im-
+proving both efficiency and generalization. Together, the
+integration of PGI and GELAN enables YOLOv9 to achieve
+robust gradient flow, efficient computation, and superior
+detection performance (Wang et al., 2024b; Parambil et al.,
+2024).
+2.2.3. YOLOv10
+YOLOv10 introduced several architectural innovations
+aimed at improving both efficiency and accuracy, while
+addressing key limitations in earlier YOLO versions (Wang
+et al., 2024a). One major issue identified in prior models
+was the reliance on Non-Maximum Suppression (NMS)
+during post-processing, which added computational over-
+head and delayed inference. To overcome this, YOLOv10
+adopted NMS-free training by incorporating a one-to-one
+prediction head alongside the traditional one-to-many head
+during training, allowing the network to optimize using both.
+However, at inference time, only the one-to-one head is
+used, which eliminates the need for NMS and enables faster,
+end-to-end deployment. Another notable improvement is
+the simplification of the classification head. The authors
+observed that the regression head plays a more critical
+role in YOLO performance, so the classification head was
+streamlined to reduce computational cost without sacrificing
+accuracy.
+YOLOv10 also redesigned its convolutional blocks to
+reduce redundancy. Traditional YOLO architectures used
+3×3 convolutions with a stride of 2 to simultaneously down-
+sample spatial dimensions (from H×W to H/2×W/2) and
+expand channels (from C to 2C). In contrast, YOLOv10
+decouples these operations: a pointwise convolution first
+handles channel transformations, followed by a depthwise
+convolution for spatial downsampling. This design signifi-
+cantly reduces computational overhead. To further enhance
+Table 2
+YOLO model variants used in this study.
+Model Name
+Parameters (millions)
+GFLOPs
+YOLOv8n
+3.01
+8.09
+YOLOv8s
+11.13
+28.44
+YOLOv8m
+25.84
+78.69
+YOLOv9t
+1.97
+7.60
+YOLOv9s
+7.17
+26.73
+YOLOv9m
+20.01
+76.51
+YOLOv10n
+2.27
+6.53
+YOLOv10s
+7.22
+21.41
+YOLOv10m
+15.31
+58.85
+YOLOv11n
+2.58
+6.31
+YOLOv11s
+9.41
+21.30
+YOLOv11m
+20.03
+67.65
+accuracy, YOLOv10 integrates partial self-attention and em-
+ploys improved large-kernel convolutions, particularly for
+lightweight models. Together, these modifications result in
+a more efficient and accurate object detection framework
+suitable for real-time applications.
+2.2.4. YOLOv11
+YOLOv11 represents the most recent advancement in
+the YOLO family, developed by Ultralytics as a more so-
+phisticated yet efficient model. It extends the versatility
+of YOLO by supporting multiple computer vision tasks,
+including object detection, instance segmentation, and pose
+estimation, while maintaining strong performance relative
+to its size (Khanam and Hussain, 2024). Built upon the
+YOLOv8 architecture, YOLOv11 introduces two key in-
+novations. The C2PSA (Cross Stage Partial with Spatial
+Attention) block enables the model to focus on the most
+relevant regions of an image, thereby improving its ability
+to detect small and occluded objects. Meanwhile, the C3k2
+Adhikari et al.: Preprint submitted to Elsevier
+Page 5 of 13
+[FIGURE img_p4_002]
+[FIGURE img_p4_003]
+
+
+# [PAGE 6]
+Benchmarking YOLO Models for Deer Detection
+(Cross Stage Partial with 3 Convolutions and 2 Kernels)
+block reduces computational complexity while preserving
+rich feature representations, making the model more efficient
+without compromising accuracy.
+Ultralytics maintains the YOLO family of models and
+provides open-source implementations of the versions they
+primarily developed, such as YOLOv8 and YOLOv11. In
+practice, YOLO models present a tradeoff between model
+size and reliability. Although they are widely applicable
+across various computer vision tasks, our study focuses
+specifically on their object detection capabilities. To cap-
+ture the balance between performance and computational
+efficiency, we selected the “n”, “s”, and “m” variants of
+each model. Among these, shown in Table 2, YOLOv8m is
+the largest, with 25.84 million parameters, while YOLOv9t
+is the smallest, with only 1.94 million parameters. As dis-
+cussed in earlier sections, each version incorporates differ-
+ent techniques for gradient flow, optimization, and image
+processing. By testing performance across a wide range of
+architectural variations and model sizes, we aim to provide
+deeper insights that support informed decision-making when
+selecting YOLO models for deer detection tasks.
+2.3. Training
+The YOLO models were trained on an NVIDIA GeForce
+RTX 5090 GPU with 32 GB of VRAM, a high-end platform
+well-suited for deep learning workloads. As summarized in
+Table 3, the training was conducted on a Linux machine with
+CUDA version 12.9. While the default training configura-
+tions provided by Ultralytics are effective, adjustments were
+made to better leverage the available hardware. In particular,
+the batch size and number of workers were tuned for different
+models based on their parameter size. Larger batch sizes
+enable faster training by improving GPU utilization (Gusak
+et al., 2022), but they are constrained by memory usage,
+especially for larger models. Therefore, careful experimen-
+tation was conducted to identify the optimal values for
+batch size and number of workers given the model size and
+available VRAM. All models were trained for a total of 100
+epochs under these optimized settings.
+2.4. Testing and performance evaluation
+In this subsection, we discuss the standard performance
+metrics that are used to evaluate the performance of deer
+detection models. In this study, the model needs to correctly
+identify the presence of deer in an image and localize them
+with bounding boxes. To quantify accuracy, we report preci-
+sion, recall, F1-score, and mean Average Precision (mAP).
+In addition, inference time is measured to assess computa-
+tional efficiency and the feasibility of real-time deployment.
+Intersection over Union (IoU): IoU is a widely adopted
+metric used to evaluate the correctness of detections pro-
+duced by an object detection model. The model is trained to
+predict bounding boxes around objects in an image, and IoU
+measures how closely these predictions match the ground-
+truth bounding boxes (Padilla et al., 2020).
+Precision (P): Precision quantifies the proportion of
+detections that are correct, i.e., true positives relative to all
+Table 3
+Specifications of device used for model training.
+Item
+Specification
+Value
+CPU
+Model
+AMD Ryzen Threadripper
+PRO 7965WX
+Cores
+24
+Threads
+48 processors (2 threads
+per core)
+Architecture
+x86_64
+Boost Clock
+5.3 GHz
+GPU
+Model
+NVIDIA GeForce RTX
+5090
+VRAM
+32 GB
+Power Limit
+600 W
+CUDA
+12.9
+Memory
+Total RAM
+125 GB
+Available RAM
+115 GB
+System
+Platform
+Linux
+predicted positives. In object detection, a detection is con-
+sidered a true positive if both the class label and localization
+(𝐼𝑜𝑈≥threshold) are correct.
+Recall (R): Recall measures the proportion of ground-
+truth objects correctly detected, i.e., true positives relative
+to all actual objects. Missed detections or those failing the
+IoU threshold contribute to false negatives.
+F1 Score: The F1-score is the harmonic mean of pre-
+cision and recall, providing a single balanced measure of
+detection accuracy at a given confidence threshold.
+AP (Average Precision): AP summarizes the tradeoff
+between precision and recall across confidence thresholds
+by computing the area under the precision–recall curve.
+Higher AP values indicate better overall detection perfor-
+mance (Padilla et al., 2020).
+Mean Average Precision (mAP): mAP is the mean of AP
+across all predicted classes. In this study, it reduces to the
+AP of the single “Deer” class. Commonly reported values in-
+clude mAP@0.5 (IoU threshold of 0.5) and mAP@0.5:0.95
+(averaged across thresholds from 0.5 to 0.95 with step size
+0.05).
+Inference Time: Inference time is the average time re-
+quired for a model to process an input image and generate de-
+tections. It reflects computational efficiency and determines
+the feasibility of real-time deployment.
+Processing Time: Processing time includes additional
+steps outside inference, such as image pre-processing, non-
+maximum suppression, and visualization of bounding boxes.
+Together with inference time, it determines the total detec-
+tion time. Combined with inference time, it defines the total
+detection time, expressed as: Total Time = Inference time+
+Processing Time.
+Frames Per Second (FPS): FPS is derived from total
+detection time and indicates the maximum frame rate achiev-
+able in live video applications on a given device.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 6 of 13
+
+
+# [PAGE 7]
+Benchmarking YOLO Models for Deer Detection
+Figure 3: Raspberry Pi 5 (left) and NVIDIA Jetson AGX Xavier
+(right).
+In this study, we use IoU, precision, recall, F1-score,
+AP, and mAP to measure detection accuracy, while inference
+time and processing time are used to evaluate computational
+speed. For a more detailed discussion of these metrics,
+readers are referred to Padilla et al. (2020).
+2.5. Inference on edge devices
+The YOLO models were trained on high-performance
+workstations, as described in Section 2.3. However, for
+applications such as deer detection, real-time identifica-
+tion and localization are essential for system effectiveness.
+One approach is to outsource inference to a cloud-based
+server, where live video frames are continuously transmitted
+and processed, with detection results returned to the client
+(Bandaru et al., 2024). However, such solutions often face
+challenges related to bandwidth requirements, latency, and
+network security.
+Edge computing provides an alternative by enabling
+local image or video processing, thereby reducing latency
+and ensuring rapid response. Performing all computation
+on the local device also creates an independent detection
+and tracking system, which is particularly advantageous in
+remote agricultural settings where reliable cloud connec-
+tivity cannot be guaranteed (Galliera and Suri, 2022). A
+wide range of off-the-shelf edge devices are available for
+such applications, including single-board computers (SBCs)
+such as the Raspberry Pi, NVIDIA Jetson platforms, USB
+accelerators, and mobile devices with embedded CPUs and
+GPUs (Alqahtani et al., 2024). In this study, we evaluate in-
+ference performance on two representative devices: a CPU-
+based Raspberry Pi and a GPU-accelerated NVIDIA Jetson
+platform (Figure 3).
+2.5.1. Raspberry Pi 5
+Raspberry Pi is a series of small single-board comput-
+ers that offer low-cost, small-sized hardware for comput-
+ing. They are often credit-card-sized but deliver excellent
+computing power for their size. In this study, we test the
+performance of trained models on Raspberry Pi 5, which
+is the newest model of the Raspberry Pi series, as shown
+in Figure 3. It features an onboard computer with a quad-
+core 64-bit Arm Cortex-A76 CPU. Raspberry Pi is widely
+used in applications like real-time image or video processing
+since it supports a dedicated Camera Serial Interface (CSI) .
+Moreover, it can operate on low power, making it suitable for
+remote deployment as an independent computer, able to get
+real-time data from the environment, such as the presence of
+deer in our case. For this study, a device with 16 GB system
+memory and the operating system Linux Ubuntu 22.04 was
+used.
+2.5.2. Jetson AGX Xavier
+NVIDIA Jetson AGX Xavier is a powerful edge de-
+vice designed explicitly to address the rigorous demands
+of robotics and edge AI applications. It is centered around
+a highly integrated System-on-Chip (SoC) that combines
+Volta GPU, ARM-based CPUs, and specialized hardware
+accelerators within a unified memory framework. The GPU
+incorporates 512 CUDA cores and 64 tensor cores, capable
+of delivering up to 11 TFLOPS (FP16) or 22 TOPS (INT8).
+It operates at a maximum frequency of 1.37 GHz with
+dynamic scaling, enabling fine-grained control of power and
+performance (Cetre et al., 2022). The tensor cores provide
+significant efficiency for AI workloads, as they are opti-
+mized for matrix multiply–accumulate (MMA) operations,
+which underpin most deep learning algorithms. Moreover,
+the AGX Xavier integrates dedicated accelerators such as
+Deep Learning Accelerators (DLA) and Programmable Vi-
+sion Accelerators (PVA), providing hardware-level support
+for diverse workloads in autonomous and embedded sys-
+tems. Moreover, this device, shown in Figure 3 (right),
+comes with a compact form factor of 4.2 x 4.2 x 4 inches.
+Together, these features make the Jetson AGX Xavier a
+versatile platform for real-time robotics and edge AI deploy-
+ment.
+2.5.3. Model deployment and optimization
+While powerful hardware provides the foundation for
+high-speed computing, the performance of AI models is
+equally dependent on their software implementations (Ravi
+et al., 2025). To fully exploit the capabilities of the edge
+devices, specialized software frameworks and optimizations
+are required. Ultralytics provides YOLO models with op-
+timizations for accuracy and speed; however, the default
+PyTorch (Paszke et al., 2019) exports are not always the
+most efficient for deployment on storage- and performance-
+constrained devices. To address this, several open-source
+model optimization methods enable faster inference without
+compromising accuracy. Common export and deployment
+formats include ONNX, OpenVINO, TorchScript, Tensor-
+Flow Lite, NCNN, and TensorRT (Iqbal et al., 2024). Each
+format supports different types of AI models while incorpo-
+rating optimizations to improve inference speed on specific
+hardware. In many cases, the creators of these model frame-
+works also provide dedicated runtime platforms to ensure
+efficient execution across devices.
+In this study, we evaluated the YOLO models on both de-
+vices by converting them to ONNX format. ONNX provides
+a framework-agnostic representation of deep learning mod-
+els as computation graphs, enabling portability across plat-
+forms (Joshua et al., 2025). Inference was performed using
+Adhikari et al.: Preprint submitted to Elsevier
+Page 7 of 13
+[FIGURE img_p6_004]
+
+
+# [PAGE 8]
+Benchmarking YOLO Models for Deer Detection
+Table 4
+Performance of models trained on the Roboflow dataset and tested on the Cameratraps dataset.
+Model
+Test Dataset
+Precision
+Recall
+mAP
+mAP@50_95
+YOLOv10s
+RoboFlow
+0.9868
+0.9594
+0.9910
+0.8484
+YOLOv11n
+0.9894
+0.9797
+0.9920
+0.8475
+YOLOv8n
+0.9867
+0.9847
+0.9918
+0.8365
+YOLOv10s
+Cameratraps
+0.9032
+0.5672
+0.7334
+0.5356
+YOLOv11n
+0.9306
+0.5934
+0.7395
+0.5341
+YOLOv8n
+0.9227
+0.5773
+0.7199
+0.5035
+Figure 4: Example deer detections using YOLOv11m on Cameratraps dataset.
+ONNX Runtime, a lightweight, high-performance engine
+that reduces deployment overhead and supports hardware-
+specific optimizations via execution providers (e.g., ARM
+CPUs or CUDA GPUs). These features make ONNX a
+widely adopted choice for efficient model deployment.
+3. Experiments and Results
+In this section, we first evaluate model performance
+when trained on the Roboflow dataset and tested on the
+Cameratraps dataset, highlighting the differences between
+an existing dataset and our curated dataset. We then present
+results obtained on a high-end GPU workstation, followed by
+inference performance on two representative edge devices.
+3.1. Cross-dataset evaluation
+To evaluate the contribution of our curated dataset,
+we performed a cross-dataset experiment on the high-end
+GPU (Table 3) by training models on the Roboflow dataset
+and testing them on the Cameratraps dataset. As shown
+in Table 4, all models achieved excellent performance
+when trained and tested on the Roboflow dataset, with
+YOLOv11n reaching an mAP of 0.9920 and mAP@50–95
+of 0.8475. However, when the same models were tested
+on the Cameratraps dataset, performance dropped sharply.
+For instance, YOLOv11n achieved only 0.7395 mAP and
+0.5341 mAP@50–95, despite its near-perfect results on
+Roboflow. This substantial performance gap highlights the
+limitations of existing datasets such as Roboflow, which
+consist mostly of clean, well-lit images, and do not capture
+the challenging conditions present in real-world scenarios.
+In contrast, the Cameratraps dataset includes varied lighting,
+occlusion, camouflage, and motion blur, making it a more
+realistic benchmark for wildlife detection. Figure 4 shows
+some successful detections by the YOLOv11m model on
+the Cameratraps testing dataset across different scenarios.
+These images are carefully curated difficult scenarios, but
+the model shows an impressive ability to handle varied
+lighting conditions, distances, and deer poses. Therefore,
+this evaluation confirms the necessity of using domain-
+representative datasets. For the remainder of this study, we
+adopt the Cameratraps dataset as the primary evaluation
+dataset to ensure that results reflect real-field applicability.
+3.2. Raspberry Pi 5 (CPU-based inference)
+Table 5 summarizes the performance of the YOLO mod-
+els on the Raspberry Pi 5. With only CPU support, in-
+ference times were orders of magnitude slower than on
+the benchmark GPU. Even the smallest model, YOLOv9t,
+required over 250 ms per inference, corresponding to fewer
+than 4 frames per second (FPS). Larger models, such as
+YOLOv8m, exceeded 1.5 seconds per frame. These low
+frame rates are inadequate for monitoring or tracking moving
+animals, making CPU-only deployment impractical for real-
+time applications on this class of hardware.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 8 of 13
+[FIGURE img_p7_005]
+
+[EQ eq_p7_000] -> see eq_p7_000.tex
+
+
+# [PAGE 9]
+Benchmarking YOLO Models for Deer Detection
+Table 5
+Performance and complexity of YOLO models on different edge devices.
+Model
+Inference (ms)
+FPS
+AP@0.5
+GFLOPs
+Params (M)
+Jetson
+Pi 5
+High-end GPU
+Jetson
+Pi 5
+Jetson
+Pi 5
+High-end GPU
+y11n
+15
+219
+1.4
+68
+5
+0.8677
+0.8351
+0.8439
+6.31
+2.58
+y10n
+13
+247
+1.2
+75
+4
+0.8056
+0.8149
+0.8056
+6.53
+2.27
+y9t
+18
+267
+1.8
+54
+4
+0.8367
+0.8447
+0.8368
+7.60
+1.97
+y8n
+13
+217
+1.4
+76
+5
+0.8397
+0.8711
+0.8411
+8.09
+3.01
+y11s
+28
+515
+1.7
+36
+2
+0.8581
+0.8869
+0.8581
+21.30
+9.41
+y10s
+25
+472
+1.4
+41
+2
+0.8588
+0.8933
+0.8601
+21.41
+7.22
+y9s
+30
+544
+2.0
+34
+2
+0.8657
+0.8710
+0.8657
+26.73
+7.17
+y8s
+23
+494
+1.6
+43
+2
+0.8699
+0.8670
+0.8699
+28.44
+11.13
+y10m
+54
+985
+1.8
+18
+1
+0.8512
+0.8597
+0.8512
+58.85
+15.31
+y11m
+65
+1702
+2.4
+15
+-
+0.8677
+0.8755
+0.8676
+67.65
+20.03
+y9m
+71
+1120
+2.6
+14
+-
+0.8760
+0.9008
+0.8760
+76.51
+20.01
+y8m
+55
+1075
+2.2
+18
+-
+0.8607
+0.8917
+0.8620
+78.69
+25.84
+Figure 5 shows the latency–reliability trade-off for YOLO
+models on the Raspberry Pi 5. The bar plot represents
+inference time (ms), while the line plot indicates AP@0.5.
+The results illustrate the inherent trade-off between detection
+accuracy and computational latency: smaller models, such
+as YOLOv9t, achieve lower latency but at the cost of
+reduced accuracy, whereas larger models like YOLOv8m
+and YOLOv11m provide higher accuracy but suffer from
+prohibitive inference times. This also highlights the chal-
+lenge of balancing model complexity and deployability on
+CPU-only edge devices.
+The performance results, detailed in Table 5, highlight
+the significant computational challenge this presents. While
+the detection accuracy (mAP@0.5) remains unchanged, as it
+is a function of the model’s weights, the inference times are
+orders of magnitude higher than on the benchmark GPU as
+evident from the table. Even the smallest model, YOLOv9t,
+required over 250 ms for a single inference, resulting in a de-
+tection speed of less than 4 frames per second (FPS). For the
+larger models, such as YOLOv8m, the total time exceeded
+1.5 seconds per frame. Such low frame rates are insufficient
+for monitoring or tracking moving animals, rendering most
+models impractical for any application requiring real-time
+responsiveness on this class of hardware.
+3.3. NVIDIA Jetson AGX Xavier
+(GPU-Accelerated Inference)
+As discussed above, CPU-based edge devices such as the
+Raspberry Pi 5 face severe latency constraints. In contrast, as
+shown in Table 5, the Jetson AGX Xavier achieved substan-
+tially lower inference times across all models, demonstrating
+the advantage of the Volta GPU architecture. The smallest
+models, such as YOLOv11n and YOLOv10n, delivered de-
+tection speeds exceeding 40 FPS, comfortably meeting the
+requirements for real-time video analysis. Even medium-
+sized models, including YOLOv11s and YOLOv8s, sus-
+tained performance above 20 FPS. Figure 6 further illus-
+trates the latency–reliability trade-off across models on the
+Jetson platform. Inference times remained below 70 ms even
+8n 11n 10n 9t 10s 8s 11s 9s 10m 8m 9m 11m
+YOLO Models
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Inference Time (ms)
+Inference Time
+AP@0.5
+0.82
+0.84
+0.86
+0.88
+0.90
+AP@0.5
+Figure 5: Latency-reliability trade-off across models on Rasp-
+berry Pi.
+for the larger models, while accuracy (AP@0.5) consistently
+stayed above 0.85. These results confirm that the Jetson can
+support both lightweight and medium-sized YOLO models
+with real-time throughput, a stark contrast to the Raspberry
+Pi.
+This level of throughput enables not only accurate de-
+tection but also continuous tracking and the ability to trigger
+dynamic, responsive deterrence. These results indicate that
+the full set of evaluated models can be effectively deployed
+on the NVIDIA Jetson AGX Xavier when combined with
+efficient preprocessing and post-processing pipelines.
+3.4. Comparative analysis of model performance
+Figure 7 provides a comparative evaluation of deer de-
+tection models across two edge devices. The time axis is
+shown on a logarithmic scale to accommodate the orders-
+of-magnitude difference in processing speed. Two distinct
+clusters of results are apparent: the NVIDIA Jetson models
+are concentrated in the low-latency region (below 200 ms),
+while the Raspberry Pi models are spread across a much
+Adhikari et al.: Preprint submitted to Elsevier
+Page 9 of 13
+
+
+# [PAGE 10]
+Benchmarking YOLO Models for Deer Detection
+8n 10n 11n 9t
+8s 10s 11s 9s 10m 8m 11m 9m
+YOLO Models
+0
+10
+20
+30
+40
+50
+60
+70
+Inference Time (ms)
+Inference Time
+AP@0.5
+0.81
+0.82
+0.83
+0.84
+0.85
+0.86
+0.87
+AP@0.5
+Figure 6: Latency-reliability trade-off across models on NVIDIA
+Jetson AGX Xavier.
+100
+500
+1000
+2000
+Total Time (ms) [Log Scale]
+0.84
+0.85
+0.86
+0.87
+0.88
+0.89
+0.90
+0.91
+0.92
+F1-Score
+Platform
+Jetson
+Pi
+Model
+y11n
+y9s
+y8m
+y10s
+y8s
+y9m
+y9t
+y8n
+y11s
+y10n
+y11m
+y10m
+Figure 7: Efficiency frontier in NVIDIA Jetson AGX Xavier
+(blue) and Raspberry Pi 5 (red).
+wider range, extending from 200 ms to nearly 2000 ms. Here,
+total time represents the sum of inference, preprocessing,
+and postprocessing times (see Section 2.4). As noted earlier,
+differences in total time relative to inference time are primar-
+ily attributable to software inefficiencies. The plot illustrates
+the “efficiency frontier” for each device, defined as the set
+of models offering the best accuracy for a given level of
+performance. On the Jetson, this frontier is nearly vertical,
+indicating that models can achieve high F1-scores without
+sacrificing latency. By contrast, the Raspberry Pi’s efficiency
+frontier is much more extended. Models from the m series in
+all YOLO versions fail to deliver adequate throughput, and
+even smaller models face latency challenges. Nevertheless,
+lightweight variants such as YOLOv8n and YOLOv11n
+achieve the best balance, sustaining competitive accuracy
+while remaining relatively efficient. This analysis highlights
+that for CPU-bound platforms like the Raspberry Pi, model
+selection must carefully balance accuracy against the prac-
+tical frame-rate requirements of real-time applications. In
+contrast, GPU-accelerated platforms such as the Jetson pro-
+vide greater flexibility, allowing higher accuracy models to
+be deployed without significant performance trade-offs.
+3.5. Discussion
+3.5.1. Choices of CPU or GPU edge devices
+The choice between CPU- and GPU-based edge devices
+depends largely on the requirements of the target application.
+CPU platforms, such as the Raspberry Pi, are low-cost,
+energy-efficient, and suitable for lightweight tasks where
+occasional or event-triggered detections are sufficient, for
+example, confirming the presence of a stationary animal
+or supporting long-term monitoring in power-constrained
+environments. By contrast, GPU-accelerated platforms, such
+as the NVIDIA Jetson AGX Xavier, are better suited for
+real-time applications that demand high-frame-rate video
+analysis, continuous tracking, and rapid decision-making.
+The Jetson provides the computational capacity to run larger
+models at interactive speeds, making it ideal for dynamic
+scenarios where animals are moving, and system responsive-
+ness is critical. In practice, the Raspberry Pi offers acces-
+sibility and low-power operation, while the Jetson delivers
+the performance necessary for advanced, real-time wildlife
+detection and deterrence. The decision between the two thus
+reflects a trade-off between efficiency, cost, and the level of
+intelligence required at the edge.
+3.5.2. Robustness to other species
+In this work, we curated the Cameratraps dataset, which
+covers a diverse and challenging range of environmental
+conditions (see Figure 1). However, the dataset is dominated
+by white-tailed deer, and thus the ability of the models to
+generalize to other deer species, or to avoid misclassifying
+non-deer animals as deer, has not yet been evaluated. For de-
+ployment in a real-world automatic deer deterrence system,
+robustness against such incorrect classifications is essential.
+Out-of-distribution (OOD) detection methods could be ap-
+plied to mitigate these risks (Liu et al., 2021). Achieving this
+will require additional studies, including the development
+of a multi-species dataset to rigorously test cross-species
+generalization and misclassification robustness.
+3.5.3. Real-world deployment
+Our evaluation on edge devices showed strong detection
+accuracy across platforms, but real-world deployment also
+requires speed, efficiency, and reliability. The NVIDIA Jet-
+son AGX Xavier offered a favorable balance of performance
+and accuracy, supporting real-time operation. In contrast,
+smaller low-power devices such as the Raspberry Pi 5 per-
+formed poorly with larger models, where high GFLOPs
+demands quickly overwhelmed the CPU. The study further
+indicates that simply converting PyTorch models to ONNX
+and running them with ONNX Runtime is insufficient for
+achieving real-time performance on the Raspberry Pi. Ad-
+ditional optimizations are necessary, including lightweight
+frameworks such as TensorFlow Lite and improvements
+in preprocessing and postprocessing pipelines (Iqbal et al.,
+Adhikari et al.: Preprint submitted to Elsevier
+Page 10 of 13
+
+[EQ eq_p9_000] -> see eq_p9_000.tex
+
+
+# [PAGE 11]
+Benchmarking YOLO Models for Deer Detection
+2024). To enable real-time deployment on constrained plat-
+forms like the Raspberry Pi 5, future efforts should focus
+on advanced model optimization techniques, more efficient
+inference engines, and lighter architectures. These measures
+are essential to minimize resource usage while maintaining
+acceptable detection performance in practical field settings.
+4. Conclusion
+In this paper, we introduced an open-source dataset
+of 3,095 annotated deer images with bounding-box labels,
+capturing diverse environmental conditions and lighting sce-
+narios. We benchmarked 12 model variants from four recent
+YOLO architectures (v8, v9, v10, and v11) and evaluated
+their performance on two representative edge devices: the
+CPU-based Raspberry Pi 5 and the GPU-powered NVIDIA
+Jetson AGX Xavier. Results showed that larger m-series
+models achieved the highest accuracy on high-end hard-
+ware, with mAP@0.5 scores exceeding 0.94. However, their
+computational demands made them unsuitable for real-time
+deployment on CPU-only devices such as the Raspberry Pi
+5, where performance dropped below 1 FPS. In contrast, the
+Jetson AGX Xavier provided an optimal balance, sustaining
+real-time processing speeds above 25 FPS while maintaining
+high detection accuracy (mAP@0.5 > 0.85). These findings
+demonstrate that GPU-accelerated hardware is a prerequisite
+for real-time wildlife tracking at the edge.
+Future work will focus on hardware-specific optimiza-
+tion techniques and lightweight frameworks such as Tensor-
+Flow Lite to further improve performance on constrained
+devices. Additionally, we plan to expand the dataset by
+collecting and annotating images that capture a wider range
+of challenging conditions, including adverse weather (e.g.,
+snow, heavy rain, fog), diverse agricultural landscapes (e.g.,
+cornfields, soybean fields), and a greater variety of deer
+species and behaviors.
+Authorship Contribution
+Bishal Adhikari: Conceptualization, Investigation, Soft-
+ware, Writing – Original Draft; Jiajia Li: Conceptualization,
+Writing – Original Draft; Eric S. Michel: Conceptualiza-
+tion, Writing - Review & Editing; Jacob Dykes: Concep-
+tualization, Writing - Review & Editing; Te-Ming Paul
+Tseng: Conceptualization, Writing - Review & Editing;
+Mary Love Tagert: Conceptualization, Writing - Review
+& Editing; Dong Chen: Conceptualization, Investigation,
+Supervision, Writing - Review & Editing.
+Acknowledgement
+We thank the Idaho Department of Fish and Game for
+making the Idaho Camera Traps dataset (Morris, 2022)
+publicly available for research.
+References
+N. Abed, R. Murgun, A. Deldari, S. Sankarannair, and M. V. Ramesh.
+Iot and ai-driven solutions for human-wildlife conflict: Advancing sus-
+tainable agriculture and biodiversity conservation. Smart Agricultural
+Technology, 10:100829, 2025.
+B. S. Z. Abood, M. B. M, Z. a. Almoussawi, N. Shilpa, and A. m. Shakir.
+Revolutionizing wildlife monitoring: A novel approach to camera trap
+image analysis with YOLOv5. In 2023 3rd International Conference
+on Mobile Networks and Wireless Communications (ICMNWC), pages
+1–6, 2023. doi: 10.1109/ICMNWC60182.2023.10435785. URL https:
+//ieeexplore.ieee.org/document/10435785.
+D. Adami, M. O. Ojo, and S. Giordano. Design, development and evaluation
+of an intelligent animal repelling system for crop protection based on
+embedded edge-ai. IEEE Access, 9:132125–132139, 2021. doi: 10.1109/
+ACCESS.2021.3114503.
+D. K. Alqahtani, A. Cheema, and A. N. Toosi. Benchmarking deep learning
+models for object detection on edge computing devices, 2024.
+URL
+https://arxiv.org/abs/2409.16808.
+B. Arshad, J. Barthelemy, E. Pilton, and P. Perez.
+Where is my deer?-
+wildlife tracking and counting via edge computing and deep learning. In
+2020 IEEE SENSORS, pages 1–4, 2020. doi: 10.1109/SENSORS47125.
+2020.9278802.
+J. Bandaru, N. Basa, P. Raghavendra, and A. Sirisha. Review on various
+techniques for wildlife monitoring and alerting systems.
+In 2024
+International Conference on Knowledge Engineering and Communi-
+cation Systems (ICKECS), volume 1, pages 1–5, 2024. doi: 10.1109/
+ICKECS61492.2024.10616522.
+URL https://ieeexplore.ieee.org/
+abstract/document/10616522.
+C. N. Boyer, L. Chen, G. Perez-Quesada, and S. A. Smith. Unwelcomed
+guests: Impact of deer harvest on corn and soybean wildlife damage.
+Crop Protection, 183:106753, 2024. ISSN 0261-2194. doi: 10.1016/
+j.cropro.2024.106753.
+URL https://www.sciencedirect.com/science/
+article/pii/S0261219424001819.
+C. Cetre, F. Ferreira, A. Sevin, R. Barrere, and D. Gratadour. Real-time high
+performance computing using a Jetson Xavier AGX. In 11th European
+Congress Embedded Real Time System ( ERTS2022 ), Toulouse, France,
+June 2022. URL https://hal.science/hal-03693764.
+M. R. Conover. Effect of hunting and trapping on wildlife damage. Wildlife
+Society Bulletin (1973-2006), 29(2):521–532, 2001. ISSN 00917648,
+19385463. URL http://www.jstor.org/stable/3784176.
+C. Corporation. Computer vision annotation tool (cvat), 2024.
+S. Dubois, N. Fenwick, E. A. Ryan, L. Baker, S. E. Baker, N. J. Beausoleil,
+S. Carter, B. Cartwright, F. Costa, C. Draper, et al.
+International
+consensus principles for ethical wildlife control. Conservation Biology,
+31(4):753–760, 2017.
+A. Dyer.
+Deer dataset.
+https://universe.roboflow.com/aidan-dyer/
+deer-iyhon,
+June
+2022.
+URL
+https://universe.roboflow.com/
+aidan-dyer/deer-iyhon.
+A. el Hani and M. Conover. Comparative analysis of deer repellents. 08
+1995.
+R. Galliera and N. Suri.
+Object detection at the edge: Off-the-shelf
+deep learning capable devices and accelerators.
+Procedia Computer
+Science, 205:239–248, 2022.
+ISSN 1877-0509.
+doi: https://doi.
+org/10.1016/j.procs.2022.09.025. URL https://www.sciencedirect.com/
+science/article/pii/S1877050922008900. 2022 International Conference
+on Military Communication and Information Systems (ICMCIS).
+J. Gusak, D. Cherniuk, A. Shilova, A. Katrutsa, D. Bershatsky, X. Zhao,
+L. Eyraud-Dubois, O. Shliazhko, D. Dimitrov, I. Oseledets, and O. Beau-
+mont.
+Survey on efficient training of large neural networks.
+In
+L. D. Raedt, editor, Proceedings of the Thirty-First International Joint
+Conference on Artificial Intelligence, IJCAI-22, pages 5494–5501. In-
+ternational Joint Conferences on Artificial Intelligence Organization, 7
+2022. doi: 10.24963/ijcai.2022/769. URL https://doi.org/10.24963/
+ijcai.2022/769. Survey Track.
+P. Hidayatullah and R. Tubagus. Yolov9 architecture explained, 2024. URL
+https://article.stunningvisionai.com/yolov9-architecture.
+M. Hussain. Yolov5, yolov8 and yolov10: The go-to detectors for real-time
+vision, 2024. URL https://arxiv.org/abs/2407.02988.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 11 of 13
+
+[EQ eq_p10_000] -> see eq_p10_000.tex
+
+[EQ eq_p10_001] -> see eq_p10_001.tex
+
+[EQ eq_p10_002] -> see eq_p10_002.tex
+
+[EQ eq_p10_003] -> see eq_p10_003.tex
+
+[EQ eq_p10_004] -> see eq_p10_004.tex
+
+[EQ eq_p10_005] -> see eq_p10_005.tex
+
+
+# [PAGE 12]
+Benchmarking YOLO Models for Deer Detection
+N. I, R. R, and T. V. Real-time wild animal detection using YOLOv10 algo-
+rithm. In 2025 International Conference on Wireless Communications
+Signal Processing and Networking (WiSPNET), pages 1–6, 2025. doi:
+10.1109/WiSPNET64060.2025.11005222.
+URL https://ieeexplore.
+ieee.org/abstract/document/11005222.
+U. Iqbal, T. Davies, and P. Perez. A review of recent hardware and software
+advances in gpu-accelerated edge-computing single-board computers
+(sbcs) for computer vision. Sensors, 24(15):4830, 2024.
+G. Jocher, A. Stoken, J. Borovec, L. Changyu, A. Hogan, L. Diaconu,
+J. Poznanski, L. Yu, P. Rai, R. Ferriday, et al. ultralytics/yolov5: v3.
+0. Zenodo, 2020.
+C. Joshua, S. Karkala, S. Hossain, M. Krishnapatnam, A. Aggarwal, Z. Za-
+hir, V. Pandhare, and V. Shah.
+Cross-platform optimization of onnx
+models for mobile and edge deployment.
+International Journal of
+Wireless Networks and Broadband Technologies, 06 2025.
+R. Khanam and M. Hussain. Yolov11: An overview of the key architectural
+enhancements, 2024. URL https://arxiv.org/abs/2410.17725.
+D. Kovacs and E. Hajnal. Current and potential new methods to prevent
+damage caused by wild animals in agricultural areas. In 2024 IEEE
+18th International Symposium on Applied Computational Intelligence
+and Informatics (SACI), pages 000105–000110, 2024.
+doi: 10.1109/
+SACI60582.2024.10619880.
+E. Landguth, A. Jakes, and M. Hebblewhite. Testing ‘wildlife friendly’fence
+modifications to manage wildlife and livestock movements. Technical
+Report FHWA/MT-20-001/9596-617, Montana Department of Trans-
+portation, Research Programs, 2020.
+S. Li, H. Zhang, and F. Xu. Intelligent detection method for wildlife based
+on deep learning. Sensors, 23(24):9669, 2023. ISSN 1424-8220. doi:
+10.3390/s23249669. URL https://www.mdpi.com/1424-8220/23/24/9669.
+Publisher: Multidisciplinary Digital Publishing Institute.
+J. Liu, Z. Shen, Y. He, X. Zhang, R. Xu, H. Yu, and P. Cui. Towards out-of-
+distribution generalization: A survey. arXiv preprint arXiv:2108.13624,
+2021.
+S. C. McKee, S. A. Shwiff, and A. M. Anderson. Estimation of wildlife
+damage from federal crop insurance data. Pest Management Science,
+77(1):406–416, 2021. ISSN 1526-4998. doi: 10.1002/ps.6031. URL
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.6031.
+_eprint:
+https://scijournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ps.6031.
+B. E. Mills and B. Croft. Deer impact on crop producers: A buck’s buck
+effect. Southern Ag Today, 10(2), 2025. URL https://southernagtoday.
+org/2025/05/21/deer-impact-on-crop-producers-a-bucks-buck-effect/.
+A. Mishra and K. K. Yadav. Smart animal repelling device: Utilizing iot and
+ai for effective anti-adaptive harmful animal deterrence. In BIO Web of
+Conferences, volume 82, page 05014. EDP Sciences, 2024.
+D. Morris.
+Idaho cameratraps dataset.
+https://lila.science/datasets/
+idaho-camera-traps/, June 2022. URL https://lila.science/datasets/
+idaho-camera-traps/.
+Y. Munian, A. Martinez-Molina, and M. Alamaniotis.
+Intelligent sys-
+tem for detection of wild animals using hog and cnn in automobile
+applications. In 2020 11th International Conference on Information,
+Intelligence, Systems and Applications (IISA, pages 1–8, 2020.
+doi:
+10.1109/IISA50023.2020.9284365.
+K. Nishanth, E. Jayasuriyaa, M. Ajey Prasand, S. Shri Pranav, and
+N. Lalithamani. Yolov8-powered surveillance: Safeguarding crops from
+wildlife and fire hazards.
+In 2024 15th International Conference on
+Computing Communication and Networking Technologies (ICCCNT),
+pages 1–7, 2024. doi: 10.1109/ICCCNT61001.2024.10726246.
+R. Padilla, S. L. Netto, and E. A. Da Silva. A survey on performance metrics
+for object-detection algorithms. In 2020 international conference on
+systems, signals and image processing (IWSSIP), pages 237–242. IEEE,
+2020.
+M. M. A. Parambil, L. Ali, M. Swavaf, S. Bouktif, M. Gochoo, H. Aljassmi,
+and F. Alnajjar. Navigating the yolo landscape: A comparative study
+of object detection models for emotion recognition. IEEE Access, 12:
+109427–109442, 2024. doi: 10.1109/ACCESS.2024.3439346.
+A. Paszke, S. Gross, F. Massa, A. Lerer, J. Bradbury, G. Chanan, T. Killeen,
+Z. Lin, N. Gimelshein, L. Antiga, et al. Pytorch: An imperative style,
+high-performance deep learning library. Advances in neural information
+processing systems, 32, 2019.
+L. R. S. R, S. K. S, and S. V. Real-time wild animal intrusion detection and
+repellent system using yolov5n and predator scent. In 2025 6th Inter-
+national Conference on Inventive Research in Computing Applications
+(ICIRCA), pages 1729–1735, 2025. doi: 10.1109/ICIRCA65293.2025.
+11089670.
+N. Ravi, A. Goel, J. C. Davis, and G. K. Thiruvathukal.
+Improving
+the reproducibility of deep learning software: An initial investigation
+through a case study analysis, 2025. URL https://arxiv.org/abs/2505.
+03165.
+J. Redmon, S. Divvala, R. Girshick, and A. Farhadi. You only look once:
+Unified, real-time object detection, 2016. URL https://arxiv.org/abs/
+1506.02640.
+D. Reis, J. Kupec, J. Hong, and A. Daoudi. Real-time flying object detection
+with yolov8, 2024. URL https://arxiv.org/abs/2305.09972.
+A. Roca, G. Torre, J. I. Giribet, G. Castro, L. Colombo, I. Mas,
+and J. Pereira.
+Efficient endangered deer species monitoring with
+uav aerial imagery and deep learning.
+In 2024 IEEE Biennial
+Congress of Argentina (ARGENCON), pages 1–8, 2024. doi: 10.1109/
+ARGENCON62399.2024.10735858.
+A. Roca, G. Castro, G. Torre, L. J. Colombo, I. Mas, J. Pereira, and J. I.
+Giribet. Detection of endangered deer species using uav imagery: A
+comparative study between efficient deep learning approaches. In 2025
+International Conference on Unmanned Aircraft Systems (ICUAS), page
+83–90. IEEE, May 2025.
+doi: 10.1109/icuas65942.2025.11007886.
+URL http://dx.doi.org/10.1109/ICUAS65942.2025.11007886.
+G. S, S. G. A, V. B, and K. T. Rao. Iot-based system for humane animal
+deterrence and sustainable crop management.
+In 2025 3rd Interna-
+tional Conference on Intelligent Data Communication Technologies and
+Internet of Things (IDCIoT), pages 770–775, 2025.
+doi: 10.1109/
+IDCIOT64235.2025.10915026.
+R. Saraswathi, G. Shobarani, A. Subramani, and D. Tamilarasan. Applying
+deep learning and transfer learning techniques for improving animal in-
+trusion detection in agriculture farms. In 2023 International Conference
+on Data Science, Agents & Artificial Intelligence (ICDSAAI), pages 1–6,
+2023. doi: 10.1109/ICDSAAI59313.2023.10452442.
+S. Sharma, B. Pansri, S. Timilsina, B. P. Gautam, Y. Okada, S. Watanabe,
+S. Kondo, and K. Sato.
+Developing an alert system for agricultural
+protection: Sika deer detection using raspberry pi. Electronics, 13(23),
+2024.
+ISSN 2079-9292.
+doi: 10.3390/electronics13234852.
+URL
+https://www.mdpi.com/2079-9292/13/23/4852.
+M. J. Siddique and K. R. Ahmed. Ddm: Study of deer detection and move-
+ment using deep learning techniques. In 2023 IEEE 15th International
+Symposium on Autonomous Decentralized System (ISADS), pages 1–8,
+2023. doi: 10.1109/ISADS56919.2023.10091943.
+J. Solawetz and Francesco. What is yolov8? a complete guide. Roboflow
+Blog, October 2024. URL https://blog.roboflow.com/what-is-yolov8/.
+M. Talib, A. Al-Noori, and J. Suad. Yolov8-cab: Improved yolov8 for real-
+time object detection. Karbala International Journal of Modern Science,
+10, 01 2024. doi: 10.33640/2405-609X.3339.
+E. Temesgen, M. Jerez, G. Brown, G. Wilson, S. G. L. Divakarla, S. Boelter,
+O. Nelson, R. McPherson, and M. Gini. Geofenced unmanned aerial
+robotic defender for deer detection and deterrence (guard), 2025. URL
+https://arxiv.org/abs/2505.10770.
+J. Terven, D.-M. Córdova-Esparza, and J.-A. Romero-González. A compre-
+hensive review of yolo architectures in computer vision: From yolov1 to
+yolov8 and yolo-nas. Machine learning and knowledge extraction, 5(4):
+1680–1716, 2023.
+Y. Tian, Q. Ye, and D. Doermann. Yolov12: Attention-centric real-time
+object detectors, 2025. URL https://arxiv.org/abs/2502.12524.
+R. Varghese and S. M. Yolov8: A novel object detection algorithm with en-
+hanced performance and robustness. In 2024 International Conference
+on Advances in Data Engineering and Intelligent Computing Systems
+(ADICS), pages 1–6, 2024. doi: 10.1109/ADICS58448.2024.10533619.
+A. Wang, H. Chen, L. Liu, K. Chen, Z. Lin, J. Han, and G. Ding. Yolov10:
+Real-time end-to-end object detection, 2024a. URL https://arxiv.org/
+abs/2405.14458.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 12 of 13
+
+[EQ eq_p11_000] -> see eq_p11_000.tex
+
+[EQ eq_p11_001] -> see eq_p11_001.tex
+
+[EQ eq_p11_002] -> see eq_p11_002.tex
+
+[EQ eq_p11_003] -> see eq_p11_003.tex
+
+[EQ eq_p11_004] -> see eq_p11_004.tex
+
+[EQ eq_p11_005] -> see eq_p11_005.tex
+
+[EQ eq_p11_006] -> see eq_p11_006.tex
+
+[EQ eq_p11_007] -> see eq_p11_007.tex
+
+[EQ eq_p11_008] -> see eq_p11_008.tex
+
+[EQ eq_p11_009] -> see eq_p11_009.tex
+
+
+# [PAGE 13]
+Benchmarking YOLO Models for Deer Detection
+C.-Y. Wang, I.-H. Yeh, and H.-Y. M. Liao. Yolov9: Learning what you
+want to learn using programmable gradient information, 2024b. URL
+https://arxiv.org/abs/2402.13616.
+R. Warren. Deer overabundance in the usa: recent advances in population
+control. Animal Production Science, 51:259–266, 04 2011. doi: 10.
+1071/AN10214.
+M. Yaseen. What is yolov8: An in-depth exploration of the internal features
+of the next-generation object detector, 2024. URL https://arxiv.org/
+abs/2408.15857.
+J.-J. Yen, Y.-H. Pan, and C.-H. Wang. Deer species and gender detection
+system based on yolo v9. In 2024 International Conference on Con-
+sumer Electronics - Taiwan (ICCE-Taiwan), pages 463–464, 2024. doi:
+10.1109/ICCE-Taiwan62264.2024.10674650.
+Adhikari et al.: Preprint submitted to Elsevier
+Page 13 of 13
+
+[EQ eq_p12_000] -> see eq_p12_000.tex

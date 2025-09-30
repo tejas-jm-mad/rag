@@ -1,0 +1,4117 @@
+{
+  "file": "2509.20328v1_Video models are zero-shot learners and reasoners.pdf",
+  "output_dir": "parser/2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners",
+  "text_file": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "Video models are zero-shot learners and reasoners",
+    "author": "Thaddäus Wiedemer; Yuxuan Li; Paul Vicol; Shixiang Shane Gu; Nick Matarese; Kevin Swersky; Been Kim; Priyank Jaini; Robert Geirhos",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p1_001",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p1_002",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img001.png"
+      },
+      {
+        "id": "img_p1_003",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img002.png"
+      },
+      {
+        "id": "img_p1_004",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img003.png"
+      },
+      {
+        "id": "img_p1_005",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img004.png"
+      },
+      {
+        "id": "img_p1_006",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img005.png"
+      },
+      {
+        "id": "img_p1_007",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img006.png"
+      },
+      {
+        "id": "img_p1_008",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0001/img007.png"
+      },
+      {
+        "id": "img_p2_009",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p2_010",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img001.png"
+      },
+      {
+        "id": "img_p2_011",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img002.png"
+      },
+      {
+        "id": "img_p2_012",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img003.png"
+      },
+      {
+        "id": "img_p2_013",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img004.png"
+      },
+      {
+        "id": "img_p2_014",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img005.png"
+      },
+      {
+        "id": "img_p2_015",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img006.png"
+      },
+      {
+        "id": "img_p2_016",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img007.png"
+      },
+      {
+        "id": "img_p2_017",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img008.png"
+      },
+      {
+        "id": "img_p2_018",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img009.png"
+      },
+      {
+        "id": "img_p2_019",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img010.png"
+      },
+      {
+        "id": "img_p2_020",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img011.png"
+      },
+      {
+        "id": "img_p2_021",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img012.png"
+      },
+      {
+        "id": "img_p2_022",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img013.png"
+      },
+      {
+        "id": "img_p2_023",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img014.png"
+      },
+      {
+        "id": "img_p2_024",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img015.png"
+      },
+      {
+        "id": "img_p2_025",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img016.png"
+      },
+      {
+        "id": "img_p2_026",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img017.png"
+      },
+      {
+        "id": "img_p2_027",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img018.png"
+      },
+      {
+        "id": "img_p2_028",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img019.png"
+      },
+      {
+        "id": "img_p2_029",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img020.png"
+      },
+      {
+        "id": "img_p2_030",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img021.png"
+      },
+      {
+        "id": "img_p2_031",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img022.png"
+      },
+      {
+        "id": "img_p2_032",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0002/img023.png"
+      },
+      {
+        "id": "img_p4_033",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p4_034",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0004/img001.png"
+      },
+      {
+        "id": "img_p4_035",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0004/img002.png"
+      },
+      {
+        "id": "img_p5_036",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img000.png"
+      },
+      {
+        "id": "img_p5_037",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img001.png"
+      },
+      {
+        "id": "img_p5_038",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img002.png"
+      },
+      {
+        "id": "img_p5_039",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img003.png"
+      },
+      {
+        "id": "img_p5_040",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img004.png"
+      },
+      {
+        "id": "img_p5_041",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0005/img005.png"
+      },
+      {
+        "id": "img_p6_042",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p6_043",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img001.png"
+      },
+      {
+        "id": "img_p6_044",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img002.png"
+      },
+      {
+        "id": "img_p6_045",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img003.png"
+      },
+      {
+        "id": "img_p6_046",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img004.png"
+      },
+      {
+        "id": "img_p6_047",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img005.png"
+      },
+      {
+        "id": "img_p6_048",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0006/img006.png"
+      },
+      {
+        "id": "img_p7_049",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p7_050",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0007/img001.png"
+      },
+      {
+        "id": "img_p7_051",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0007/img002.png"
+      },
+      {
+        "id": "img_p7_052",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0007/img003.png"
+      },
+      {
+        "id": "img_p8_053",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0008/img000.png"
+      },
+      {
+        "id": "img_p8_054",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0008/img001.png"
+      },
+      {
+        "id": "img_p15_055",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img000.png"
+      },
+      {
+        "id": "img_p15_056",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img001.png"
+      },
+      {
+        "id": "img_p15_057",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img002.png"
+      },
+      {
+        "id": "img_p15_058",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img003.png"
+      },
+      {
+        "id": "img_p15_059",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img004.png"
+      },
+      {
+        "id": "img_p15_060",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img005.png"
+      },
+      {
+        "id": "img_p15_061",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img006.png"
+      },
+      {
+        "id": "img_p15_062",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img007.png"
+      },
+      {
+        "id": "img_p15_063",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img008.png"
+      },
+      {
+        "id": "img_p15_064",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img009.png"
+      },
+      {
+        "id": "img_p15_065",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img010.png"
+      },
+      {
+        "id": "img_p15_066",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0015/img011.png"
+      },
+      {
+        "id": "img_p16_067",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img000.png"
+      },
+      {
+        "id": "img_p16_068",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img001.png"
+      },
+      {
+        "id": "img_p16_069",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img002.png"
+      },
+      {
+        "id": "img_p16_070",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img003.png"
+      },
+      {
+        "id": "img_p16_071",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img004.png"
+      },
+      {
+        "id": "img_p16_072",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img005.png"
+      },
+      {
+        "id": "img_p16_073",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img006.png"
+      },
+      {
+        "id": "img_p16_074",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img007.png"
+      },
+      {
+        "id": "img_p16_075",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img008.png"
+      },
+      {
+        "id": "img_p16_076",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img009.png"
+      },
+      {
+        "id": "img_p16_077",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img010.png"
+      },
+      {
+        "id": "img_p16_078",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0016/img011.png"
+      },
+      {
+        "id": "img_p17_079",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img000.png"
+      },
+      {
+        "id": "img_p17_080",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img001.png"
+      },
+      {
+        "id": "img_p17_081",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img002.png"
+      },
+      {
+        "id": "img_p17_082",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img003.png"
+      },
+      {
+        "id": "img_p17_083",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img004.png"
+      },
+      {
+        "id": "img_p17_084",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img005.png"
+      },
+      {
+        "id": "img_p17_085",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img006.png"
+      },
+      {
+        "id": "img_p17_086",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img007.png"
+      },
+      {
+        "id": "img_p17_087",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img008.png"
+      },
+      {
+        "id": "img_p17_088",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img009.png"
+      },
+      {
+        "id": "img_p17_089",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img010.png"
+      },
+      {
+        "id": "img_p17_090",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0017/img011.png"
+      },
+      {
+        "id": "img_p18_091",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img000.png"
+      },
+      {
+        "id": "img_p18_092",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img001.png"
+      },
+      {
+        "id": "img_p18_093",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img002.png"
+      },
+      {
+        "id": "img_p18_094",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img003.png"
+      },
+      {
+        "id": "img_p18_095",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img004.png"
+      },
+      {
+        "id": "img_p18_096",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img005.png"
+      },
+      {
+        "id": "img_p18_097",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img006.png"
+      },
+      {
+        "id": "img_p18_098",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img007.png"
+      },
+      {
+        "id": "img_p18_099",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img008.png"
+      },
+      {
+        "id": "img_p18_100",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img009.png"
+      },
+      {
+        "id": "img_p18_101",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img010.png"
+      },
+      {
+        "id": "img_p18_102",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0018/img011.png"
+      },
+      {
+        "id": "img_p19_103",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img000.png"
+      },
+      {
+        "id": "img_p19_104",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img001.png"
+      },
+      {
+        "id": "img_p19_105",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img002.png"
+      },
+      {
+        "id": "img_p19_106",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img003.png"
+      },
+      {
+        "id": "img_p19_107",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img004.png"
+      },
+      {
+        "id": "img_p19_108",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img005.png"
+      },
+      {
+        "id": "img_p19_109",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img006.png"
+      },
+      {
+        "id": "img_p19_110",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img007.png"
+      },
+      {
+        "id": "img_p19_111",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img008.png"
+      },
+      {
+        "id": "img_p19_112",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img009.png"
+      },
+      {
+        "id": "img_p19_113",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img010.png"
+      },
+      {
+        "id": "img_p19_114",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img011.png"
+      },
+      {
+        "id": "img_p19_115",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img012.png"
+      },
+      {
+        "id": "img_p19_116",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0019/img013.png"
+      },
+      {
+        "id": "img_p20_117",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img000.png"
+      },
+      {
+        "id": "img_p20_118",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img001.png"
+      },
+      {
+        "id": "img_p20_119",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img002.png"
+      },
+      {
+        "id": "img_p20_120",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img003.png"
+      },
+      {
+        "id": "img_p20_121",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img004.png"
+      },
+      {
+        "id": "img_p20_122",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img005.png"
+      },
+      {
+        "id": "img_p20_123",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img006.png"
+      },
+      {
+        "id": "img_p20_124",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img007.png"
+      },
+      {
+        "id": "img_p20_125",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img008.png"
+      },
+      {
+        "id": "img_p20_126",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img009.png"
+      },
+      {
+        "id": "img_p20_127",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img010.png"
+      },
+      {
+        "id": "img_p20_128",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img011.png"
+      },
+      {
+        "id": "img_p20_129",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img012.png"
+      },
+      {
+        "id": "img_p20_130",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img013.png"
+      },
+      {
+        "id": "img_p20_131",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0020/img014.png"
+      },
+      {
+        "id": "img_p21_132",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img000.png"
+      },
+      {
+        "id": "img_p21_133",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img001.png"
+      },
+      {
+        "id": "img_p21_134",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img002.png"
+      },
+      {
+        "id": "img_p21_135",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img003.png"
+      },
+      {
+        "id": "img_p21_136",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img004.png"
+      },
+      {
+        "id": "img_p21_137",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img005.png"
+      },
+      {
+        "id": "img_p21_138",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img006.png"
+      },
+      {
+        "id": "img_p21_139",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img007.png"
+      },
+      {
+        "id": "img_p21_140",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img008.png"
+      },
+      {
+        "id": "img_p21_141",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img009.png"
+      },
+      {
+        "id": "img_p21_142",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img010.png"
+      },
+      {
+        "id": "img_p21_143",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img011.png"
+      },
+      {
+        "id": "img_p21_144",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img012.png"
+      },
+      {
+        "id": "img_p21_145",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img013.png"
+      },
+      {
+        "id": "img_p21_146",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0021/img014.png"
+      },
+      {
+        "id": "img_p22_147",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img000.png"
+      },
+      {
+        "id": "img_p22_148",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img001.png"
+      },
+      {
+        "id": "img_p22_149",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img002.png"
+      },
+      {
+        "id": "img_p22_150",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img003.png"
+      },
+      {
+        "id": "img_p22_151",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img004.png"
+      },
+      {
+        "id": "img_p22_152",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img005.png"
+      },
+      {
+        "id": "img_p22_153",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img006.png"
+      },
+      {
+        "id": "img_p22_154",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img007.png"
+      },
+      {
+        "id": "img_p22_155",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img008.png"
+      },
+      {
+        "id": "img_p22_156",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img009.png"
+      },
+      {
+        "id": "img_p22_157",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img010.png"
+      },
+      {
+        "id": "img_p22_158",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0022/img011.png"
+      },
+      {
+        "id": "img_p23_159",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img000.png"
+      },
+      {
+        "id": "img_p23_160",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img001.png"
+      },
+      {
+        "id": "img_p23_161",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img002.png"
+      },
+      {
+        "id": "img_p23_162",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img003.png"
+      },
+      {
+        "id": "img_p23_163",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img004.png"
+      },
+      {
+        "id": "img_p23_164",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img005.png"
+      },
+      {
+        "id": "img_p23_165",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img006.png"
+      },
+      {
+        "id": "img_p23_166",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img007.png"
+      },
+      {
+        "id": "img_p23_167",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img008.png"
+      },
+      {
+        "id": "img_p23_168",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img009.png"
+      },
+      {
+        "id": "img_p23_169",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img010.png"
+      },
+      {
+        "id": "img_p23_170",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0023/img011.png"
+      },
+      {
+        "id": "img_p24_171",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img000.png"
+      },
+      {
+        "id": "img_p24_172",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img001.png"
+      },
+      {
+        "id": "img_p24_173",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img002.png"
+      },
+      {
+        "id": "img_p24_174",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img003.png"
+      },
+      {
+        "id": "img_p24_175",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img004.png"
+      },
+      {
+        "id": "img_p24_176",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img005.png"
+      },
+      {
+        "id": "img_p24_177",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img006.png"
+      },
+      {
+        "id": "img_p24_178",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img007.png"
+      },
+      {
+        "id": "img_p24_179",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0024/img008.png"
+      },
+      {
+        "id": "img_p25_180",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img000.png"
+      },
+      {
+        "id": "img_p25_181",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img001.png"
+      },
+      {
+        "id": "img_p25_182",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img002.png"
+      },
+      {
+        "id": "img_p25_183",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img003.png"
+      },
+      {
+        "id": "img_p25_184",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img004.png"
+      },
+      {
+        "id": "img_p25_185",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img005.png"
+      },
+      {
+        "id": "img_p25_186",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img006.png"
+      },
+      {
+        "id": "img_p25_187",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img007.png"
+      },
+      {
+        "id": "img_p25_188",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img008.png"
+      },
+      {
+        "id": "img_p25_189",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img009.png"
+      },
+      {
+        "id": "img_p25_190",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img010.png"
+      },
+      {
+        "id": "img_p25_191",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img011.png"
+      },
+      {
+        "id": "img_p25_192",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img012.png"
+      },
+      {
+        "id": "img_p25_193",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img013.png"
+      },
+      {
+        "id": "img_p25_194",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img014.png"
+      },
+      {
+        "id": "img_p25_195",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img015.png"
+      },
+      {
+        "id": "img_p25_196",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0025/img016.png"
+      },
+      {
+        "id": "img_p26_197",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img000.png"
+      },
+      {
+        "id": "img_p26_198",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img001.png"
+      },
+      {
+        "id": "img_p26_199",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img002.png"
+      },
+      {
+        "id": "img_p26_200",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img003.png"
+      },
+      {
+        "id": "img_p26_201",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img004.png"
+      },
+      {
+        "id": "img_p26_202",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img005.png"
+      },
+      {
+        "id": "img_p26_203",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img006.png"
+      },
+      {
+        "id": "img_p26_204",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img007.png"
+      },
+      {
+        "id": "img_p26_205",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img008.png"
+      },
+      {
+        "id": "img_p26_206",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img009.png"
+      },
+      {
+        "id": "img_p26_207",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img010.png"
+      },
+      {
+        "id": "img_p26_208",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img011.png"
+      },
+      {
+        "id": "img_p26_209",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img012.png"
+      },
+      {
+        "id": "img_p26_210",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img013.png"
+      },
+      {
+        "id": "img_p26_211",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img014.png"
+      },
+      {
+        "id": "img_p26_212",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img015.png"
+      },
+      {
+        "id": "img_p26_213",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0026/img016.png"
+      },
+      {
+        "id": "img_p27_214",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img000.png"
+      },
+      {
+        "id": "img_p27_215",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img001.png"
+      },
+      {
+        "id": "img_p27_216",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img002.png"
+      },
+      {
+        "id": "img_p27_217",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img003.png"
+      },
+      {
+        "id": "img_p27_218",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img004.png"
+      },
+      {
+        "id": "img_p27_219",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img005.png"
+      },
+      {
+        "id": "img_p27_220",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img006.png"
+      },
+      {
+        "id": "img_p27_221",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img007.png"
+      },
+      {
+        "id": "img_p27_222",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img008.png"
+      },
+      {
+        "id": "img_p27_223",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img009.png"
+      },
+      {
+        "id": "img_p27_224",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img010.png"
+      },
+      {
+        "id": "img_p27_225",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img011.png"
+      },
+      {
+        "id": "img_p27_226",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img012.png"
+      },
+      {
+        "id": "img_p27_227",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img013.png"
+      },
+      {
+        "id": "img_p27_228",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img014.png"
+      },
+      {
+        "id": "img_p27_229",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img015.png"
+      },
+      {
+        "id": "img_p27_230",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img016.png"
+      },
+      {
+        "id": "img_p27_231",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img017.png"
+      },
+      {
+        "id": "img_p27_232",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img018.png"
+      },
+      {
+        "id": "img_p27_233",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img019.png"
+      },
+      {
+        "id": "img_p27_234",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0027/img020.png"
+      },
+      {
+        "id": "img_p28_235",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img000.png"
+      },
+      {
+        "id": "img_p28_236",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img001.png"
+      },
+      {
+        "id": "img_p28_237",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img002.png"
+      },
+      {
+        "id": "img_p28_238",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img003.png"
+      },
+      {
+        "id": "img_p28_239",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img004.png"
+      },
+      {
+        "id": "img_p28_240",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img005.png"
+      },
+      {
+        "id": "img_p28_241",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img006.png"
+      },
+      {
+        "id": "img_p28_242",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img007.png"
+      },
+      {
+        "id": "img_p28_243",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img008.png"
+      },
+      {
+        "id": "img_p28_244",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img009.png"
+      },
+      {
+        "id": "img_p28_245",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img010.png"
+      },
+      {
+        "id": "img_p28_246",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img011.png"
+      },
+      {
+        "id": "img_p28_247",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img012.png"
+      },
+      {
+        "id": "img_p28_248",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0028/img013.png"
+      },
+      {
+        "id": "img_p29_249",
+        "kind": "xobject",
+        "page": 29,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0029/img000.png"
+      },
+      {
+        "id": "img_p29_250",
+        "kind": "xobject",
+        "page": 29,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0029/img001.png"
+      },
+      {
+        "id": "img_p36_251",
+        "kind": "xobject",
+        "page": 36,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0036/img000.png"
+      },
+      {
+        "id": "img_p36_252",
+        "kind": "xobject",
+        "page": 36,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0036/img001.png"
+      },
+      {
+        "id": "img_p36_253",
+        "kind": "xobject",
+        "page": 36,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0036/img002.png"
+      },
+      {
+        "id": "img_p36_254",
+        "kind": "xobject",
+        "page": 36,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0036/img003.png"
+      },
+      {
+        "id": "img_p40_255",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img000.png"
+      },
+      {
+        "id": "img_p40_256",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img001.png"
+      },
+      {
+        "id": "img_p40_257",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img002.png"
+      },
+      {
+        "id": "img_p40_258",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img003.png"
+      },
+      {
+        "id": "img_p40_259",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img004.png"
+      },
+      {
+        "id": "img_p40_260",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img005.png"
+      },
+      {
+        "id": "img_p40_261",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img006.png"
+      },
+      {
+        "id": "img_p40_262",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img007.png"
+      },
+      {
+        "id": "img_p40_263",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img008.png"
+      },
+      {
+        "id": "img_p40_264",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img009.png"
+      },
+      {
+        "id": "img_p40_265",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img010.png"
+      },
+      {
+        "id": "img_p40_266",
+        "kind": "xobject",
+        "page": 40,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0040/img011.png"
+      },
+      {
+        "id": "img_p41_267",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img000.png"
+      },
+      {
+        "id": "img_p41_268",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img001.png"
+      },
+      {
+        "id": "img_p41_269",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img002.png"
+      },
+      {
+        "id": "img_p41_270",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img003.png"
+      },
+      {
+        "id": "img_p41_271",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img004.png"
+      },
+      {
+        "id": "img_p41_272",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img005.png"
+      },
+      {
+        "id": "img_p41_273",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img006.png"
+      },
+      {
+        "id": "img_p41_274",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img007.png"
+      },
+      {
+        "id": "img_p41_275",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img008.png"
+      },
+      {
+        "id": "img_p41_276",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img009.png"
+      },
+      {
+        "id": "img_p41_277",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img010.png"
+      },
+      {
+        "id": "img_p41_278",
+        "kind": "xobject",
+        "page": 41,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0041/img011.png"
+      },
+      {
+        "id": "img_p42_279",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img000.png"
+      },
+      {
+        "id": "img_p42_280",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img001.png"
+      },
+      {
+        "id": "img_p42_281",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img002.png"
+      },
+      {
+        "id": "img_p42_282",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img003.png"
+      },
+      {
+        "id": "img_p42_283",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img004.png"
+      },
+      {
+        "id": "img_p42_284",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img005.png"
+      },
+      {
+        "id": "img_p42_285",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img006.png"
+      },
+      {
+        "id": "img_p42_286",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img007.png"
+      },
+      {
+        "id": "img_p42_287",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img008.png"
+      },
+      {
+        "id": "img_p42_288",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img009.png"
+      },
+      {
+        "id": "img_p42_289",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img010.png"
+      },
+      {
+        "id": "img_p42_290",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img011.png"
+      },
+      {
+        "id": "img_p42_291",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img012.png"
+      },
+      {
+        "id": "img_p42_292",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img013.png"
+      },
+      {
+        "id": "img_p42_293",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img014.png"
+      },
+      {
+        "id": "img_p42_294",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img015.png"
+      },
+      {
+        "id": "img_p42_295",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img016.png"
+      },
+      {
+        "id": "img_p42_296",
+        "kind": "xobject",
+        "page": 42,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0042/img017.png"
+      },
+      {
+        "id": "img_p43_297",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img000.png"
+      },
+      {
+        "id": "img_p43_298",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img001.png"
+      },
+      {
+        "id": "img_p43_299",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img002.png"
+      },
+      {
+        "id": "img_p43_300",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img003.png"
+      },
+      {
+        "id": "img_p43_301",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img004.png"
+      },
+      {
+        "id": "img_p43_302",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img005.png"
+      },
+      {
+        "id": "img_p43_303",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img006.png"
+      },
+      {
+        "id": "img_p43_304",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img007.png"
+      },
+      {
+        "id": "img_p43_305",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img008.png"
+      },
+      {
+        "id": "img_p43_306",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img009.png"
+      },
+      {
+        "id": "img_p43_307",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img010.png"
+      },
+      {
+        "id": "img_p43_308",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img011.png"
+      },
+      {
+        "id": "img_p43_309",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img012.png"
+      },
+      {
+        "id": "img_p43_310",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img013.png"
+      },
+      {
+        "id": "img_p43_311",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img014.png"
+      },
+      {
+        "id": "img_p43_312",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img015.png"
+      },
+      {
+        "id": "img_p43_313",
+        "kind": "xobject",
+        "page": 43,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0043/img016.png"
+      },
+      {
+        "id": "img_p44_314",
+        "kind": "xobject",
+        "page": 44,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0044/img000.png"
+      },
+      {
+        "id": "img_p44_315",
+        "kind": "xobject",
+        "page": 44,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0044/img001.png"
+      },
+      {
+        "id": "img_p44_316",
+        "kind": "xobject",
+        "page": 44,
+        "path": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/images/page_0044/img002.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          491.1578063964844,
+          25.950605392456055,
+          532.498779296875,
+          44.39342498779297
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "2025-9-25"
+      },
+      {
+        "id": "eq_p0_001",
+        "page": 0,
+        "bbox": [
+          59.74381637573242,
+          298.84417724609375,
+          325.56463623046875,
+          320.52880859375
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0000/eq_p0_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0000/eq_p0_001.tex",
+        "latex": null,
+        "text_hint": "Project page: https://video-zero-shot.github.io/"
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          62.76602554321289,
+          306.9740295410156,
+          77.62296295166016,
+          346.85009765625
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "Pass@k %"
+      },
+      {
+        "id": "eq_p6_001",
+        "page": 6,
+        "bbox": [
+          78.07476806640625,
+          191.58322143554688,
+          115.4240951538086,
+          207.46739196777344
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_001.tex",
+        "latex": null,
+        "text_hint": "5×5 Grid"
+      },
+      {
+        "id": "eq_p6_002",
+        "page": 6,
+        "bbox": [
+          194.10821533203125,
+          191.58322143554688,
+          231.45753479003906,
+          207.46739196777344
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_002.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_002.tex",
+        "latex": null,
+        "text_hint": "7×7 Grid"
+      },
+      {
+        "id": "eq_p6_003",
+        "page": 6,
+        "bbox": [
+          310.14166259765625,
+          191.58322143554688,
+          347.4909973144531,
+          207.46739196777344
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_003.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0006/eq_p6_003.tex",
+        "latex": null,
+        "text_hint": "9×9 Grid"
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          62.76602554321289,
+          183.799560546875,
+          77.62296295166016,
+          223.67562866210938
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "Pass@k %"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          290.00146484375,
+          82.41822814941406,
+          304.8738708496094,
+          122.00321960449219
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "Pass@1 %"
+      },
+      {
+        "id": "eq_p11_000",
+        "page": 11,
+        "bbox": [
+          86.51482391357422,
+          107.08407592773438,
+          536.9301147460938,
+          130.1786346435547
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0011/eq_p11_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0011/eq_p11_000.tex",
+        "latex": null,
+        "text_hint": "earning/veo-3-fast-available-for-everyone-on-vertex-ai, 2025. Accessed:"
+      },
+      {
+        "id": "eq_p11_001",
+        "page": 11,
+        "bbox": [
+          86.51481628417969,
+          156.69808959960938,
+          537.0475463867188,
+          179.7926483154297
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0011/eq_p11_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0011/eq_p11_001.tex",
+        "latex": null,
+        "text_hint": "generative-ai/docs/video/turn-the-prompt-rewriter-off#prompt-rewriter,"
+      },
+      {
+        "id": "eq_p29_000",
+        "page": 29,
+        "bbox": [
+          260.6757507324219,
+          357.37109375,
+          317.1849060058594,
+          380.618408203125
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0029/eq_p29_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0029/eq_p29_000.tex",
+        "latex": null,
+        "text_hint": "Imgs/split"
+      },
+      {
+        "id": "eq_p29_001",
+        "page": 29,
+        "bbox": [
+          164.30201721191406,
+          705.8431396484375,
+          538.4093017578125,
+          728.9376831054688
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0029/eq_p29_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0029/eq_p29_001.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p30_000",
+        "page": 30,
+        "bbox": [
+          164.30201721191406,
+          477.0791015625,
+          538.4093017578125,
+          500.1736755371094
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0030/eq_p30_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0030/eq_p30_000.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p31_000",
+        "page": 31,
+        "bbox": [
+          89.29882049560547,
+          305.95068359375,
+          142.68795776367188,
+          329.263427734375
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_000.tex",
+        "latex": null,
+        "text_hint": "• No pan."
+      },
+      {
+        "id": "eq_p31_001",
+        "page": 31,
+        "bbox": [
+          89.29882049560547,
+          333.0487060546875,
+          149.855224609375,
+          356.3614501953125
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_001.tex",
+        "latex": null,
+        "text_hint": "• No zoom."
+      },
+      {
+        "id": "eq_p31_002",
+        "page": 31,
+        "bbox": [
+          164.30201721191406,
+          727.2781372070312,
+          538.4093017578125,
+          750.3726806640625
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_002.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0031/eq_p31_002.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p32_000",
+        "page": 32,
+        "bbox": [
+          164.30201721191406,
+          314.694091796875,
+          538.4093017578125,
+          337.7886657714844
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0032/eq_p32_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0032/eq_p32_000.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p32_001",
+        "page": 32,
+        "bbox": [
+          164.30201721191406,
+          695.4191284179688,
+          538.4093017578125,
+          718.513671875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0032/eq_p32_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0032/eq_p32_001.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p33_000",
+        "page": 33,
+        "bbox": [
+          89.298828125,
+          364.53070068359375,
+          149.85523986816406,
+          387.84344482421875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0033/eq_p33_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0033/eq_p33_000.tex",
+        "latex": null,
+        "text_hint": "• No zoom."
+      },
+      {
+        "id": "eq_p33_001",
+        "page": 33,
+        "bbox": [
+          89.298828125,
+          378.0806884765625,
+          142.68795776367188,
+          401.3934326171875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0033/eq_p33_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0033/eq_p33_001.tex",
+        "latex": null,
+        "text_hint": "• No pan."
+      },
+      {
+        "id": "eq_p34_000",
+        "page": 34,
+        "bbox": [
+          74.14582824707031,
+          103.23365020751953,
+          234.82643127441406,
+          126.54638671875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0034/eq_p34_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0034/eq_p34_000.tex",
+        "latex": null,
+        "text_hint": "<think>thinking process</think>"
+      },
+      {
+        "id": "eq_p34_001",
+        "page": 34,
+        "bbox": [
+          74.14582824707031,
+          116.78266143798828,
+          285.3138122558594,
+          140.09539794921875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0034/eq_p34_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0034/eq_p34_001.tex",
+        "latex": null,
+        "text_hint": "<final_answer>final answer</final_answer>"
+      },
+      {
+        "id": "eq_p35_000",
+        "page": 35,
+        "bbox": [
+          74.14582824707031,
+          103.23365020751953,
+          234.82643127441406,
+          126.54638671875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_000.tex",
+        "latex": null,
+        "text_hint": "<think>thinking process</think>"
+      },
+      {
+        "id": "eq_p35_001",
+        "page": 35,
+        "bbox": [
+          74.14582824707031,
+          116.78266143798828,
+          285.3138122558594,
+          140.09539794921875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_001.tex",
+        "latex": null,
+        "text_hint": "<final_answer>final answer</final_answer>"
+      },
+      {
+        "id": "eq_p35_002",
+        "page": 35,
+        "bbox": [
+          89.29883575439453,
+          220.59368896484375,
+          192.67344665527344,
+          243.90643310546875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_002.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_002.tex",
+        "latex": null,
+        "text_hint": "• ‘E’ is the end point."
+      },
+      {
+        "id": "eq_p35_003",
+        "page": 35,
+        "bbox": [
+          89.298828125,
+          374.0186767578125,
+          193.58981323242188,
+          397.3314208984375
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_003.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0035/eq_p35_003.tex",
+        "latex": null,
+        "text_hint": "• Avoid the walls ‘#’."
+      },
+      {
+        "id": "eq_p36_000",
+        "page": 36,
+        "bbox": [
+          164.30201721191406,
+          398.9591064453125,
+          538.4093017578125,
+          422.0536804199219
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0036/eq_p36_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0036/eq_p36_000.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p36_001",
+        "page": 36,
+        "bbox": [
+          164.30201721191406,
+          739.0361328125,
+          538.4093017578125,
+          762.1306762695312
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0036/eq_p36_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0036/eq_p36_001.tex",
+        "latex": null,
+        "text_hint": "We tested Veo 3 veo-3.0-generate-preview and Veo 2 veo-2.0-generate-"
+      },
+      {
+        "id": "eq_p37_000",
+        "page": 37,
+        "bbox": [
+          72.28082275390625,
+          610.1236572265625,
+          177.6736602783203,
+          633.4364013671875
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0037/eq_p37_000.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0037/eq_p37_000.tex",
+        "latex": null,
+        "text_hint": "— TARGET IMAGE —"
+      },
+      {
+        "id": "eq_p37_001",
+        "page": 37,
+        "bbox": [
+          72.28082275390625,
+          637.2216796875,
+          183.8045654296875,
+          660.534423828125
+        ],
+        "inline": false,
+        "path_png": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0037/eq_p37_001.png",
+        "path_tex": "2509.20328v1_Video_models_are_zero-shot_learners_and_reasoners/equations/page_0037/eq_p37_001.tex",
+        "latex": null,
+        "text_hint": "— CHOICE IMAGES —"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p1_001",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_002",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_003",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_004",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_005",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_006",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_007",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_008",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p2_009",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_010",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_011",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_012",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_013",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_014",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_015",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_016",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_017",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_018",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_019",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_020",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_021",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_022",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_023",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_024",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_025",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_026",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_027",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_028",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_029",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_030",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_031",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_032",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p4_033",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_034",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_035",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p5_036",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_037",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_038",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_039",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_040",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_041",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_042",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_043",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_044",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_045",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_046",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_047",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_048",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_001",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_002",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_003",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_049",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_050",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_051",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_052",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p8_053",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_054",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_000",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_001",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p15_055",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_056",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_057",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_058",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_059",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_060",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_061",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_062",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_063",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_064",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_065",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p15_066",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p16_067",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_068",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_069",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_070",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_071",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_072",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_073",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_074",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_075",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_076",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_077",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p16_078",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p17_079",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_080",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_081",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_082",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_083",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_084",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_085",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_086",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_087",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_088",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_089",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_090",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p18_091",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_092",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_093",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_094",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_095",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_096",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_097",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_098",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_099",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_100",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_101",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p18_102",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p19_103",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_104",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_105",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_106",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_107",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_108",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_109",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_110",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_111",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_112",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_113",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_114",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_115",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p19_116",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p20_117",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_118",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_119",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_120",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_121",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_122",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_123",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_124",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_125",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_126",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_127",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_128",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_129",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_130",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p20_131",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p21_132",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_133",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_134",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_135",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_136",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_137",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_138",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_139",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_140",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_141",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_142",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_143",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_144",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_145",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p21_146",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p22_147",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_148",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_149",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_150",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_151",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_152",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_153",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_154",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_155",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_156",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_157",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p22_158",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p23_159",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_160",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_161",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_162",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_163",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_164",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_165",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_166",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_167",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_168",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_169",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p23_170",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p24_171",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_172",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_173",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_174",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_175",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_176",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_177",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_178",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p24_179",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p25_180",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_181",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_182",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_183",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_184",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_185",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_186",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_187",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_188",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_189",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_190",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_191",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_192",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_193",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_194",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_195",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p25_196",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p26_197",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_198",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_199",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_200",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_201",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_202",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_203",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_204",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_205",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_206",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_207",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_208",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_209",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_210",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_211",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_212",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p26_213",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p27_214",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_215",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_216",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_217",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_218",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_219",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_220",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_221",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_222",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_223",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_224",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_225",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_226",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_227",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_228",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_229",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_230",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_231",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_232",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_233",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p27_234",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p28_235",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_236",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_237",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_238",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_239",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_240",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_241",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_242",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_243",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_244",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_245",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_246",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_247",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p28_248",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p29_249",
+      "page": 29
+    },
+    {
+      "type": "image",
+      "id": "img_p29_250",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p29_000",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p29_001",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p30_000",
+      "page": 30
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_000",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_001",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_002",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p32_000",
+      "page": 32
+    },
+    {
+      "type": "equation",
+      "id": "eq_p32_001",
+      "page": 32
+    },
+    {
+      "type": "equation",
+      "id": "eq_p33_000",
+      "page": 33
+    },
+    {
+      "type": "equation",
+      "id": "eq_p33_001",
+      "page": 33
+    },
+    {
+      "type": "equation",
+      "id": "eq_p34_000",
+      "page": 34
+    },
+    {
+      "type": "equation",
+      "id": "eq_p34_001",
+      "page": 34
+    },
+    {
+      "type": "equation",
+      "id": "eq_p35_000",
+      "page": 35
+    },
+    {
+      "type": "equation",
+      "id": "eq_p35_001",
+      "page": 35
+    },
+    {
+      "type": "equation",
+      "id": "eq_p35_002",
+      "page": 35
+    },
+    {
+      "type": "equation",
+      "id": "eq_p35_003",
+      "page": 35
+    },
+    {
+      "type": "image",
+      "id": "img_p36_251",
+      "page": 36
+    },
+    {
+      "type": "image",
+      "id": "img_p36_252",
+      "page": 36
+    },
+    {
+      "type": "image",
+      "id": "img_p36_253",
+      "page": 36
+    },
+    {
+      "type": "image",
+      "id": "img_p36_254",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_000",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_001",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_000",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_001",
+      "page": 37
+    },
+    {
+      "type": "image",
+      "id": "img_p40_255",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_256",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_257",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_258",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_259",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_260",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_261",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_262",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_263",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_264",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_265",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p40_266",
+      "page": 40
+    },
+    {
+      "type": "image",
+      "id": "img_p41_267",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_268",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_269",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_270",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_271",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_272",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_273",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_274",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_275",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_276",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_277",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p41_278",
+      "page": 41
+    },
+    {
+      "type": "image",
+      "id": "img_p42_279",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_280",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_281",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_282",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_283",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_284",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_285",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_286",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_287",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_288",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_289",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_290",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_291",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_292",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_293",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_294",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_295",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p42_296",
+      "page": 42
+    },
+    {
+      "type": "image",
+      "id": "img_p43_297",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_298",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_299",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_300",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_301",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_302",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_303",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_304",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_305",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_306",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_307",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_308",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_309",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_310",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_311",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_312",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p43_313",
+      "page": 43
+    },
+    {
+      "type": "image",
+      "id": "img_p44_314",
+      "page": 44
+    },
+    {
+      "type": "image",
+      "id": "img_p44_315",
+      "page": 44
+    },
+    {
+      "type": "image",
+      "id": "img_p44_316",
+      "page": 44
+    }
+  ]
+}

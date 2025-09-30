@@ -1,0 +1,3810 @@
+{
+  "file": "2509.20279v1_A co-evolving agentic AI system for medical imaging analysis.pdf",
+  "output_dir": "parser/2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis",
+  "text_file": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "A co-evolving agentic AI system for medical imaging analysis",
+    "author": "Songhao Li; Jonathan Xu; Tiancheng Bao; Yuxuan Liu; Yuchen Liu; Yihang Liu; Lilin Wang; Wenhui Lei; Sheng Wang; Yinuo Xu; Yan Cui; Jialu Yao; Shunsuke Koga; Zhi Huang",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p0_001",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0000/img001.png"
+      },
+      {
+        "id": "img_p1_002",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p2_003",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p3_004",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p3_005",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0003/img001.png"
+      },
+      {
+        "id": "img_p3_006",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0003/img002.png"
+      },
+      {
+        "id": "img_p3_007",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0003/img003.png"
+      },
+      {
+        "id": "img_p3_008",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0003/img004.png"
+      },
+      {
+        "id": "img_p4_009",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p5_010",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0005/img000.png"
+      },
+      {
+        "id": "img_p6_011",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p7_012",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p8_013",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0008/img000.png"
+      },
+      {
+        "id": "img_p9_014",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0009/img000.png"
+      },
+      {
+        "id": "img_p9_015",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0009/img001.png"
+      },
+      {
+        "id": "img_p10_016",
+        "kind": "xobject",
+        "page": 10,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0010/img000.png"
+      },
+      {
+        "id": "img_p11_017",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img000.png"
+      },
+      {
+        "id": "img_p11_018",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img001.png"
+      },
+      {
+        "id": "img_p11_019",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img002.png"
+      },
+      {
+        "id": "img_p11_020",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img003.png"
+      },
+      {
+        "id": "img_p11_021",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img004.png"
+      },
+      {
+        "id": "img_p11_022",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img005.png"
+      },
+      {
+        "id": "img_p11_023",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img006.png"
+      },
+      {
+        "id": "img_p11_024",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img007.png"
+      },
+      {
+        "id": "img_p11_025",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img008.png"
+      },
+      {
+        "id": "img_p11_026",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img009.png"
+      },
+      {
+        "id": "img_p11_027",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img010.png"
+      },
+      {
+        "id": "img_p11_028",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img011.png"
+      },
+      {
+        "id": "img_p11_029",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img012.png"
+      },
+      {
+        "id": "img_p11_030",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img013.png"
+      },
+      {
+        "id": "img_p11_031",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img014.png"
+      },
+      {
+        "id": "img_p11_032",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img015.png"
+      },
+      {
+        "id": "img_p11_033",
+        "kind": "xobject",
+        "page": 11,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0011/img016.png"
+      },
+      {
+        "id": "img_p12_034",
+        "kind": "xobject",
+        "page": 12,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0012/img000.png"
+      },
+      {
+        "id": "img_p13_035",
+        "kind": "xobject",
+        "page": 13,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0013/img000.png"
+      },
+      {
+        "id": "img_p14_036",
+        "kind": "xobject",
+        "page": 14,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0014/img000.png"
+      },
+      {
+        "id": "img_p15_037",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0015/img000.png"
+      },
+      {
+        "id": "img_p16_038",
+        "kind": "xobject",
+        "page": 16,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0016/img000.png"
+      },
+      {
+        "id": "img_p17_039",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0017/img000.png"
+      },
+      {
+        "id": "img_p18_040",
+        "kind": "xobject",
+        "page": 18,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0018/img000.png"
+      },
+      {
+        "id": "img_p19_041",
+        "kind": "xobject",
+        "page": 19,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0019/img000.png"
+      },
+      {
+        "id": "img_p20_042",
+        "kind": "xobject",
+        "page": 20,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0020/img000.png"
+      },
+      {
+        "id": "img_p21_043",
+        "kind": "xobject",
+        "page": 21,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0021/img000.png"
+      },
+      {
+        "id": "img_p22_044",
+        "kind": "xobject",
+        "page": 22,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0022/img000.png"
+      },
+      {
+        "id": "img_p23_045",
+        "kind": "xobject",
+        "page": 23,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0023/img000.png"
+      },
+      {
+        "id": "img_p24_046",
+        "kind": "xobject",
+        "page": 24,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0024/img000.png"
+      },
+      {
+        "id": "img_p25_047",
+        "kind": "xobject",
+        "page": 25,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0025/img000.png"
+      },
+      {
+        "id": "img_p26_048",
+        "kind": "xobject",
+        "page": 26,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0026/img000.png"
+      },
+      {
+        "id": "img_p27_049",
+        "kind": "xobject",
+        "page": 27,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0027/img000.png"
+      },
+      {
+        "id": "img_p28_050",
+        "kind": "xobject",
+        "page": 28,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0028/img000.png"
+      },
+      {
+        "id": "img_p29_051",
+        "kind": "xobject",
+        "page": 29,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0029/img000.png"
+      },
+      {
+        "id": "img_p30_052",
+        "kind": "xobject",
+        "page": 30,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0030/img000.png"
+      },
+      {
+        "id": "img_p31_053",
+        "kind": "xobject",
+        "page": 31,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0031/img000.png"
+      },
+      {
+        "id": "img_p32_054",
+        "kind": "xobject",
+        "page": 32,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0032/img000.png"
+      },
+      {
+        "id": "img_p33_055",
+        "kind": "xobject",
+        "page": 33,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0033/img000.png"
+      },
+      {
+        "id": "img_p34_056",
+        "kind": "xobject",
+        "page": 34,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0034/img000.png"
+      },
+      {
+        "id": "img_p35_057",
+        "kind": "xobject",
+        "page": 35,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0035/img006.png"
+      },
+      {
+        "id": "img_p36_058",
+        "kind": "xobject",
+        "page": 36,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0036/img007.png"
+      },
+      {
+        "id": "img_p37_059",
+        "kind": "xobject",
+        "page": 37,
+        "path": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/images/page_0037/img010.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          122.85589599609375,
+          470.2654724121094,
+          161.5716094970703,
+          483.6079406738281
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "Spend 3-6"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          367.3686828613281,
+          594.7866821289062,
+          435.7507019042969,
+          608.7171630859375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "human-in-the-loop"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          197.1250762939453,
+          367.1643981933594,
+          228.24339294433594,
+          398.2828063964844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          228.6372833251953,
+          367.2322692871094,
+          264.1578063964844,
+          402.7528381347656
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_002",
+        "page": 5,
+        "bbox": [
+          240.46620178222656,
+          367.1668395996094,
+          276.2090148925781,
+          402.9096374511719
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_003",
+        "page": 5,
+        "bbox": [
+          254.73716735839844,
+          367.16357421875,
+          288.20458984375,
+          400.63104248046875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_003.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p5_004",
+        "page": 5,
+        "bbox": [
+          80.76248931884766,
+          367.0570068359375,
+          111.84904479980469,
+          398.14361572265625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_004.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_005",
+        "page": 5,
+        "bbox": [
+          112.23776245117188,
+          367.12542724609375,
+          147.72105407714844,
+          402.6087341308594
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_005.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_006",
+        "page": 5,
+        "bbox": [
+          124.05377197265625,
+          367.0599365234375,
+          159.75909423828125,
+          402.765380859375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_006.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_007",
+        "page": 5,
+        "bbox": [
+          138.3078155517578,
+          367.056640625,
+          171.7405242919922,
+          400.48944091796875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_007.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_007.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p5_008",
+        "page": 5,
+        "bbox": [
+          317.7861633300781,
+          289.8876037597656,
+          351.29833984375,
+          300.5891418457031
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_008.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_008.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p5_009",
+        "page": 5,
+        "bbox": [
+          315.3249206542969,
+          313.2036437988281,
+          351.29132080078125,
+          323.9051513671875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_009.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_009.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_010",
+        "page": 5,
+        "bbox": [
+          315.0650939941406,
+          336.5199279785156,
+          351.29718017578125,
+          347.221435546875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_010.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_010.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_011",
+        "page": 5,
+        "bbox": [
+          320.6142883300781,
+          359.8359069824219,
+          351.3234558105469,
+          370.5374450683594
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_011.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_011.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_012",
+        "page": 5,
+        "bbox": [
+          299.5360107421875,
+          603.1426391601562,
+          328.3677978515625,
+          632.029296875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_012.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_012.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_013",
+        "page": 5,
+        "bbox": [
+          330.805908203125,
+          603.183349609375,
+          363.6509704589844,
+          636.0926513671875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_013.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_013.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_014",
+        "page": 5,
+        "bbox": [
+          342.4234619140625,
+          603.1375732421875,
+          375.4711608886719,
+          636.2499389648438
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_014.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_014.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_015",
+        "page": 5,
+        "bbox": [
+          356.2743835449219,
+          603.135498046875,
+          387.2477111816406,
+          634.168701171875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_015.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_015.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p5_016",
+        "page": 5,
+        "bbox": [
+          69.76969909667969,
+          603.296875,
+          98.70460510253906,
+          632.2317504882812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_016.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_016.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_017",
+        "page": 5,
+        "bbox": [
+          101.17398071289062,
+          603.3399047851562,
+          134.1370086669922,
+          636.3028564453125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_017.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_017.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_018",
+        "page": 5,
+        "bbox": [
+          112.84165954589844,
+          603.2940673828125,
+          146.0082244873047,
+          636.4605712890625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_018.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_018.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_019",
+        "page": 5,
+        "bbox": [
+          126.75169372558594,
+          603.2913818359375,
+          157.83563232421875,
+          634.3753051757812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_019.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_019.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p5_020",
+        "page": 5,
+        "bbox": [
+          184.5814666748047,
+          603.2374267578125,
+          213.49658203125,
+          632.1524658203125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_020.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_020.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p5_021",
+        "page": 5,
+        "bbox": [
+          215.9615478515625,
+          603.27880859375,
+          248.9034423828125,
+          636.2206420898438
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_021.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_021.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p5_022",
+        "page": 5,
+        "bbox": [
+          227.6201934814453,
+          603.2329711914062,
+          260.7654724121094,
+          636.378173828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_022.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_022.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p5_023",
+        "page": 5,
+        "bbox": [
+          241.5198516845703,
+          603.230224609375,
+          272.5841064453125,
+          634.2943725585938
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_023.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0005/eq_p5_023.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          71.37478637695312,
+          443.78692626953125,
+          227.0643768310547,
+          469.87890625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "13: DOIµm ←Dmax × pixel_sizeµm"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          250.60560607910156,
+          106.88978576660156,
+          292.92279052734375,
+          124.4399185180664
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "F1-score"
+      },
+      {
+        "id": "eq_p8_001",
+        "page": 8,
+        "bbox": [
+          88.58382415771484,
+          135.72213745117188,
+          151.50363159179688,
+          153.17263793945312
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_001.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p8_002",
+        "page": 8,
+        "bbox": [
+          450.47711181640625,
+          147.67715454101562,
+          520.9358520507812,
+          172.2740936279297
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_002.tex",
+        "latex": null,
+        "text_hint": "−0.013 ± 0.012"
+      },
+      {
+        "id": "eq_p8_003",
+        "page": 8,
+        "bbox": [
+          88.58382415771484,
+          159.63314819335938,
+          156.94320678710938,
+          177.08364868164062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_003.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p8_004",
+        "page": 8,
+        "bbox": [
+          450.47711181640625,
+          159.63314819335938,
+          520.9358520507812,
+          184.23008728027344
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_004.tex",
+        "latex": null,
+        "text_hint": "−0.001 ± 0.001"
+      },
+      {
+        "id": "eq_p8_005",
+        "page": 8,
+        "bbox": [
+          88.58382415771484,
+          171.58816528320312,
+          148.41522216796875,
+          189.03866577148438
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_005.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p8_006",
+        "page": 8,
+        "bbox": [
+          88.58382415771484,
+          183.54318237304688,
+          154.39276123046875,
+          200.99368286132812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0008/eq_p8_006.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p9_000",
+        "page": 9,
+        "bbox": [
+          503.3102111816406,
+          319.9301452636719,
+          536.5314331054688,
+          331.1717834472656
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p9_001",
+        "page": 9,
+        "bbox": [
+          503.3102111816406,
+          342.8068542480469,
+          542.3082275390625,
+          354.0484924316406
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p9_002",
+        "page": 9,
+        "bbox": [
+          503.3102111816406,
+          350.47357177734375,
+          542.598388671875,
+          361.7152099609375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p9_003",
+        "page": 9,
+        "bbox": [
+          503.3102111816406,
+          358.0771484375,
+          539.6115112304688,
+          369.31878662109375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_003.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p9_004",
+        "page": 9,
+        "bbox": [
+          140.71282958984375,
+          424.4753112792969,
+          237.87725830078125,
+          438.0758361816406
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_004.tex",
+        "latex": null,
+        "text_hint": "Nodule/Mass//infiltration....?"
+      },
+      {
+        "id": "eq_p9_005",
+        "page": 9,
+        "bbox": [
+          246.15902709960938,
+          627.5171508789062,
+          280.94586181640625,
+          639.0934448242188
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_005.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p9_006",
+        "page": 9,
+        "bbox": [
+          246.15902709960938,
+          635.5953369140625,
+          287.0445861816406,
+          647.171630859375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_006.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p9_007",
+        "page": 9,
+        "bbox": [
+          246.15902709960938,
+          643.673583984375,
+          287.3528747558594,
+          655.2498779296875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_007.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_007.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p9_008",
+        "page": 9,
+        "bbox": [
+          246.15902709960938,
+          651.7517700195312,
+          284.19757080078125,
+          663.3280639648438
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_008.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_008.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p9_009",
+        "page": 9,
+        "bbox": [
+          74.85570526123047,
+          345.7663269042969,
+          105.73174285888672,
+          376.6424255371094
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_009.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_009.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p9_010",
+        "page": 9,
+        "bbox": [
+          117.2038345336914,
+          345.8105773925781,
+          152.4408416748047,
+          381.0475769042969
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_010.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_010.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p9_011",
+        "page": 9,
+        "bbox": [
+          132.61773681640625,
+          345.76080322265625,
+          168.074951171875,
+          381.2180480957031
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_011.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_011.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p9_012",
+        "page": 9,
+        "bbox": [
+          150.458251953125,
+          345.7590637207031,
+          183.66134643554688,
+          378.96221923828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_012.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_012.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p9_013",
+        "page": 9,
+        "bbox": [
+          221.41525268554688,
+          345.94622802734375,
+          252.3365936279297,
+          376.8675842285156
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_013.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_013.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p9_014",
+        "page": 9,
+        "bbox": [
+          263.8396301269531,
+          345.99017333984375,
+          299.1296081542969,
+          381.2801818847656
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_014.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_014.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p9_015",
+        "page": 9,
+        "bbox": [
+          279.2817687988281,
+          345.9411315917969,
+          314.7923889160156,
+          381.45172119140625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_015.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_015.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p9_016",
+        "page": 9,
+        "bbox": [
+          297.1541442871094,
+          345.9390563964844,
+          330.40673828125,
+          379.19158935546875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_016.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0009/eq_p9_016.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          202.55616760253906,
+          118.84480285644531,
+          263.5133361816406,
+          136.3949432373047
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p10_001",
+        "page": 10,
+        "bbox": [
+          270.2320556640625,
+          118.84480285644531,
+          337.64501953125,
+          136.3949432373047
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p10_002",
+        "page": 10,
+        "bbox": [
+          344.3637390136719,
+          118.84480285644531,
+          415.0942687988281,
+          136.3949432373047
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0010/eq_p10_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_000",
+        "page": 11,
+        "bbox": [
+          96.39424896240234,
+          197.4036865234375,
+          165.43824768066406,
+          207.59878540039062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_000.tex",
+        "latex": null,
+        "text_hint": "and (liver_spleen_ratio < 1.0)"
+      },
+      {
+        "id": "eq_p11_001",
+        "page": 11,
+        "bbox": [
+          96.39424896240234,
+          202.35415649414062,
+          156.66763305664062,
+          212.54925537109375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_001.tex",
+        "latex": null,
+        "text_hint": "or (mean_liver_hu < 40)"
+      },
+      {
+        "id": "eq_p11_002",
+        "page": 11,
+        "bbox": [
+          96.39424896240234,
+          207.30465698242188,
+          193.25997924804688,
+          217.499755859375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_002.tex",
+        "latex": null,
+        "text_hint": "or (mean_liver_hu - mean_spleen_hu <= -10)"
+      },
+      {
+        "id": "eq_p11_003",
+        "page": 11,
+        "bbox": [
+          161.5460662841797,
+          486.374755859375,
+          213.4927215576172,
+          496.7550048828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_003.tex",
+        "latex": null,
+        "text_hint": "max_thickness >= 13mm"
+      },
+      {
+        "id": "eq_p11_004",
+        "page": 11,
+        "bbox": [
+          433.1556701660156,
+          560.38525390625,
+          462.7237548828125,
+          589.9533081054688
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_004.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_005",
+        "page": 11,
+        "bbox": [
+          451.5076904296875,
+          560.4492797851562,
+          485.21429443359375,
+          594.1558227539062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_005.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_006",
+        "page": 11,
+        "bbox": [
+          462.6293029785156,
+          560.3877563476562,
+          496.5448913574219,
+          594.30322265625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_006.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_007",
+        "page": 11,
+        "bbox": [
+          476.04656982421875,
+          560.3847045898438,
+          507.82305908203125,
+          592.1611328125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_007.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_007.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_008",
+        "page": 11,
+        "bbox": [
+          432.965576171875,
+          446.01556396484375,
+          462.5798034667969,
+          475.62982177734375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_008.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_008.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_009",
+        "page": 11,
+        "bbox": [
+          451.3526611328125,
+          446.0801086425781,
+          485.1131896972656,
+          479.8406677246094
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_009.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_009.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_010",
+        "page": 11,
+        "bbox": [
+          462.49530029296875,
+          446.01837158203125,
+          496.4652404785156,
+          479.9883117675781
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_010.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_010.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_011",
+        "page": 11,
+        "bbox": [
+          475.9376220703125,
+          446.01531982421875,
+          507.764404296875,
+          477.8420715332031
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_011.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_011.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_012",
+        "page": 11,
+        "bbox": [
+          433.1846008300781,
+          663.5003662109375,
+          462.7463073730469,
+          693.06201171875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_012.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_012.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_013",
+        "page": 11,
+        "bbox": [
+          451.531982421875,
+          663.564697265625,
+          485.2310791015625,
+          697.263671875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_013.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_013.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_014",
+        "page": 11,
+        "bbox": [
+          462.6505432128906,
+          663.5028686523438,
+          496.55853271484375,
+          697.4108276367188
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_014.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_014.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_015",
+        "page": 11,
+        "bbox": [
+          476.0638732910156,
+          663.5001220703125,
+          507.83331298828125,
+          695.2695922851562
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_015.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_015.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_016",
+        "page": 11,
+        "bbox": [
+          190.03712463378906,
+          315.631103515625,
+          219.30950927734375,
+          344.903564453125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_016.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_016.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_017",
+        "page": 11,
+        "bbox": [
+          209.6954345703125,
+          315.6943664550781,
+          243.05596923828125,
+          349.0549621582031
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_017.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_017.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_018",
+        "page": 11,
+        "bbox": [
+          221.44639587402344,
+          315.63372802734375,
+          255.01341247558594,
+          349.2008056640625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_018.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_018.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_019",
+        "page": 11,
+        "bbox": [
+          235.46473693847656,
+          315.6305236816406,
+          266.9186706542969,
+          347.08447265625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_019.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_019.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_020",
+        "page": 11,
+        "bbox": [
+          77.36418151855469,
+          316.7212829589844,
+          106.66508483886719,
+          346.0222473144531
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_020.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_020.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_021",
+        "page": 11,
+        "bbox": [
+          97.04586029052734,
+          316.7847595214844,
+          130.43980407714844,
+          350.1788024902344
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_021.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_021.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_022",
+        "page": 11,
+        "bbox": [
+          108.81041717529297,
+          316.7240295410156,
+          142.41102600097656,
+          350.3247375488281
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_022.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_022.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_023",
+        "page": 11,
+        "bbox": [
+          122.84567260742188,
+          316.7209777832031,
+          154.3306884765625,
+          348.2060546875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_023.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_023.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_024",
+        "page": 11,
+        "bbox": [
+          306.6346130371094,
+          315.57098388671875,
+          335.9573669433594,
+          344.8937072753906
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_024.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_024.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_025",
+        "page": 11,
+        "bbox": [
+          326.33416748046875,
+          315.6342468261719,
+          359.753662109375,
+          349.0537109375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_025.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_025.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_026",
+        "page": 11,
+        "bbox": [
+          338.10980224609375,
+          315.5734558105469,
+          371.73614501953125,
+          349.1997985839844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_026.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_026.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_027",
+        "page": 11,
+        "bbox": [
+          352.1575012207031,
+          315.57049560546875,
+          383.66632080078125,
+          347.07928466796875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_027.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_027.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p11_028",
+        "page": 11,
+        "bbox": [
+          429.4749755859375,
+          315.50897216796875,
+          458.84954833984375,
+          344.883544921875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_028.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_028.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p11_029",
+        "page": 11,
+        "bbox": [
+          449.216552734375,
+          315.57232666015625,
+          482.69671630859375,
+          349.0524597167969
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_029.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_029.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p11_030",
+        "page": 11,
+        "bbox": [
+          461.0176086425781,
+          315.511474609375,
+          494.7051086425781,
+          349.1989440917969
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_030.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_030.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p11_031",
+        "page": 11,
+        "bbox": [
+          475.09564208984375,
+          315.50836181640625,
+          506.6610107421875,
+          347.07373046875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_031.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0011/eq_p11_031.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p12_000",
+        "page": 12,
+        "bbox": [
+          69.38182067871094,
+          612.7880249023438,
+          542.6212768554688,
+          630.2384643554688
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0012/eq_p12_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0012/eq_p12_000.tex",
+        "latex": null,
+        "text_hint": "cial accuracy of 52%, while MedGemma (Acc = 45.3%, F1 = 0.226) and GPT-4o-vision (Acc = 57.3%, F1 ="
+      },
+      {
+        "id": "eq_p14_000",
+        "page": 14,
+        "bbox": [
+          86.31785583496094,
+          99.29924011230469,
+          267.2664489746094,
+          116.99880981445312
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_000.tex",
+        "latex": null,
+        "text_hint": "spacing (∆x, ∆y), Threshold τ = 15 mm"
+      },
+      {
+        "id": "eq_p14_001",
+        "page": 14,
+        "bbox": [
+          106.36351776123047,
+          206.19895935058594,
+          374.7892150878906,
+          231.52317810058594
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_001.tex",
+        "latex": null,
+        "text_hint": "d ←∥p −q∥× PixelScale(∆x, ∆y) # Local thickness (mm)"
+      },
+      {
+        "id": "eq_p14_002",
+        "page": 14,
+        "bbox": [
+          106.24396514892578,
+          217.5199432373047,
+          167.35186767578125,
+          236.55093383789062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_002.tex",
+        "latex": null,
+        "text_hint": "if d > WTED"
+      },
+      {
+        "id": "eq_p14_003",
+        "page": 14,
+        "bbox": [
+          111.63285827636719,
+          278.7369689941406,
+          174.28616333007812,
+          305.7152404785156
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0014/eq_p14_003.tex",
+        "latex": null,
+        "text_hint": "max ≥τ then"
+      },
+      {
+        "id": "eq_p15_000",
+        "page": 15,
+        "bbox": [
+          464.8056640625,
+          574.9033203125,
+          512.3582153320312,
+          586.5073852539062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_000.tex",
+        "latex": null,
+        "text_hint": "±10% GT Range"
+      },
+      {
+        "id": "eq_p15_001",
+        "page": 15,
+        "bbox": [
+          135.80604553222656,
+          673.1011962890625,
+          184.85629272460938,
+          688.3119506835938
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_001.tex",
+        "latex": null,
+        "text_hint": "5.9%4.8% 3.9%"
+      },
+      {
+        "id": "eq_p15_002",
+        "page": 15,
+        "bbox": [
+          69.10014343261719,
+          509.2796936035156,
+          112.17816162109375,
+          552.3577270507812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_002.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p15_003",
+        "page": 15,
+        "bbox": [
+          119.24584197998047,
+          509.3473205566406,
+          168.75701904296875,
+          558.8585205078125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_003.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p15_004",
+        "page": 15,
+        "bbox": [
+          137.87635803222656,
+          509.2742004394531,
+          187.7125701904297,
+          559.1104125976562
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_004.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p15_005",
+        "page": 15,
+        "bbox": [
+          160.08839416503906,
+          509.2711486816406,
+          206.5980224609375,
+          555.7808227539062
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_005.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p15_006",
+        "page": 15,
+        "bbox": [
+          100.49359130859375,
+          488.4147644042969,
+          154.35891723632812,
+          505.5088806152344
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0015/eq_p15_006.tex",
+        "latex": null,
+        "text_hint": "N/A N/A 6.2"
+      },
+      {
+        "id": "eq_p17_000",
+        "page": 17,
+        "bbox": [
+          83.22088623046875,
+          513.4813232421875,
+          117.02659606933594,
+          547.2869873046875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p17_001",
+        "page": 17,
+        "bbox": [
+          124.16429138183594,
+          513.4812622070312,
+          162.82925415039062,
+          552.1461791992188
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p17_002",
+        "page": 17,
+        "bbox": [
+          139.5341033935547,
+          513.4807739257812,
+          178.44444274902344,
+          552.39111328125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p17_003",
+        "page": 17,
+        "bbox": [
+          158.07618713378906,
+          513.4801635742188,
+          194.47486877441406,
+          549.8788452148438
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0017/eq_p17_003.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p20_000",
+        "page": 20,
+        "bbox": [
+          170.2438201904297,
+          310.0491638183594,
+          213.20375061035156,
+          327.7189025878906
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_000.tex",
+        "latex": null,
+        "text_hint": "d(v) = 0"
+      },
+      {
+        "id": "eq_p20_001",
+        "page": 20,
+        "bbox": [
+          235.20631408691406,
+          310.0491638183594,
+          487.7207336425781,
+          334.6461486816406
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_001.tex",
+        "latex": null,
+        "text_hint": "execute(v), V ←V \\ {v}, d(u) ←d(u) −1 ∀(v, u) ∈E."
+      },
+      {
+        "id": "eq_p20_002",
+        "page": 20,
+        "bbox": [
+          96.40084075927734,
+          397.61602783203125,
+          237.001708984375,
+          422.2130126953125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0020/eq_p20_002.tex",
+        "latex": null,
+        "text_hint": "S ←{v ∈V | indegree(v) = 0}"
+      },
+      {
+        "id": "eq_p21_000",
+        "page": 21,
+        "bbox": [
+          239.58982849121094,
+          82.26461029052734,
+          301.58740234375,
+          100.35159301757812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_000.tex",
+        "latex": null,
+        "text_hint": "θ⋆= arg min"
+      },
+      {
+        "id": "eq_p21_001",
+        "page": 21,
+        "bbox": [
+          178.4237823486328,
+          252.62803649902344,
+          270.06268310546875,
+          279.08428955078125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_001.tex",
+        "latex": null,
+        "text_hint": "sm = πϕ(m | Mcand"
+      },
+      {
+        "id": "eq_p21_002",
+        "page": 21,
+        "bbox": [
+          321.5317687988281,
+          254.48731994628906,
+          368.1375732421875,
+          274.1747131347656
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0021/eq_p21_002.tex",
+        "latex": null,
+        "text_hint": "t = Rank"
+      },
+      {
+        "id": "eq_p25_000",
+        "page": 25,
+        "bbox": [
+          318.5777893066406,
+          621.8630981445312,
+          367.2508544921875,
+          651.0000610351562
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0025/eq_p25_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0025/eq_p25_000.tex",
+        "latex": null,
+        "text_hint": "( ˆdi −di)2,"
+      },
+      {
+        "id": "eq_p26_000",
+        "page": 26,
+        "bbox": [
+          274.66778564453125,
+          105.34201049804688,
+          360.6294860839844,
+          134.47898864746094
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_000.tex",
+        "latex": null,
+        "text_hint": "i=1(di −¯d)( ˆdi −ˆd)"
+      },
+      {
+        "id": "eq_p26_001",
+        "page": 26,
+        "bbox": [
+          259.9888000488281,
+          125.08804321289062,
+          315.8639831542969,
+          154.2250213623047
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_001.tex",
+        "latex": null,
+        "text_hint": "i=1(di −¯d)2"
+      },
+      {
+        "id": "eq_p26_002",
+        "page": 26,
+        "bbox": [
+          329.2687683105469,
+          125.08804321289062,
+          385.14398193359375,
+          154.2250213623047
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_002.tex",
+        "latex": null,
+        "text_hint": "i=1( ˆdi −ˆd)2"
+      },
+      {
+        "id": "eq_p26_003",
+        "page": 26,
+        "bbox": [
+          226.94781494140625,
+          324.5721435546875,
+          284.63092041015625,
+          342.022705078125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_003.tex",
+        "latex": null,
+        "text_hint": "Accuracy ="
+      },
+      {
+        "id": "eq_p26_004",
+        "page": 26,
+        "bbox": [
+          283.73480224609375,
+          324.57208251953125,
+          385.0518493652344,
+          349.0768127441406
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_004.tex",
+        "latex": null,
+        "text_hint": "TP + TN + FP + FN ."
+      },
+      {
+        "id": "eq_p26_005",
+        "page": 26,
+        "bbox": [
+          254.84681701660156,
+          479.45098876953125,
+          311.274658203125,
+          496.90155029296875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_005.tex",
+        "latex": null,
+        "text_hint": "Precision ="
+      },
+      {
+        "id": "eq_p26_006",
+        "page": 26,
+        "bbox": [
+          310.3788146972656,
+          479.4510803222656,
+          357.1528625488281,
+          503.955810546875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_006.tex",
+        "latex": null,
+        "text_hint": "TP + FP."
+      },
+      {
+        "id": "eq_p26_007",
+        "page": 26,
+        "bbox": [
+          260.5857849121094,
+          570.5701293945312,
+          303.4146423339844,
+          588.0205688476562
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_007.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_007.tex",
+        "latex": null,
+        "text_hint": "Recall ="
+      },
+      {
+        "id": "eq_p26_008",
+        "page": 26,
+        "bbox": [
+          302.5177917480469,
+          570.5701293945312,
+          351.4148254394531,
+          595.07373046875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_008.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_008.tex",
+        "latex": null,
+        "text_hint": "TP + FN ."
+      },
+      {
+        "id": "eq_p26_009",
+        "page": 26,
+        "bbox": [
+          245.831787109375,
+          653.2691040039062,
+          362.4857177734375,
+          677.8660278320312
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_009.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0026/eq_p26_009.tex",
+        "latex": null,
+        "text_hint": "F1 = 2 · Precision · Recall"
+      },
+      {
+        "id": "eq_p27_000",
+        "page": 27,
+        "bbox": [
+          328.8878173828125,
+          141.65505981445312,
+          367.33984375,
+          167.7460174560547
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_000.tex",
+        "latex": null,
+        "text_hint": "nc · F1c,"
+      },
+      {
+        "id": "eq_p27_001",
+        "page": 27,
+        "bbox": [
+          328.8878173828125,
+          242.33309936523438,
+          367.33984375,
+          268.425048828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_001.tex",
+        "latex": null,
+        "text_hint": "nc · F1c,"
+      },
+      {
+        "id": "eq_p27_002",
+        "page": 27,
+        "bbox": [
+          279.9588317871094,
+          472.3078918457031,
+          366.7774658203125,
+          496.88494873046875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_002.tex",
+        "latex": null,
+        "text_hint": "TP · TN −FP · FN"
+      },
+      {
+        "id": "eq_p27_003",
+        "page": 27,
+        "bbox": [
+          228.517822265625,
+          487.3559875488281,
+          428.6298522949219,
+          505.00579833984375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_003.tex",
+        "latex": null,
+        "text_hint": "(TP + FP)(TP + FN)(TN + FP)(TN + FN)"
+      },
+      {
+        "id": "eq_p27_004",
+        "page": 27,
+        "bbox": [
+          275.6807861328125,
+          567.52001953125,
+          332.0655212402344,
+          593.592041015625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0027/eq_p27_004.tex",
+        "latex": null,
+        "text_hint": "κ = po −pe"
+      },
+      {
+        "id": "eq_p28_000",
+        "page": 28,
+        "bbox": [
+          69.38182067871094,
+          346.77587890625,
+          542.6213989257812,
+          365.282470703125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0028/eq_p28_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0028/eq_p28_000.tex",
+        "latex": null,
+        "text_hint": "//www.kaggle.com/datasets/nih-chest-xrays/data/data, Sunnybrook Cardiac Data (SCD) at https://"
+      },
+      {
+        "id": "eq_p29_000",
+        "page": 29,
+        "bbox": [
+          91.79782104492188,
+          145.12889099121094,
+          413.5361022949219,
+          163.63543701171875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_000.tex",
+        "latex": null,
+        "text_hint": "//www.nature.com/articles/s43018-025-00991-6 (2025) (Aug. 2025)."
+      },
+      {
+        "id": "eq_p29_001",
+        "page": 29,
+        "bbox": [
+          91.79737091064453,
+          323.4249267578125,
+          439.3788757324219,
+          341.9315185546875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_001.tex",
+        "latex": null,
+        "text_hint": "GPT-5 System Card https://openai.com/index/gpt-5-system-card/ (2025)."
+      },
+      {
+        "id": "eq_p29_002",
+        "page": 29,
+        "bbox": [
+          91.79782104492188,
+          506.0498352050781,
+          424.455078125,
+          524.556396484375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0029/eq_p29_002.tex",
+        "latex": null,
+        "text_hint": "//www.nature.com/articles/s41586-025-09442-9 (2025) (July 29, 2025)."
+      },
+      {
+        "id": "eq_p30_000",
+        "page": 30,
+        "bbox": [
+          91.79782104492188,
+          196.7349090576172,
+          531.902099609375,
+          215.241455078125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_000.tex",
+        "latex": null,
+        "text_hint": "org/quality-programs/cancer-programs/american-joint-committee-on-cancer/version-9/."
+      },
+      {
+        "id": "eq_p30_001",
+        "page": 30,
+        "bbox": [
+          91.79782104492188,
+          354.1258850097656,
+          152.82470703125,
+          372.6324768066406
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_001.tex",
+        "latex": null,
+        "text_hint": "2025-03-26."
+      },
+      {
+        "id": "eq_p30_002",
+        "page": 30,
+        "bbox": [
+          91.79782104492188,
+          680.8638916015625,
+          341.5162353515625,
+          699.3704223632812
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0030/eq_p30_002.tex",
+        "latex": null,
+        "text_hint": "com/articles/s41586-025-09079-8 (2025) (July 2025)."
+      },
+      {
+        "id": "eq_p31_000",
+        "page": 31,
+        "bbox": [
+          91.79782104492188,
+          432.82177734375,
+          491.37408447265625,
+          451.328369140625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_000.tex",
+        "latex": null,
+        "text_hint": "1476-4687. https://www.nature.com/articles/s41586-025-08675-y (2025) (Mar. 2025)."
+      },
+      {
+        "id": "eq_p31_001",
+        "page": 31,
+        "bbox": [
+          91.79782104492188,
+          472.1697692871094,
+          407.8376159667969,
+          490.6763610839844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_001.tex",
+        "latex": null,
+        "text_hint": "20, 310. https://doi.org/10.1186/s12911-020-01332-6 (Nov. 2020)."
+      },
+      {
+        "id": "eq_p31_002",
+        "page": 31,
+        "bbox": [
+          91.79782104492188,
+          566.3027954101562,
+          290.71697998046875,
+          584.809326171875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_002.tex",
+        "latex": null,
+        "text_hint": "http://arxiv.org/abs/2508.19652 (2025)."
+      },
+      {
+        "id": "eq_p31_003",
+        "page": 31,
+        "bbox": [
+          91.79782104492188,
+          605.6507568359375,
+          264.565185546875,
+          624.1572875976562
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0031/eq_p31_003.tex",
+        "latex": null,
+        "text_hint": "//arxiv.org/abs/2508.04700 (2025)."
+      },
+      {
+        "id": "eq_p32_000",
+        "page": 32,
+        "bbox": [
+          91.79780578613281,
+          630.3286743164062,
+          340.34063720703125,
+          648.835205078125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0032/eq_p32_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0032/eq_p32_000.tex",
+        "latex": null,
+        "text_hint": "com/articles/s41592-024-02499-w (2025) (Jan. 2025)."
+      },
+      {
+        "id": "eq_p36_000",
+        "page": 36,
+        "bbox": [
+          115.19007873535156,
+          154.46200561523438,
+          163.3842315673828,
+          168.54342651367188
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p36_001",
+        "page": 36,
+        "bbox": [
+          434.7552185058594,
+          154.46200561523438,
+          491.46966552734375,
+          168.54342651367188
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p36_002",
+        "page": 36,
+        "bbox": [
+          110.05001831054688,
+          290.66815185546875,
+          168.52870178222656,
+          304.7496032714844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p36_003",
+        "page": 36,
+        "bbox": [
+          274.3802795410156,
+          290.66815185546875,
+          328.0215148925781,
+          304.7496032714844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0036/eq_p36_003.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p37_000",
+        "page": 37,
+        "bbox": [
+          69.19817352294922,
+          437.06317138671875,
+          99.08892822265625,
+          466.9539794921875
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_000.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_000.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p37_001",
+        "page": 37,
+        "bbox": [
+          89.86959075927734,
+          437.1301574707031,
+          123.95095825195312,
+          471.2115478515625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_001.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_001.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p37_002",
+        "page": 37,
+        "bbox": [
+          102.17610168457031,
+          437.06829833984375,
+          136.46920776367188,
+          471.3614501953125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_002.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_002.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p37_003",
+        "page": 37,
+        "bbox": [
+          116.80864715576172,
+          437.0643005371094,
+          148.9351348876953,
+          469.1907958984375
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_003.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_003.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p37_004",
+        "page": 37,
+        "bbox": [
+          188.99903869628906,
+          437.0653991699219,
+          218.88803100585938,
+          466.95440673828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_004.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_004.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p37_005",
+        "page": 37,
+        "bbox": [
+          209.67019653320312,
+          437.1308288574219,
+          243.75155639648438,
+          471.21221923828125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_005.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_005.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p37_006",
+        "page": 37,
+        "bbox": [
+          221.9769744873047,
+          437.06842041015625,
+          256.2701110839844,
+          471.361572265625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_006.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_006.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p37_007",
+        "page": 37,
+        "bbox": [
+          236.60943603515625,
+          437.0644836425781,
+          268.7359313964844,
+          469.1910095214844
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_007.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_007.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p37_008",
+        "page": 37,
+        "bbox": [
+          308.7143249511719,
+          437.06512451171875,
+          338.6033630371094,
+          466.95416259765625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_008.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_008.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p37_009",
+        "page": 37,
+        "bbox": [
+          329.38543701171875,
+          437.13031005859375,
+          363.4669189453125,
+          471.21173095703125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_009.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_009.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p37_010",
+        "page": 37,
+        "bbox": [
+          341.6922607421875,
+          437.06817626953125,
+          375.9854431152344,
+          471.361328125
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_010.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_010.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p37_011",
+        "page": 37,
+        "bbox": [
+          356.3248291015625,
+          437.06414794921875,
+          388.4513854980469,
+          469.1906433105469
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_011.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_011.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      },
+      {
+        "id": "eq_p37_012",
+        "page": 37,
+        "bbox": [
+          428.512939453125,
+          437.0649108886719,
+          458.4022216796875,
+          466.9541931152344
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_012.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_012.tex",
+        "latex": null,
+        "text_hint": "LLaVA-Med"
+      },
+      {
+        "id": "eq_p37_013",
+        "page": 37,
+        "bbox": [
+          449.1843566894531,
+          437.1304016113281,
+          483.2660827636719,
+          471.2120666503906
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_013.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_013.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-agent"
+      },
+      {
+        "id": "eq_p37_014",
+        "page": 37,
+        "bbox": [
+          461.491455078125,
+          437.0679626464844,
+          495.784912109375,
+          471.36138916015625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_014.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_014.tex",
+        "latex": null,
+        "text_hint": "GPT-4o-vision"
+      },
+      {
+        "id": "eq_p37_015",
+        "page": 37,
+        "bbox": [
+          476.1239929199219,
+          437.06427001953125,
+          508.25079345703125,
+          469.1910400390625
+        ],
+        "inline": false,
+        "path_png": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_015.png",
+        "path_tex": "2509.20279v1_A_co-evolving_agentic_AI_system_for_medical_imaging_analysis/equations/page_0037/eq_p37_015.tex",
+        "latex": null,
+        "text_hint": "GPT-5-vision"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p1_002",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p2_003",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_004",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_005",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_006",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_007",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_008",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p4_009",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p5_010",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_002",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_004",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_005",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_006",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_007",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_008",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_009",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_010",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_011",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_012",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_013",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_014",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_015",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_016",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_017",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_018",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_019",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_020",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_021",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_022",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_023",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_011",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_012",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p8_013",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_001",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_002",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_003",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_004",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_005",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_006",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p9_014",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p9_015",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_000",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_001",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_002",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_003",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_004",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_005",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_006",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_007",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_008",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_009",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_010",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_011",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_012",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_013",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_014",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_015",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_016",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p10_016",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_001",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_002",
+      "page": 10
+    },
+    {
+      "type": "image",
+      "id": "img_p11_017",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_018",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_019",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_020",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_021",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_022",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_023",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_024",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_025",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_026",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_027",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_028",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_029",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_030",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_031",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_032",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p11_033",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_000",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_001",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_002",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_003",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_004",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_005",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_006",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_007",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_008",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_009",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_010",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_011",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_012",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_013",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_014",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_015",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_016",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_017",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_018",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_019",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_020",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_021",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_022",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_023",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_024",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_025",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_026",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_027",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_028",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_029",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_030",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_031",
+      "page": 11
+    },
+    {
+      "type": "image",
+      "id": "img_p12_034",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_000",
+      "page": 12
+    },
+    {
+      "type": "image",
+      "id": "img_p13_035",
+      "page": 13
+    },
+    {
+      "type": "image",
+      "id": "img_p14_036",
+      "page": 14
+    },
+    {
+      "type": "equation",
+      "id": "eq_p14_000",
+      "page": 14
+    },
+    {
+      "type": "equation",
+      "id": "eq_p14_001",
+      "page": 14
+    },
+    {
+      "type": "equation",
+      "id": "eq_p14_002",
+      "page": 14
+    },
+    {
+      "type": "equation",
+      "id": "eq_p14_003",
+      "page": 14
+    },
+    {
+      "type": "image",
+      "id": "img_p15_037",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_000",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_001",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_002",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_003",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_004",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_005",
+      "page": 15
+    },
+    {
+      "type": "equation",
+      "id": "eq_p15_006",
+      "page": 15
+    },
+    {
+      "type": "image",
+      "id": "img_p16_038",
+      "page": 16
+    },
+    {
+      "type": "image",
+      "id": "img_p17_039",
+      "page": 17
+    },
+    {
+      "type": "equation",
+      "id": "eq_p17_000",
+      "page": 17
+    },
+    {
+      "type": "equation",
+      "id": "eq_p17_001",
+      "page": 17
+    },
+    {
+      "type": "equation",
+      "id": "eq_p17_002",
+      "page": 17
+    },
+    {
+      "type": "equation",
+      "id": "eq_p17_003",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p18_040",
+      "page": 18
+    },
+    {
+      "type": "image",
+      "id": "img_p19_041",
+      "page": 19
+    },
+    {
+      "type": "image",
+      "id": "img_p20_042",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_000",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_001",
+      "page": 20
+    },
+    {
+      "type": "equation",
+      "id": "eq_p20_002",
+      "page": 20
+    },
+    {
+      "type": "image",
+      "id": "img_p21_043",
+      "page": 21
+    },
+    {
+      "type": "equation",
+      "id": "eq_p21_000",
+      "page": 21
+    },
+    {
+      "type": "equation",
+      "id": "eq_p21_001",
+      "page": 21
+    },
+    {
+      "type": "equation",
+      "id": "eq_p21_002",
+      "page": 21
+    },
+    {
+      "type": "image",
+      "id": "img_p22_044",
+      "page": 22
+    },
+    {
+      "type": "image",
+      "id": "img_p23_045",
+      "page": 23
+    },
+    {
+      "type": "image",
+      "id": "img_p24_046",
+      "page": 24
+    },
+    {
+      "type": "image",
+      "id": "img_p25_047",
+      "page": 25
+    },
+    {
+      "type": "equation",
+      "id": "eq_p25_000",
+      "page": 25
+    },
+    {
+      "type": "image",
+      "id": "img_p26_048",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_000",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_001",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_002",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_003",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_004",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_005",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_006",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_007",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_008",
+      "page": 26
+    },
+    {
+      "type": "equation",
+      "id": "eq_p26_009",
+      "page": 26
+    },
+    {
+      "type": "image",
+      "id": "img_p27_049",
+      "page": 27
+    },
+    {
+      "type": "equation",
+      "id": "eq_p27_000",
+      "page": 27
+    },
+    {
+      "type": "equation",
+      "id": "eq_p27_001",
+      "page": 27
+    },
+    {
+      "type": "equation",
+      "id": "eq_p27_002",
+      "page": 27
+    },
+    {
+      "type": "equation",
+      "id": "eq_p27_003",
+      "page": 27
+    },
+    {
+      "type": "equation",
+      "id": "eq_p27_004",
+      "page": 27
+    },
+    {
+      "type": "image",
+      "id": "img_p28_050",
+      "page": 28
+    },
+    {
+      "type": "equation",
+      "id": "eq_p28_000",
+      "page": 28
+    },
+    {
+      "type": "image",
+      "id": "img_p29_051",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p29_000",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p29_001",
+      "page": 29
+    },
+    {
+      "type": "equation",
+      "id": "eq_p29_002",
+      "page": 29
+    },
+    {
+      "type": "image",
+      "id": "img_p30_052",
+      "page": 30
+    },
+    {
+      "type": "equation",
+      "id": "eq_p30_000",
+      "page": 30
+    },
+    {
+      "type": "equation",
+      "id": "eq_p30_001",
+      "page": 30
+    },
+    {
+      "type": "equation",
+      "id": "eq_p30_002",
+      "page": 30
+    },
+    {
+      "type": "image",
+      "id": "img_p31_053",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_000",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_001",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_002",
+      "page": 31
+    },
+    {
+      "type": "equation",
+      "id": "eq_p31_003",
+      "page": 31
+    },
+    {
+      "type": "image",
+      "id": "img_p32_054",
+      "page": 32
+    },
+    {
+      "type": "equation",
+      "id": "eq_p32_000",
+      "page": 32
+    },
+    {
+      "type": "image",
+      "id": "img_p33_055",
+      "page": 33
+    },
+    {
+      "type": "image",
+      "id": "img_p34_056",
+      "page": 34
+    },
+    {
+      "type": "image",
+      "id": "img_p35_057",
+      "page": 35
+    },
+    {
+      "type": "image",
+      "id": "img_p36_058",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_000",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_001",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_002",
+      "page": 36
+    },
+    {
+      "type": "equation",
+      "id": "eq_p36_003",
+      "page": 36
+    },
+    {
+      "type": "image",
+      "id": "img_p37_059",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_000",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_001",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_002",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_003",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_004",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_005",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_006",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_007",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_008",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_009",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_010",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_011",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_012",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_013",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_014",
+      "page": 37
+    },
+    {
+      "type": "equation",
+      "id": "eq_p37_015",
+      "page": 37
+    }
+  ]
+}

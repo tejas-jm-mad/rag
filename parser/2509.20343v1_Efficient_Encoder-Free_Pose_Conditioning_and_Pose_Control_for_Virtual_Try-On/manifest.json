@@ -1,0 +1,429 @@
+{
+  "file": "2509.20343v1_Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual   Try-On.pdf",
+  "output_dir": "parser/2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On",
+  "text_file": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On",
+    "author": "Qi Li; Shuwen Qiu; Julien Han; Xingzi Xu; Mehmet Saygin Seyfioglu; Kee Kiat Koo; Karim Bouyarmane",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p1_000",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p2_001",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p3_002",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p5_003",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0005/img000.png"
+      },
+      {
+        "id": "img_p5_004",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0005/img001.png"
+      },
+      {
+        "id": "img_p7_005",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p7_006",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0007/img001.png"
+      },
+      {
+        "id": "img_p8_007",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0008/img000.png"
+      },
+      {
+        "id": "img_p9_008",
+        "kind": "xobject",
+        "page": 9,
+        "path": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/images/page_0009/img000.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          171.89881896972656,
+          248.53311157226562,
+          447.6249694824219,
+          263.166259765625
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "https://pose-vton.github.io/vto-pose-conditioning/"
+      },
+      {
+        "id": "eq_p2_000",
+        "page": 2,
+        "bbox": [
+          504.35943603515625,
+          191.7323455810547,
+          556.1212768554688,
+          208.9736328125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0002/eq_p2_000.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0002/eq_p2_000.tex",
+        "latex": null,
+        "text_hint": "Further ex-"
+      },
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          119.76681518554688,
+          358.69476318359375,
+          187.44911193847656,
+          388.1312561035156
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "xt = √αt x0 +"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          192.73681640625,
+          365.60980224609375,
+          233.4766387939453,
+          388.13128662109375
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "1 −αt ϵ,"
+      },
+      {
+        "id": "eq_p3_002",
+        "page": 3,
+        "bbox": [
+          101.88581848144531,
+          560.103759765625,
+          189.964111328125,
+          589.1241455078125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_002.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_002.tex",
+        "latex": null,
+        "text_hint": "xt−1 = √αt−1 ˆx0 +"
+      },
+      {
+        "id": "eq_p3_003",
+        "page": 3,
+        "bbox": [
+          196.9118194580078,
+          566.6028442382812,
+          251.35682678222656,
+          589.124267578125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_003.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_003.tex",
+        "latex": null,
+        "text_hint": "1 −αt−1 ϵt,"
+      },
+      {
+        "id": "eq_p3_004",
+        "page": 3,
+        "bbox": [
+          55.88182067871094,
+          695.5614013671875,
+          297.36785888671875,
+          724.67626953125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_004.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_004.tex",
+        "latex": null,
+        "text_hint": "image Ip ∈R3×H×W , a garment image Ig ∈R3×H×W ,"
+      },
+      {
+        "id": "eq_p3_005",
+        "page": 3,
+        "bbox": [
+          314.6319274902344,
+          412.75628662109375,
+          556.1162109375,
+          436.76220703125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_005.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_005.tex",
+        "latex": null,
+        "text_hint": "x ∈R4×H/8×W/8. The mask M is interpolated to the size"
+      },
+      {
+        "id": "eq_p3_006",
+        "page": 3,
+        "bbox": [
+          314.6319274902344,
+          574.1862182617188,
+          556.1102905273438,
+          603.3021240234375
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_006.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0003/eq_p3_006.tex",
+        "latex": null,
+        "text_hint": "ages xα ∈R4×H/8×W/8 and xβ ∈RH/8×W/8: xmasked ="
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          100.7878189086914,
+          338.974365234375,
+          153.06756591796875,
+          356.2156982421875
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "Ours w/ SD"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          100.78782653808594,
+          350.93035888671875,
+          166.3477020263672,
+          368.17169189453125
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "Ours w/ SDXL"
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          64.34979248046875,
+          624.5952758789062,
+          267.7052307128906,
+          643.0216674804688
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "concat([m, xβ, xβ]), xnoisy = concat([xt, xα, xα])"
+      },
+      {
+        "id": "eq_p4_003",
+        "page": 4,
+        "bbox": [
+          64.34979248046875,
+          696.3262939453125,
+          197.67652893066406,
+          721.8261108398438
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_003.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0004/eq_p4_003.tex",
+        "latex": null,
+        "text_hint": "Im = Ip ⊗M + Ic ⊗(1 −M)."
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          114.17701721191406,
+          644.4655151367188,
+          153.74571228027344,
+          660.50634765625
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "Viton-hd:"
+      },
+      {
+        "id": "eq_p10_001",
+        "page": 10,
+        "bbox": [
+          518.7387084960938,
+          115.25946044921875,
+          556.1197509765625,
+          131.3003387451172
+        ],
+        "inline": false,
+        "path_png": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0010/eq_p10_001.png",
+        "path_tex": "2509.20343v1_Efficient_Encoder-Free_Pose_Conditioning_and_Pose_Control_for_Virtual_Try-On/equations/page_0010/eq_p10_001.tex",
+        "latex": null,
+        "text_hint": "Warpdif-"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p1_000",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p2_001",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_000",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_003",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_004",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_005",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_006",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_003",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p5_003",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p5_004",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p7_005",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_006",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p8_007",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p9_008",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_001",
+      "page": 10
+    }
+  ]
+}

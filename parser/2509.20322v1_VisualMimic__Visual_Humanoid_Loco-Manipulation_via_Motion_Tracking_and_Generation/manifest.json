@@ -1,0 +1,1471 @@
+{
+  "file": "2509.20322v1_VisualMimic_ Visual Humanoid Loco-Manipulation via Motion Tracking and   Generation.pdf",
+  "output_dir": "parser/2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation",
+  "text_file": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.4",
+    "title": "VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation",
+    "author": "Shaofeng Yin; Yanjie Ze; Hong-Xing Yu; C. Karen Liu; Jiajun Wu",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p2_001",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p2_002",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0002/img001.png"
+      },
+      {
+        "id": "img_p2_003",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0002/img002.png"
+      },
+      {
+        "id": "img_p2_004",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0002/img003.png"
+      },
+      {
+        "id": "img_p3_005",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p3_006",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img001.png"
+      },
+      {
+        "id": "img_p3_007",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img002.png"
+      },
+      {
+        "id": "img_p3_008",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img003.png"
+      },
+      {
+        "id": "img_p3_009",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img004.png"
+      },
+      {
+        "id": "img_p3_010",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img005.png"
+      },
+      {
+        "id": "img_p3_011",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img006.png"
+      },
+      {
+        "id": "img_p3_012",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img007.png"
+      },
+      {
+        "id": "img_p3_013",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img008.png"
+      },
+      {
+        "id": "img_p3_014",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img009.png"
+      },
+      {
+        "id": "img_p3_015",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img010.png"
+      },
+      {
+        "id": "img_p3_016",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img011.png"
+      },
+      {
+        "id": "img_p3_017",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img012.png"
+      },
+      {
+        "id": "img_p3_018",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img013.png"
+      },
+      {
+        "id": "img_p3_019",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img014.png"
+      },
+      {
+        "id": "img_p3_020",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img015.png"
+      },
+      {
+        "id": "img_p3_021",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img016.png"
+      },
+      {
+        "id": "img_p3_022",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img017.png"
+      },
+      {
+        "id": "img_p3_023",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img018.png"
+      },
+      {
+        "id": "img_p3_024",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img019.png"
+      },
+      {
+        "id": "img_p3_025",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0003/img020.png"
+      },
+      {
+        "id": "img_p4_026",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p4_027",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img001.png"
+      },
+      {
+        "id": "img_p4_028",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img002.png"
+      },
+      {
+        "id": "img_p4_029",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img003.png"
+      },
+      {
+        "id": "img_p4_030",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img004.png"
+      },
+      {
+        "id": "img_p4_031",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img005.png"
+      },
+      {
+        "id": "img_p4_032",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img006.png"
+      },
+      {
+        "id": "img_p4_033",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img007.png"
+      },
+      {
+        "id": "img_p4_034",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0004/img008.png"
+      },
+      {
+        "id": "img_p6_035",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p6_036",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img001.png"
+      },
+      {
+        "id": "img_p6_037",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img002.png"
+      },
+      {
+        "id": "img_p6_038",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img003.png"
+      },
+      {
+        "id": "img_p6_039",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img004.png"
+      },
+      {
+        "id": "img_p6_040",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img005.png"
+      },
+      {
+        "id": "img_p6_041",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img006.png"
+      },
+      {
+        "id": "img_p6_042",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img007.png"
+      },
+      {
+        "id": "img_p6_043",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img008.png"
+      },
+      {
+        "id": "img_p6_044",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0006/img009.png"
+      },
+      {
+        "id": "img_p7_045",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p7_046",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img001.png"
+      },
+      {
+        "id": "img_p7_047",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img002.png"
+      },
+      {
+        "id": "img_p7_048",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img003.png"
+      },
+      {
+        "id": "img_p7_049",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img004.png"
+      },
+      {
+        "id": "img_p7_050",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/images/page_0007/img005.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          211.4661407470703,
+          123.6058349609375,
+          265.69976806640625,
+          142.04766845703125
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "Yanjie Ze*"
+      },
+      {
+        "id": "eq_p2_000",
+        "page": 2,
+        "bbox": [
+          163.00013732910156,
+          88.12541198730469,
+          201.38088989257812,
+          107.92537689208984
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_000.tex",
+        "latex": null,
+        "text_hint": "πtracker"
+      },
+      {
+        "id": "eq_p2_001",
+        "page": 2,
+        "bbox": [
+          163.18345642089844,
+          153.81173706054688,
+          201.564208984375,
+          173.61170959472656
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_001.tex",
+        "latex": null,
+        "text_hint": "πtracker"
+      },
+      {
+        "id": "eq_p2_002",
+        "page": 2,
+        "bbox": [
+          187.9657745361328,
+          244.4573974609375,
+          235.82803344726562,
+          263.87939453125
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_002.tex",
+        "latex": null,
+        "text_hint": "πgenerator"
+      },
+      {
+        "id": "eq_p2_003",
+        "page": 2,
+        "bbox": [
+          187.98782348632812,
+          288.4427185058594,
+          235.85009765625,
+          307.86474609375
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_003.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_003.tex",
+        "latex": null,
+        "text_hint": "πgenerator"
+      },
+      {
+        "id": "eq_p2_004",
+        "page": 2,
+        "bbox": [
+          333.95880126953125,
+          268.7835693359375,
+          372.339599609375,
+          288.58355712890625
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_004.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_004.tex",
+        "latex": null,
+        "text_hint": "πtracker"
+      },
+      {
+        "id": "eq_p2_005",
+        "page": 2,
+        "bbox": [
+          445.2281799316406,
+          80.12126159667969,
+          493.0904541015625,
+          99.41722869873047
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_005.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_005.tex",
+        "latex": null,
+        "text_hint": "πgenerator"
+      },
+      {
+        "id": "eq_p2_006",
+        "page": 2,
+        "bbox": [
+          487.1098937988281,
+          162.63299560546875,
+          525.4906616210938,
+          182.43296813964844
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_006.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0002/eq_p2_006.tex",
+        "latex": null,
+        "text_hint": "πtracker"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          142.28079223632812,
+          491.1283874511719,
+          188.39224243164062,
+          508.9465637207031
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "∆pt, ∆x1"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          179.1877899169922,
+          491.12835693359375,
+          232.31723022460938,
+          509.91455078125
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "t, . . . , ∆x5"
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          136.64576721191406,
+          528.5689086914062,
+          186.29620361328125,
+          548.3477172851562
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "∆pt = pdes"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          171.6098175048828,
+          88.4478988647461,
+          270.8658447265625,
+          111.92225646972656
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "e−0.1d1(t) + e−0.1d2(t) ,"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          213.8378448486328,
+          178.21237182617188,
+          275.6052551269531,
+          202.14559936523438
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "t′<t xobj(t′)]+"
+      },
+      {
+        "id": "eq_p5_002",
+        "page": 5,
+        "bbox": [
+          124.16587829589844,
+          256.5594482421875,
+          252.86488342285156,
+          274.600830078125
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_002.tex",
+        "latex": null,
+        "text_hint": "Rforce(t) = e−0.1[Fdes−Fobj(t)]+,"
+      },
+      {
+        "id": "eq_p5_003",
+        "page": 5,
+        "bbox": [
+          112.53887176513672,
+          362.677978515625,
+          172.814697265625,
+          385.199462890625
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_003.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_003.tex",
+        "latex": null,
+        "text_hint": "Rlook(t) = −"
+      },
+      {
+        "id": "eq_p5_004",
+        "page": 5,
+        "bbox": [
+          78.39886474609375,
+          440.8989562988281,
+          162.68136596679688,
+          463.4204406738281
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_004.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_004.tex",
+        "latex": null,
+        "text_hint": "Rdrift(t) = −tanh"
+      },
+      {
+        "id": "eq_p5_005",
+        "page": 5,
+        "bbox": [
+          221.27186584472656,
+          439.05242919921875,
+          289.42529296875,
+          469.8404541015625
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_005.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_005.tex",
+        "latex": null,
+        "text_hint": "t′<t |yobj(t′)| ]+"
+      },
+      {
+        "id": "eq_p5_006",
+        "page": 5,
+        "bbox": [
+          310.5818786621094,
+          109.99052429199219,
+          445.962890625,
+          133.99642944335938
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_006.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0005/eq_p5_006.tex",
+        "latex": null,
+        "text_hint": "is defined as Xnoised = X · λi,"
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          71.40381622314453,
+          450.1007385253906,
+          301.4164123535156,
+          476.2372131347656
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "Push Box: Push a 30′′ ×40′′ ×40′′, 4 kg box (friction"
+      },
+      {
+        "id": "eq_p6_001",
+        "page": 6,
+        "bbox": [
+          71.40379333496094,
+          464.186279296875,
+          112.33613586425781,
+          481.4276123046875
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_001.tex",
+        "latex": null,
+        "text_hint": "0.5–2.0)."
+      },
+      {
+        "id": "eq_p6_002",
+        "page": 6,
+        "bbox": [
+          71.40379333496094,
+          475.7826232910156,
+          268.34173583984375,
+          500.1471862792969
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_002.tex",
+        "latex": null,
+        "text_hint": "Kick Box: Kick a 15′′×20′′×20′′, 0.5 kg box."
+      },
+      {
+        "id": "eq_p6_003",
+        "page": 6,
+        "bbox": [
+          71.40377807617188,
+          487.7386169433594,
+          259.4847106933594,
+          512.1031494140625
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_003.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_003.tex",
+        "latex": null,
+        "text_hint": "Lift Box: Lift a 15′′×20′′×20′′, 0.5 kg box."
+      },
+      {
+        "id": "eq_p6_004",
+        "page": 6,
+        "bbox": [
+          71.40377807617188,
+          496.4362487792969,
+          252.8406524658203,
+          524.0581665039062
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_004.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_004.tex",
+        "latex": null,
+        "text_hint": "Reach Box: Run to a 30′′×40′′×40′′ box."
+      },
+      {
+        "id": "eq_p6_005",
+        "page": 6,
+        "bbox": [
+          71.40376281738281,
+          511.6485900878906,
+          301.41851806640625,
+          536.0131225585938
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_005.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_005.tex",
+        "latex": null,
+        "text_hint": "Large Kick: Strongly kick a 15′′×20′′×20′′, 0.5 kg box."
+      },
+      {
+        "id": "eq_p6_006",
+        "page": 6,
+        "bbox": [
+          312.3004455566406,
+          248.35855102539062,
+          416.4165344238281,
+          262.1161193847656
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_006.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0006/eq_p6_006.tex",
+        "latex": null,
+        "text_hint": "w/o low-level teacher-student"
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          101.05467224121094,
+          156.96365356445312,
+          125.63166046142578,
+          168.39169311523438
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "152 ± 36"
+      },
+      {
+        "id": "eq_p7_001",
+        "page": 7,
+        "bbox": [
+          140.13673400878906,
+          156.96365356445312,
+          164.7137451171875,
+          168.39169311523438
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_001.tex",
+        "latex": null,
+        "text_hint": "151 ± 29"
+      },
+      {
+        "id": "eq_p7_002",
+        "page": 7,
+        "bbox": [
+          411.09808349609375,
+          235.58087158203125,
+          458.3901672363281,
+          249.9007110595703
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0007/eq_p7_002.tex",
+        "latex": null,
+        "text_hint": "Sim + Mask"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          140.3755340576172,
+          110.2076644897461,
+          170.9701690673828,
+          124.0804443359375
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "152 ± 36"
+      },
+      {
+        "id": "eq_p8_001",
+        "page": 8,
+        "bbox": [
+          190.86756896972656,
+          110.2076644897461,
+          221.4622039794922,
+          124.0804443359375
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_001.tex",
+        "latex": null,
+        "text_hint": "151 ± 29"
+      },
+      {
+        "id": "eq_p8_002",
+        "page": 8,
+        "bbox": [
+          65.32209014892578,
+          117.91441345214844,
+          96.85273742675781,
+          131.14991760253906
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_002.tex",
+        "latex": null,
+        "text_hint": "w/o noise"
+      },
+      {
+        "id": "eq_p8_003",
+        "page": 8,
+        "bbox": [
+          65.32206726074219,
+          125.38218688964844,
+          92.79671478271484,
+          138.61769104003906
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_003.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_003.tex",
+        "latex": null,
+        "text_hint": "w/o clip"
+      },
+      {
+        "id": "eq_p8_004",
+        "page": 8,
+        "bbox": [
+          140.56126403808594,
+          125.38218688964844,
+          170.7841339111328,
+          138.61769104003906
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_004.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_004.tex",
+        "latex": null,
+        "text_hint": "68 ± 118"
+      },
+      {
+        "id": "eq_p8_005",
+        "page": 8,
+        "bbox": [
+          424.4368591308594,
+          140.3186492919922,
+          454.6598205566406,
+          153.5541534423828
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_005.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_005.tex",
+        "latex": null,
+        "text_hint": "109 ± 23"
+      },
+      {
+        "id": "eq_p8_006",
+        "page": 8,
+        "bbox": [
+          474.927734375,
+          140.3186492919922,
+          505.1506652832031,
+          153.5541534423828
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_006.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_006.tex",
+        "latex": null,
+        "text_hint": "109 ± 19"
+      },
+      {
+        "id": "eq_p8_007",
+        "page": 8,
+        "bbox": [
+          65.32209014892578,
+          167.0588836669922,
+          96.85273742675781,
+          180.2943878173828
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_007.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_007.tex",
+        "latex": null,
+        "text_hint": "w/o noise"
+      },
+      {
+        "id": "eq_p8_008",
+        "page": 8,
+        "bbox": [
+          65.32206726074219,
+          174.5266571044922,
+          92.79671478271484,
+          187.7621612548828
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_008.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_008.tex",
+        "latex": null,
+        "text_hint": "w/o clip"
+      },
+      {
+        "id": "eq_p8_009",
+        "page": 8,
+        "bbox": [
+          78.40119934082031,
+          256.3097839355469,
+          99.20928955078125,
+          266.1864929199219
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_009.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_009.tex",
+        "latex": null,
+        "text_hint": "w/o noise"
+      },
+      {
+        "id": "eq_p8_010",
+        "page": 8,
+        "bbox": [
+          78.40119934082031,
+          260.5889892578125,
+          97.20558166503906,
+          270.4656982421875
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_010.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_010.tex",
+        "latex": null,
+        "text_hint": "w/ noise"
+      },
+      {
+        "id": "eq_p8_011",
+        "page": 8,
+        "bbox": [
+          78.40119934082031,
+          337.23980712890625,
+          96.2343521118164,
+          347.11651611328125
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_011.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_011.tex",
+        "latex": null,
+        "text_hint": "w/o clip"
+      },
+      {
+        "id": "eq_p8_012",
+        "page": 8,
+        "bbox": [
+          310.581787109375,
+          475.86322021484375,
+          560.6189575195312,
+          493.10455322265625
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_012.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0008/eq_p8_012.tex",
+        "latex": null,
+        "text_hint": "22-1-2740, ONR MURI N00014-24-1-2748, and NSF:FRR"
+      },
+      {
+        "id": "eq_p9_000",
+        "page": 9,
+        "bbox": [
+          69.64082336425781,
+          563.1375122070312,
+          104.76502990722656,
+          577.9778442382812
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_000.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_000.tex",
+        "latex": null,
+        "text_hint": "627–635."
+      },
+      {
+        "id": "eq_p9_001",
+        "page": 9,
+        "bbox": [
+          69.64082336425781,
+          643.8355102539062,
+          184.2428741455078,
+          658.6758422851562
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_001.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_001.tex",
+        "latex": null,
+        "text_hint": "https://github.com/YanjieZe/GMR"
+      },
+      {
+        "id": "eq_p9_002",
+        "page": 9,
+        "bbox": [
+          69.64082336425781,
+          706.5994873046875,
+          113.53213500976562,
+          721.4398193359375
+        ],
+        "inline": false,
+        "path_png": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_002.png",
+        "path_tex": "2509.20322v1_VisualMimic__Visual_Humanoid_Loco-Manipulation_via_Motion_Tracking_and_Generation/equations/page_0009/eq_p9_002.tex",
+        "latex": null,
+        "text_hint": "1–11, 2023."
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p2_001",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_002",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_003",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_004",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_000",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_001",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_002",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_003",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_004",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_005",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_006",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_005",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_006",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_007",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_008",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_009",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_010",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_011",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_012",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_013",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_014",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_015",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_016",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_017",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_018",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_019",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_020",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_021",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_022",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_023",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_024",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_025",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p4_026",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_027",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_028",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_029",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_030",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_031",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_032",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_033",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_034",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_002",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_004",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_005",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_006",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_035",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_036",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_037",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_038",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_039",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_040",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_041",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_042",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_043",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_044",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_001",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_002",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_003",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_004",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_005",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_006",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_045",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_046",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_047",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_048",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_049",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_050",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_001",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_002",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_001",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_002",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_003",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_004",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_005",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_006",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_007",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_008",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_009",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_010",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_011",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_012",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_000",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_001",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_002",
+      "page": 9
+    }
+  ]
+}

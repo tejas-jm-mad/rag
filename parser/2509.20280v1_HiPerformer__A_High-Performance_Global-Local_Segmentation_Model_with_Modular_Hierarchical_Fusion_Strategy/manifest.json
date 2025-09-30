@@ -1,0 +1,2407 @@
+{
+  "file": "2509.20280v1_HiPerformer_ A High-Performance Global-Local Segmentation Model with   Modular Hierarchical Fusion Strategy.pdf",
+  "output_dir": "parser/2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy",
+  "text_file": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "HiPerformer: A High-Performance Global-Local Segmentation Model with Modular Hierarchical Fusion Strategy",
+    "author": "Dayu Tan; Zhenpeng Xu; Yansen Su; Xin Peng; Chunhou Zheng; Weimin Zhong",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p2_000",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p3_001",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p3_002",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0003/img001.png"
+      },
+      {
+        "id": "img_p5_003",
+        "kind": "xobject",
+        "page": 5,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0005/img000.png"
+      },
+      {
+        "id": "img_p6_004",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p10_005",
+        "kind": "xobject",
+        "page": 10,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0010/img000.png"
+      },
+      {
+        "id": "img_p12_006",
+        "kind": "xobject",
+        "page": 12,
+        "path": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/images/page_0012/img000.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          46.34584426879883,
+          475.6282958984375,
+          214.8065643310547,
+          492.5299987792969
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "https://github.com/xzphappy/HiPerformer."
+      },
+      {
+        "id": "eq_p2_000",
+        "page": 2,
+        "bbox": [
+          387.121826171875,
+          735.7927856445312,
+          493.58355712890625,
+          753.4547119140625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0002/eq_p2_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0002/eq_p2_000.tex",
+        "latex": null,
+        "text_hint": "s+1 = xs + fs (fs (xs)) ,"
+      },
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          121.69982147216797,
+          52.476478576660156,
+          186.8772735595703,
+          72.00982666015625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "s+1 = xs + f k"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          97.11180114746094,
+          72.39445495605469,
+          206.65786743164062,
+          90.95880126953125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "xs+1 = Conv(Concat[xt"
+      },
+      {
+        "id": "eq_p3_002",
+        "page": 3,
+        "bbox": [
+          188.88279724121094,
+          91.58732604980469,
+          302.642333984375,
+          110.32263946533203
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_002.tex",
+        "latex": null,
+        "text_hint": "s+1, and xs+1 denote the"
+      },
+      {
+        "id": "eq_p3_003",
+        "page": 3,
+        "bbox": [
+          102.63705444335938,
+          490.9647521972656,
+          165.13511657714844,
+          510.58660888671875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_003.tex",
+        "latex": null,
+        "text_hint": "ˆzl = W-MSA"
+      },
+      {
+        "id": "eq_p3_004",
+        "page": 3,
+        "bbox": [
+          164.44979858398438,
+          492.9831848144531,
+          208.50364685058594,
+          510.30517578125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_004.tex",
+        "latex": null,
+        "text_hint": "LN(zl−1)"
+      },
+      {
+        "id": "eq_p3_005",
+        "page": 3,
+        "bbox": [
+          119.2077865600586,
+          510.8827819824219,
+          167.99855041503906,
+          530.1947631835938
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_005.tex",
+        "latex": null,
+        "text_hint": "zl = MLP"
+      },
+      {
+        "id": "eq_p3_006",
+        "page": 3,
+        "bbox": [
+          105.02400970458984,
+          584.9418334960938,
+          183.1482696533203,
+          604.5635375976562
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_006.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_006.tex",
+        "latex": null,
+        "text_hint": "ˆzl+1 = SW-MSA"
+      },
+      {
+        "id": "eq_p3_007",
+        "page": 3,
+        "bbox": [
+          104.07676696777344,
+          604.8598022460938,
+          162.9545440673828,
+          624.1716918945312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_007.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_007.tex",
+        "latex": null,
+        "text_hint": "zl+1 = MLP"
+      },
+      {
+        "id": "eq_p3_008",
+        "page": 3,
+        "bbox": [
+          162.28277587890625,
+          607.1013793945312,
+          207.1736297607422,
+          624.1716918945312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_008.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_008.tex",
+        "latex": null,
+        "text_hint": "LN(ˆzl+1)"
+      },
+      {
+        "id": "eq_p3_009",
+        "page": 3,
+        "bbox": [
+          208.72677612304688,
+          607.1013793945312,
+          244.9017791748047,
+          624.1716918945312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_009.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0003/eq_p3_009.tex",
+        "latex": null,
+        "text_hint": "+ ˆzl+1."
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          59.513816833496094,
+          180.4279022216797,
+          277.8610534667969,
+          202.94937133789062
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "SPE(x) = x · Sigmoid (Conv7×7 (Conv7×7(x))) ,"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          52.0108528137207,
+          383.7933349609375,
+          296.9792175292969,
+          406.3612365722656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "IRMLP(x) = Conv1×1(Conv1×1(DWConv3×3(x) + x)),"
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          97.95185852050781,
+          474.2682800292969,
+          251.02877807617188,
+          496.836181640625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "Fmid1 = Avgpool(Conv1×1(Fi−1)),"
+      },
+      {
+        "id": "eq_p4_003",
+        "page": 4,
+        "bbox": [
+          378.93890380859375,
+          284.6939392089844,
+          469.4788513183594,
+          307.2154235839844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_003.tex",
+        "latex": null,
+        "text_hint": "f(xi) · f(Up(yi+1)),"
+      },
+      {
+        "id": "eq_p4_004",
+        "page": 4,
+        "bbox": [
+          474.2149963378906,
+          284.9429931640625,
+          519.9791870117188,
+          300.1419982910156
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_004.tex",
+        "latex": null,
+        "text_hint": "i = 1, 2, 3"
+      },
+      {
+        "id": "eq_p4_005",
+        "page": 4,
+        "bbox": [
+          309.3598937988281,
+          508.1823425292969,
+          565.6530151367188,
+          532.188232421875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0004/eq_p4_005.tex",
+        "latex": null,
+        "text_hint": "EAG(e, d) = d + d × Sigmoid (Conv1×1 (ReLU(Fe + Fd))) ,"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          113.56881713867188,
+          335.4677734375,
+          235.40982055664062,
+          357.9892578125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "L = αLCE + (1 −α)LDice,"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          121.85282897949219,
+          394.1917419433594,
+          222.34719848632812,
+          423.4522399902344
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "LDice = 1 −2|X ∩Y |"
+      },
+      {
+        "id": "eq_p5_002",
+        "page": 5,
+        "bbox": [
+          177.65481567382812,
+          401.1798400878906,
+          227.1258087158203,
+          430.2862854003906
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_002.tex",
+        "latex": null,
+        "text_hint": "|X| + |Y |,"
+      },
+      {
+        "id": "eq_p5_003",
+        "page": 5,
+        "bbox": [
+          102.22980499267578,
+          468.059814453125,
+          156.44345092773438,
+          497.0712585449219
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_003.tex",
+        "latex": null,
+        "text_hint": "LCE = −1"
+      },
+      {
+        "id": "eq_p5_004",
+        "page": 5,
+        "bbox": [
+          130.9938507080078,
+          646.2948608398438,
+          213.20523071289062,
+          668.8162841796875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_004.tex",
+        "latex": null,
+        "text_hint": "DSC = 2|X ∩Y |"
+      },
+      {
+        "id": "eq_p5_005",
+        "page": 5,
+        "bbox": [
+          168.51382446289062,
+          653.2828979492188,
+          217.9848175048828,
+          682.3892822265625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_005.tex",
+        "latex": null,
+        "text_hint": "|X| + |Y |,"
+      },
+      {
+        "id": "eq_p5_006",
+        "page": 5,
+        "bbox": [
+          57.55381393432617,
+          683.6679077148438,
+          132.3590087890625,
+          698.8668212890625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_006.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_006.tex",
+        "latex": null,
+        "text_hint": "H(X, Y ) = max"
+      },
+      {
+        "id": "eq_p5_007",
+        "page": 5,
+        "bbox": [
+          227.51480102539062,
+          683.6679077148438,
+          279.6769104003906,
+          709.4342651367188
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_007.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_007.tex",
+        "latex": null,
+        "text_hint": "x∈X d(x, y)"
+      },
+      {
+        "id": "eq_p5_008",
+        "page": 5,
+        "bbox": [
+          394.6727600097656,
+          320.35333251953125,
+          435.8741149902344,
+          337.59466552734375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_008.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_008.tex",
+        "latex": null,
+        "text_hint": "Recall ="
+      },
+      {
+        "id": "eq_p5_009",
+        "page": 5,
+        "bbox": [
+          434.6058044433594,
+          322.0868225097656,
+          480.33282470703125,
+          344.4286804199219
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_009.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_009.tex",
+        "latex": null,
+        "text_hint": "FN + TP,"
+      },
+      {
+        "id": "eq_p5_010",
+        "page": 5,
+        "bbox": [
+          418.27679443359375,
+          349.6198425292969,
+          487.2588195800781,
+          371.9617004394531
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_010.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0005/eq_p5_010.tex",
+        "latex": null,
+        "text_hint": "FP + FN + TP,"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          134.27281188964844,
+          88.95146942138672,
+          173.50164794921875,
+          103.79180145263672
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p8_001",
+        "page": 8,
+        "bbox": [
+          78.34282684326172,
+          121.05547332763672,
+          121.36543273925781,
+          135.8957977294922
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_001.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p8_002",
+        "page": 8,
+        "bbox": [
+          79.08382415771484,
+          130.02244567871094,
+          120.62398529052734,
+          144.86277770996094
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_002.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p8_003",
+        "page": 8,
+        "bbox": [
+          77.23482513427734,
+          147.95542907714844,
+          122.47311401367188,
+          162.79576110839844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_003.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p8_004",
+        "page": 8,
+        "bbox": [
+          75.7008285522461,
+          165.88743591308594,
+          124.00760650634766,
+          180.72776794433594
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_004.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p8_005",
+        "page": 8,
+        "bbox": [
+          79.23583221435547,
+          174.8544158935547,
+          120.47313690185547,
+          189.6947479248047
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_005.tex",
+        "latex": null,
+        "text_hint": "SCUNet++"
+      },
+      {
+        "id": "eq_p8_006",
+        "page": 8,
+        "bbox": [
+          75.76483154296875,
+          183.82041931152344,
+          123.94408416748047,
+          198.66075134277344
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_006.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_006.tex",
+        "latex": null,
+        "text_hint": "SWMA-Unet"
+      },
+      {
+        "id": "eq_p8_007",
+        "page": 8,
+        "bbox": [
+          54.52681350708008,
+          295.75042724609375,
+          97.54942321777344,
+          310.5907897949219
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_007.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_007.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p8_008",
+        "page": 8,
+        "bbox": [
+          55.26781463623047,
+          304.7174377441406,
+          96.8079833984375,
+          319.55780029296875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_008.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_008.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p8_009",
+        "page": 8,
+        "bbox": [
+          53.41881561279297,
+          322.6494445800781,
+          98.65711212158203,
+          337.48980712890625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_009.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_009.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p8_010",
+        "page": 8,
+        "bbox": [
+          51.88481521606445,
+          340.58245849609375,
+          100.19159698486328,
+          355.4228210449219
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_010.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_010.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p8_011",
+        "page": 8,
+        "bbox": [
+          55.41981506347656,
+          349.5484619140625,
+          96.6571273803711,
+          364.3888244628906
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_011.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_011.tex",
+        "latex": null,
+        "text_hint": "SCUNet++"
+      },
+      {
+        "id": "eq_p8_012",
+        "page": 8,
+        "bbox": [
+          51.948814392089844,
+          358.5154724121094,
+          100.1280746459961,
+          373.3558349609375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_012.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_012.tex",
+        "latex": null,
+        "text_hint": "SWMA-Unet"
+      },
+      {
+        "id": "eq_p8_013",
+        "page": 8,
+        "bbox": [
+          53.26381301879883,
+          470.4454345703125,
+          96.28642272949219,
+          485.2857971191406
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_013.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_013.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p8_014",
+        "page": 8,
+        "bbox": [
+          54.00481414794922,
+          479.41143798828125,
+          95.54498291015625,
+          494.2518005371094
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_014.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_014.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p8_015",
+        "page": 8,
+        "bbox": [
+          52.15581512451172,
+          497.3444519042969,
+          97.39411163330078,
+          512.184814453125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_015.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_015.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p8_016",
+        "page": 8,
+        "bbox": [
+          50.6218147277832,
+          515.2774658203125,
+          98.92860412597656,
+          530.1177978515625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_016.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_016.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p8_017",
+        "page": 8,
+        "bbox": [
+          51.27881622314453,
+          524.2435302734375,
+          98.2705307006836,
+          539.0838623046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_017.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_017.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p8_018",
+        "page": 8,
+        "bbox": [
+          49.80081558227539,
+          533.2105102539062,
+          99.74944305419922,
+          548.0508422851562
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_018.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0008/eq_p8_018.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p9_000",
+        "page": 9,
+        "bbox": [
+          74.0398178100586,
+          121.05547332763672,
+          117.06242370605469,
+          135.8957977294922
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_000.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p9_001",
+        "page": 9,
+        "bbox": [
+          74.78081512451172,
+          130.02244567871094,
+          116.32097625732422,
+          144.86277770996094
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_001.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p9_002",
+        "page": 9,
+        "bbox": [
+          72.93181610107422,
+          147.95542907714844,
+          118.17010498046875,
+          162.79576110839844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_002.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p9_003",
+        "page": 9,
+        "bbox": [
+          71.39781951904297,
+          165.88743591308594,
+          119.70459747314453,
+          180.72776794433594
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_003.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p9_004",
+        "page": 9,
+        "bbox": [
+          72.05481719970703,
+          174.8544158935547,
+          119.0465316772461,
+          189.6947479248047
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_004.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p9_005",
+        "page": 9,
+        "bbox": [
+          70.57682037353516,
+          183.82041931152344,
+          120.52543640136719,
+          198.66075134277344
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_005.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p9_006",
+        "page": 9,
+        "bbox": [
+          74.03982543945312,
+          259.4864196777344,
+          117.06243133544922,
+          274.3267822265625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_006.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_006.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p9_007",
+        "page": 9,
+        "bbox": [
+          74.78082275390625,
+          268.4533996582031,
+          116.32098388671875,
+          283.29376220703125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_007.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_007.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p9_008",
+        "page": 9,
+        "bbox": [
+          72.93182373046875,
+          286.3854064941406,
+          118.17011260986328,
+          301.22576904296875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_008.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_008.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p9_009",
+        "page": 9,
+        "bbox": [
+          71.3978271484375,
+          304.31842041015625,
+          119.70460510253906,
+          319.1587829589844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_009.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_009.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p9_010",
+        "page": 9,
+        "bbox": [
+          72.05482482910156,
+          313.284423828125,
+          119.0465316772461,
+          328.1247863769531
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_010.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_010.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p9_011",
+        "page": 9,
+        "bbox": [
+          70.57682800292969,
+          322.2514343261719,
+          120.52544403076172,
+          337.091796875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_011.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_011.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p9_012",
+        "page": 9,
+        "bbox": [
+          178.7298126220703,
+          402.076416015625,
+          217.95864868164062,
+          416.9167785644531
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_012.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_012.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p9_013",
+        "page": 9,
+        "bbox": [
+          122.7998275756836,
+          434.1814270019531,
+          165.82241821289062,
+          449.02178955078125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_013.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_013.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p9_014",
+        "page": 9,
+        "bbox": [
+          123.54082489013672,
+          443.1474304199219,
+          165.08096313476562,
+          457.98779296875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_014.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_014.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p9_015",
+        "page": 9,
+        "bbox": [
+          121.69182586669922,
+          461.0804443359375,
+          166.9300994873047,
+          475.9208068847656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_015.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_015.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p9_016",
+        "page": 9,
+        "bbox": [
+          120.15782928466797,
+          479.0134582519531,
+          168.464599609375,
+          493.85382080078125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_016.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_016.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p9_017",
+        "page": 9,
+        "bbox": [
+          123.69283294677734,
+          487.9794616699219,
+          164.93011474609375,
+          502.81982421875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_017.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_017.tex",
+        "latex": null,
+        "text_hint": "SCUNet++"
+      },
+      {
+        "id": "eq_p9_018",
+        "page": 9,
+        "bbox": [
+          120.22183227539062,
+          496.94647216796875,
+          168.4010772705078,
+          511.7868347167969
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_018.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_018.tex",
+        "latex": null,
+        "text_hint": "SWMA-Unet"
+      },
+      {
+        "id": "eq_p9_019",
+        "page": 9,
+        "bbox": [
+          115.25081634521484,
+          585.1404418945312,
+          154.4796600341797,
+          599.9807739257812
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_019.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_019.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p9_020",
+        "page": 9,
+        "bbox": [
+          59.32181167602539,
+          617.2444458007812,
+          102.34442138671875,
+          632.0847778320312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_020.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_020.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p9_021",
+        "page": 9,
+        "bbox": [
+          60.06281280517578,
+          626.21142578125,
+          101.60298156738281,
+          641.0517578125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_021.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_021.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p9_022",
+        "page": 9,
+        "bbox": [
+          58.21381378173828,
+          644.1444702148438,
+          103.45211029052734,
+          658.9848022460938
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_022.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_022.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p9_023",
+        "page": 9,
+        "bbox": [
+          56.679813385009766,
+          662.0764770507812,
+          104.9865951538086,
+          676.9168090820312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_023.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_023.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p9_024",
+        "page": 9,
+        "bbox": [
+          60.21381378173828,
+          671.04345703125,
+          101.45111846923828,
+          685.8837890625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_024.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_024.tex",
+        "latex": null,
+        "text_hint": "SCUNet++"
+      },
+      {
+        "id": "eq_p9_025",
+        "page": 9,
+        "bbox": [
+          56.74281311035156,
+          680.0094604492188,
+          104.92207336425781,
+          694.8497924804688
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_025.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_025.tex",
+        "latex": null,
+        "text_hint": "SWMA-Unet"
+      },
+      {
+        "id": "eq_p9_026",
+        "page": 9,
+        "bbox": [
+          319.16778564453125,
+          617.2444458007812,
+          362.1904602050781,
+          632.0847778320312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_026.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_026.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p9_027",
+        "page": 9,
+        "bbox": [
+          319.9087829589844,
+          626.21142578125,
+          361.44903564453125,
+          641.0517578125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_027.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_027.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p9_028",
+        "page": 9,
+        "bbox": [
+          318.0597839355469,
+          644.1444702148438,
+          363.29815673828125,
+          658.9848022460938
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_028.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_028.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p9_029",
+        "page": 9,
+        "bbox": [
+          316.5247802734375,
+          662.0764770507812,
+          364.8316345214844,
+          676.9168090820312
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_029.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_029.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p9_030",
+        "page": 9,
+        "bbox": [
+          320.0597839355469,
+          671.04345703125,
+          361.29718017578125,
+          685.8837890625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_030.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_030.tex",
+        "latex": null,
+        "text_hint": "SCUNet++"
+      },
+      {
+        "id": "eq_p9_031",
+        "page": 9,
+        "bbox": [
+          316.5887756347656,
+          680.0094604492188,
+          364.7680969238281,
+          694.8497924804688
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_031.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0009/eq_p9_031.tex",
+        "latex": null,
+        "text_hint": "SWMA-Unet"
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          130.0838165283203,
+          335.0394287109375,
+          169.31265258789062,
+          349.8797912597656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_001",
+        "page": 10,
+        "bbox": [
+          74.15381622314453,
+          367.1434326171875,
+          117.17642211914062,
+          381.9837951660156
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_001.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_001.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p10_002",
+        "page": 10,
+        "bbox": [
+          74.89481353759766,
+          376.1104431152344,
+          116.43497467041016,
+          390.9508056640625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_002.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_002.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p10_003",
+        "page": 10,
+        "bbox": [
+          73.04581451416016,
+          394.0424499511719,
+          118.28410339355469,
+          408.8828125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_003.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_003.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p10_004",
+        "page": 10,
+        "bbox": [
+          71.5118179321289,
+          411.9754638671875,
+          119.81859588623047,
+          426.8158264160156
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_004.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_004.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p10_005",
+        "page": 10,
+        "bbox": [
+          72.16981506347656,
+          420.94146728515625,
+          119.1615219116211,
+          435.7818298339844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_005.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_005.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p10_006",
+        "page": 10,
+        "bbox": [
+          70.6908187866211,
+          429.9084777832031,
+          120.63943481445312,
+          444.74884033203125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_006.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_006.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p10_007",
+        "page": 10,
+        "bbox": [
+          114.30581665039062,
+          512.2044677734375,
+          153.53465270996094,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_007.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_007.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_008",
+        "page": 10,
+        "bbox": [
+          211.96347045898438,
+          512.2044677734375,
+          251.1923065185547,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_008.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_008.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_009",
+        "page": 10,
+        "bbox": [
+          257.91107177734375,
+          512.2044677734375,
+          297.13995361328125,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_009.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_009.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_010",
+        "page": 10,
+        "bbox": [
+          58.44381332397461,
+          544.3094482421875,
+          101.46642303466797,
+          559.1497802734375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_010.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_010.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p10_011",
+        "page": 10,
+        "bbox": [
+          59.185813903808594,
+          553.2754516601562,
+          100.72598266601562,
+          568.1157836914062
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_011.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_011.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p10_012",
+        "page": 10,
+        "bbox": [
+          57.33681106567383,
+          571.2084350585938,
+          102.57510375976562,
+          586.0487670898438
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_012.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_012.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p10_013",
+        "page": 10,
+        "bbox": [
+          55.80181121826172,
+          589.1404418945312,
+          104.10859680175781,
+          603.9807739257812
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_013.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_013.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p10_014",
+        "page": 10,
+        "bbox": [
+          56.45981216430664,
+          598.107421875,
+          103.45153045654297,
+          612.94775390625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_014.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_014.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p10_015",
+        "page": 10,
+        "bbox": [
+          54.980812072753906,
+          607.073486328125,
+          104.92943572998047,
+          621.913818359375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_015.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_015.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p10_016",
+        "page": 10,
+        "bbox": [
+          377.455810546875,
+          335.0394287109375,
+          416.6846923828125,
+          349.8797912597656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_016.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_016.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_017",
+        "page": 10,
+        "bbox": [
+          475.11346435546875,
+          335.0394287109375,
+          514.3423461914062,
+          349.8797912597656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_017.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_017.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_018",
+        "page": 10,
+        "bbox": [
+          521.0611572265625,
+          335.0394287109375,
+          560.2899780273438,
+          349.8797912597656
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_018.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_018.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_019",
+        "page": 10,
+        "bbox": [
+          321.5257873535156,
+          367.1434326171875,
+          364.5484619140625,
+          381.9837951660156
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_019.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_019.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p10_020",
+        "page": 10,
+        "bbox": [
+          322.26678466796875,
+          376.1104431152344,
+          363.8070373535156,
+          390.9508056640625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_020.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_020.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p10_021",
+        "page": 10,
+        "bbox": [
+          320.41778564453125,
+          394.0424499511719,
+          365.6561584472656,
+          408.8828125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_021.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_021.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p10_022",
+        "page": 10,
+        "bbox": [
+          318.8837890625,
+          411.9754638671875,
+          367.1906433105469,
+          426.8158264160156
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_022.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_022.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p10_023",
+        "page": 10,
+        "bbox": [
+          319.5408020019531,
+          420.94146728515625,
+          366.5326232910156,
+          435.7818298339844
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_023.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_023.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p10_024",
+        "page": 10,
+        "bbox": [
+          318.06280517578125,
+          429.9084777832031,
+          368.0115051269531,
+          444.74884033203125
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_024.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_024.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p10_025",
+        "page": 10,
+        "bbox": [
+          377.455810546875,
+          512.2044677734375,
+          416.6846923828125,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_025.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_025.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_026",
+        "page": 10,
+        "bbox": [
+          475.11346435546875,
+          512.2044677734375,
+          514.3423461914062,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_026.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_026.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_027",
+        "page": 10,
+        "bbox": [
+          521.0611572265625,
+          512.2044677734375,
+          560.2899780273438,
+          527.0447998046875
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_027.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_027.tex",
+        "latex": null,
+        "text_hint": "(%, mean)"
+      },
+      {
+        "id": "eq_p10_028",
+        "page": 10,
+        "bbox": [
+          321.5257873535156,
+          544.3094482421875,
+          364.5484619140625,
+          559.1497802734375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_028.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_028.tex",
+        "latex": null,
+        "text_hint": "Trans-UNet"
+      },
+      {
+        "id": "eq_p10_029",
+        "page": 10,
+        "bbox": [
+          322.26678466796875,
+          553.2754516601562,
+          363.8070373535156,
+          568.1157836914062
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_029.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_029.tex",
+        "latex": null,
+        "text_hint": "Swin-UNet"
+      },
+      {
+        "id": "eq_p10_030",
+        "page": 10,
+        "bbox": [
+          320.41778564453125,
+          571.2084350585938,
+          365.6561584472656,
+          586.0487670898438
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_030.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_030.tex",
+        "latex": null,
+        "text_hint": "SwinPA-Net"
+      },
+      {
+        "id": "eq_p10_031",
+        "page": 10,
+        "bbox": [
+          318.8837890625,
+          589.1404418945312,
+          367.1906433105469,
+          603.9807739257812
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_031.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_031.tex",
+        "latex": null,
+        "text_hint": "CSWin-UNet"
+      },
+      {
+        "id": "eq_p10_032",
+        "page": 10,
+        "bbox": [
+          319.5408020019531,
+          598.107421875,
+          366.5326232910156,
+          612.94775390625
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_032.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_032.tex",
+        "latex": null,
+        "text_hint": "SCUUNet++"
+      },
+      {
+        "id": "eq_p10_033",
+        "page": 10,
+        "bbox": [
+          318.06280517578125,
+          607.073486328125,
+          368.0115051269531,
+          621.913818359375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_033.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0010/eq_p10_033.tex",
+        "latex": null,
+        "text_hint": "SWMA-UNet"
+      },
+      {
+        "id": "eq_p13_000",
+        "page": 13,
+        "bbox": [
+          331.6037902832031,
+          544.7744140625,
+          374.6981201171875,
+          559.61474609375
+        ],
+        "inline": false,
+        "path_png": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0013/eq_p13_000.png",
+        "path_tex": "2509.20280v1_HiPerformer__A_High-Performance_Global-Local_Segmentation_Model_with_Modular_Hierarchical_Fusion_Strategy/equations/page_0013/eq_p13_000.tex",
+        "latex": null,
+        "text_hint": "3146–3154."
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p2_000",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_000",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_001",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_003",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_004",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_005",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_006",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_007",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_008",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_009",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_003",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_004",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_005",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_002",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_004",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_005",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_006",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_007",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_008",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_009",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_010",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_004",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_001",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_002",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_003",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_004",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_005",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_006",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_007",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_008",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_009",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_010",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_011",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_012",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_013",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_014",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_015",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_016",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_017",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_018",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_000",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_001",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_002",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_003",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_004",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_005",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_006",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_007",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_008",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_009",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_010",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_011",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_012",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_013",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_014",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_015",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_016",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_017",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_018",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_019",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_020",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_021",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_022",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_023",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_024",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_025",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_026",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_027",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_028",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_029",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_030",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_031",
+      "page": 9
+    },
+    {
+      "type": "image",
+      "id": "img_p10_005",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_001",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_002",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_003",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_004",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_005",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_006",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_007",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_008",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_009",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_010",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_011",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_012",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_013",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_014",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_015",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_016",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_017",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_018",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_019",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_020",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_021",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_022",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_023",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_024",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_025",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_026",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_027",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_028",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_029",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_030",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_031",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_032",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_033",
+      "page": 10
+    },
+    {
+      "type": "image",
+      "id": "img_p12_006",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p13_000",
+      "page": 13
+    }
+  ]
+}

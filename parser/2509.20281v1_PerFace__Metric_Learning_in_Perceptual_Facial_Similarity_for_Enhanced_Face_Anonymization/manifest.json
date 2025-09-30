@@ -1,0 +1,1080 @@
+{
+  "file": "2509.20281v1_PerFace_ Metric Learning in Perceptual Facial Similarity for Enhanced   Face Anonymization.pdf",
+  "output_dir": "parser/2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization",
+  "text_file": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "PerFace: Metric Learning in Perceptual Facial Similarity for Enhanced Face Anonymization",
+    "author": "Haruka Kumagai; Leslie Wöhler; Satoshi Ikehata; Kiyoharu Aizawa",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p0_001",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0000/img001.png"
+      },
+      {
+        "id": "img_p0_002",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0000/img002.png"
+      },
+      {
+        "id": "img_p1_003",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p1_004",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img001.png"
+      },
+      {
+        "id": "img_p1_005",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img002.png"
+      },
+      {
+        "id": "img_p1_006",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img003.png"
+      },
+      {
+        "id": "img_p1_007",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img004.png"
+      },
+      {
+        "id": "img_p1_008",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img005.png"
+      },
+      {
+        "id": "img_p1_009",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0001/img006.png"
+      },
+      {
+        "id": "img_p2_010",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p2_011",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img001.png"
+      },
+      {
+        "id": "img_p2_012",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img002.png"
+      },
+      {
+        "id": "img_p2_013",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img003.png"
+      },
+      {
+        "id": "img_p2_014",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img004.png"
+      },
+      {
+        "id": "img_p2_015",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img005.png"
+      },
+      {
+        "id": "img_p2_016",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img006.png"
+      },
+      {
+        "id": "img_p2_017",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img007.png"
+      },
+      {
+        "id": "img_p2_018",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img008.png"
+      },
+      {
+        "id": "img_p2_019",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img009.png"
+      },
+      {
+        "id": "img_p2_020",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img010.png"
+      },
+      {
+        "id": "img_p2_021",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img011.png"
+      },
+      {
+        "id": "img_p2_022",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0002/img012.png"
+      },
+      {
+        "id": "img_p3_023",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p3_024",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img001.png"
+      },
+      {
+        "id": "img_p3_025",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img002.png"
+      },
+      {
+        "id": "img_p3_026",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img003.png"
+      },
+      {
+        "id": "img_p3_027",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img004.png"
+      },
+      {
+        "id": "img_p3_028",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img005.png"
+      },
+      {
+        "id": "img_p3_029",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img006.png"
+      },
+      {
+        "id": "img_p3_030",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img007.png"
+      },
+      {
+        "id": "img_p3_031",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img008.png"
+      },
+      {
+        "id": "img_p3_032",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img009.png"
+      },
+      {
+        "id": "img_p3_033",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img010.png"
+      },
+      {
+        "id": "img_p3_034",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0003/img011.png"
+      },
+      {
+        "id": "img_p4_035",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p4_036",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img001.png"
+      },
+      {
+        "id": "img_p4_037",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img002.png"
+      },
+      {
+        "id": "img_p4_038",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img003.png"
+      },
+      {
+        "id": "img_p4_039",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img004.png"
+      },
+      {
+        "id": "img_p4_040",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img005.png"
+      },
+      {
+        "id": "img_p4_041",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img006.png"
+      },
+      {
+        "id": "img_p4_042",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img007.png"
+      },
+      {
+        "id": "img_p4_043",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img008.png"
+      },
+      {
+        "id": "img_p4_044",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img009.png"
+      },
+      {
+        "id": "img_p4_045",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img010.png"
+      },
+      {
+        "id": "img_p4_046",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img011.png"
+      },
+      {
+        "id": "img_p4_047",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img012.png"
+      },
+      {
+        "id": "img_p4_048",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img013.png"
+      },
+      {
+        "id": "img_p4_049",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img014.png"
+      },
+      {
+        "id": "img_p4_050",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img015.png"
+      },
+      {
+        "id": "img_p4_051",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img016.png"
+      },
+      {
+        "id": "img_p4_052",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img017.png"
+      },
+      {
+        "id": "img_p4_053",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img018.png"
+      },
+      {
+        "id": "img_p4_054",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img019.png"
+      },
+      {
+        "id": "img_p4_055",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img020.png"
+      },
+      {
+        "id": "img_p4_056",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img021.png"
+      },
+      {
+        "id": "img_p4_057",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img022.png"
+      },
+      {
+        "id": "img_p4_058",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img023.png"
+      },
+      {
+        "id": "img_p4_059",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img024.png"
+      },
+      {
+        "id": "img_p4_060",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img025.png"
+      },
+      {
+        "id": "img_p4_061",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img026.png"
+      },
+      {
+        "id": "img_p4_062",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img027.png"
+      },
+      {
+        "id": "img_p4_063",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img028.png"
+      },
+      {
+        "id": "img_p4_064",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img029.png"
+      },
+      {
+        "id": "img_p4_065",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img030.png"
+      },
+      {
+        "id": "img_p4_066",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img031.png"
+      },
+      {
+        "id": "img_p4_067",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img032.png"
+      },
+      {
+        "id": "img_p4_068",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img033.png"
+      },
+      {
+        "id": "img_p4_069",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/images/page_0004/img034.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p1_000",
+        "page": 1,
+        "bbox": [
+          239.09442138671875,
+          71.46900177001953,
+          296.3041076660156,
+          84.98995208740234
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_000.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_000.tex",
+        "latex": null,
+        "text_hint": "*face-swapping"
+      },
+      {
+        "id": "eq_p1_001",
+        "page": 1,
+        "bbox": [
+          386.7818298339844,
+          537.7509765625,
+          431.39569091796875,
+          554.4830932617188
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_001.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_001.tex",
+        "latex": null,
+        "text_hint": "cos(xi, x−"
+      },
+      {
+        "id": "eq_p1_002",
+        "page": 1,
+        "bbox": [
+          420.4088439941406,
+          537.9661254882812,
+          485.9612731933594,
+          560.5824584960938
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_002.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0001/eq_p1_002.tex",
+        "latex": null,
+        "text_hint": "i ) −cos(xi, x+"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          60.99729537963867,
+          120.43231964111328,
+          94.22965240478516,
+          131.97227478027344
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "Older/Male"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          132.85305786132812,
+          131.0943145751953,
+          164.12612915039062,
+          165.65684509277344
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "young∩male"
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          156.35098266601562,
+          131.09925842285156,
+          185.97882080078125,
+          163.7010955810547
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "older∩male"
+      },
+      {
+        "id": "eq_p4_003",
+        "page": 4,
+        "bbox": [
+          230.15603637695312,
+          131.0976104736328,
+          261.4291076660156,
+          165.66014099121094
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_003.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_003.tex",
+        "latex": null,
+        "text_hint": "young∩male"
+      },
+      {
+        "id": "eq_p4_004",
+        "page": 4,
+        "bbox": [
+          254.0778350830078,
+          131.09925842285156,
+          283.7056579589844,
+          163.7010955810547
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_004.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_004.tex",
+        "latex": null,
+        "text_hint": "older∩male"
+      },
+      {
+        "id": "eq_p4_005",
+        "page": 4,
+        "bbox": [
+          375.830810546875,
+          163.87242126464844,
+          423.906494140625,
+          184.08460998535156
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_005.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_005.tex",
+        "latex": null,
+        "text_hint": "Young∩Male"
+      },
+      {
+        "id": "eq_p4_006",
+        "page": 4,
+        "bbox": [
+          375.830810546875,
+          181.8544158935547,
+          421.2365417480469,
+          202.0666046142578
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_006.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_006.tex",
+        "latex": null,
+        "text_hint": "Older∩Male"
+      },
+      {
+        "id": "eq_p4_007",
+        "page": 4,
+        "bbox": [
+          375.830810546875,
+          235.8014373779297,
+          423.906494140625,
+          256.0136413574219
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_007.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_007.tex",
+        "latex": null,
+        "text_hint": "Young∩Male"
+      },
+      {
+        "id": "eq_p4_008",
+        "page": 4,
+        "bbox": [
+          375.830810546875,
+          253.7844696044922,
+          421.2365417480469,
+          273.9966735839844
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_008.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0004/eq_p4_008.tex",
+        "latex": null,
+        "text_hint": "Older∩Male"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          139.56973266601562,
+          92.53206634521484,
+          300.8215026855469,
+          107.16521453857422
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "https://github.com/deepfakes/"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          71.72581481933594,
+          256.60791015625,
+          119.55257415771484,
+          272.6488037109375
+        ],
+        "inline": false,
+        "path_png": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20281v1_PerFace__Metric_Learning_in_Perceptual_Facial_Similarity_for_Enhanced_Face_Anonymization/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "7184–7193."
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_002",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p1_003",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_004",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_005",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_006",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_007",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_008",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_009",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_000",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_001",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_002",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p2_010",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_011",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_012",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_013",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_014",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_015",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_016",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_017",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_018",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_019",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_020",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_021",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_022",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p3_023",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_024",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_025",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_026",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_027",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_028",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_029",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_030",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_031",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_032",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_033",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p3_034",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p4_035",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_036",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_037",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_038",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_039",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_040",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_041",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_042",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_043",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_044",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_045",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_046",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_047",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_048",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_049",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_050",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_051",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_052",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_053",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_054",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_055",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_056",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_057",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_058",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_059",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_060",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_061",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_062",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_063",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_064",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_065",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_066",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_067",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_068",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_069",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_003",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_004",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_005",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_006",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_007",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_008",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    }
+  ]
+}

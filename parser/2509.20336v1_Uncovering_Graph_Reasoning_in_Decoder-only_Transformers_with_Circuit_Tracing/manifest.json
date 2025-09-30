@@ -1,0 +1,193 @@
+{
+  "file": "2509.20336v1_Uncovering Graph Reasoning in Decoder-only Transformers with Circuit   Tracing.pdf",
+  "output_dir": "parser/2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing",
+  "text_file": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing",
+    "author": "Xinnan Dai; Chung-Hsiang Lo; Kai Guo; Shenglai Zeng; Dongsheng Luo; Jiliang Tang",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p1_000",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p1_001",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0001/img001.png"
+      },
+      {
+        "id": "img_p1_002",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0001/img002.png"
+      },
+      {
+        "id": "img_p1_003",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0001/img003.png"
+      },
+      {
+        "id": "img_p1_004",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0001/img004.png"
+      },
+      {
+        "id": "img_p2_005",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0002/img000.png"
+      },
+      {
+        "id": "img_p2_006",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0002/img001.png"
+      },
+      {
+        "id": "img_p2_007",
+        "kind": "xobject",
+        "page": 2,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0002/img002.png"
+      },
+      {
+        "id": "img_p6_008",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p6_009",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0006/img001.png"
+      },
+      {
+        "id": "img_p6_010",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0006/img002.png"
+      },
+      {
+        "id": "img_p6_011",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0006/img003.png"
+      },
+      {
+        "id": "img_p6_012",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/images/page_0006/img004.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p1_000",
+        "page": 1,
+        "bbox": [
+          109.42781829833984,
+          78.49224090576172,
+          147.3604278564453,
+          91.8537826538086
+        ],
+        "inline": false,
+        "path_png": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/equations/page_0001/eq_p1_000.png",
+        "path_tex": "2509.20336v1_Uncovering_Graph_Reasoning_in_Decoder-only_Transformers_with_Circuit_Tracing/equations/page_0001/eq_p1_000.tex",
+        "latex": null,
+        "text_hint": "Graph<EL>"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p1_000",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_001",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_002",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_003",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_004",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_000",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p2_005",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_006",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p2_007",
+      "page": 2
+    },
+    {
+      "type": "image",
+      "id": "img_p6_008",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_009",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_010",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_011",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_012",
+      "page": 6
+    }
+  ]
+}

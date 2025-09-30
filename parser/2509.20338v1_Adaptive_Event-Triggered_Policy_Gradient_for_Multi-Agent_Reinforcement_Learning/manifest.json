@@ -1,0 +1,349 @@
+{
+  "file": "2509.20338v1_Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement   Learning.pdf",
+  "output_dir": "parser/2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning",
+  "text_file": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement Learning",
+    "author": "Umer Siddique; Abhinav Sinha; Yongcan Cao",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p1_000",
+        "page": 1,
+        "bbox": [
+          70.93682098388672,
+          541.206298828125,
+          135.06210327148438,
+          558.4475708007812
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_000.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_000.tex",
+        "latex": null,
+        "text_hint": "by up to 50%."
+      },
+      {
+        "id": "eq_p1_001",
+        "page": 1,
+        "bbox": [
+          369.24169921875,
+          288.40673828125,
+          425.7055358886719,
+          314.1860046386719
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_001.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_001.tex",
+        "latex": null,
+        "text_hint": "𝝅(u𝑘| 𝝉𝑘) ="
+      },
+      {
+        "id": "eq_p1_002",
+        "page": 1,
+        "bbox": [
+          372.0927429199219,
+          669.2156372070312,
+          420.25555419921875,
+          689.7124633789062
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_002.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_002.tex",
+        "latex": null,
+        "text_hint": "u𝑖,𝑘= u𝑖,𝑡𝑖"
+      },
+      {
+        "id": "eq_p1_003",
+        "page": 1,
+        "bbox": [
+          361.2177429199219,
+          724.8712768554688,
+          429.1354064941406,
+          750.5645751953125
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_003.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0001/eq_p1_003.tex",
+        "latex": null,
+        "text_hint": "𝑗+1 = inf{𝑘> 𝑡𝑖"
+      },
+      {
+        "id": "eq_p2_000",
+        "page": 2,
+        "bbox": [
+          385.0618591308594,
+          189.02378845214844,
+          420.9441223144531,
+          238.1354217529297
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_000.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_000.tex",
+        "latex": null,
+        "text_hint": "\u0001 = 𝜋𝑖,𝜃"
+      },
+      {
+        "id": "eq_p2_001",
+        "page": 2,
+        "bbox": [
+          455.370849609375,
+          189.02378845214844,
+          516.4900512695312,
+          238.1354217529297
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_001.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_001.tex",
+        "latex": null,
+        "text_hint": "\u0001 , ∀z𝑖,𝑘∈Z."
+      },
+      {
+        "id": "eq_p2_002",
+        "page": 2,
+        "bbox": [
+          469.8048400878906,
+          312.8172607421875,
+          560.6163940429688,
+          337.9688720703125
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_002.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_002.tex",
+        "latex": null,
+        "text_hint": "−Ψ · I(T𝑖= 1), (10)"
+      },
+      {
+        "id": "eq_p2_003",
+        "page": 2,
+        "bbox": [
+          311.880859375,
+          532.3522338867188,
+          391.5205383300781,
+          555.6707153320312
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_003.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_003.tex",
+        "latex": null,
+        "text_hint": "∇𝑖,𝜃𝐽(𝜋𝑖,𝜃) =E𝜋𝑖,𝜃"
+      },
+      {
+        "id": "eq_p2_004",
+        "page": 2,
+        "bbox": [
+          369.89581298828125,
+          545.463134765625,
+          437.1556396484375,
+          570.61474609375
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_004.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_004.tex",
+        "latex": null,
+        "text_hint": "−Ψ · I(T𝑖= 1),"
+      },
+      {
+        "id": "eq_p2_005",
+        "page": 2,
+        "bbox": [
+          465.3408203125,
+          718.4251708984375,
+          532.5996704101562,
+          743.5767822265625
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_005.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0002/eq_p2_005.tex",
+        "latex": null,
+        "text_hint": "−Ψ · I(T𝑖= 1),"
+      },
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          185.24977111816406,
+          81.39697265625,
+          216.07301330566406,
+          91.56241607666016
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "Aet-Mapg"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          132.37283325195312,
+          324.9559020996094,
+          256.9508361816406,
+          374.06756591796875
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "+𝛾V𝑖,𝜃(z𝑖,𝑘+1) −V𝑖,𝜃(z𝑖,𝑘)\u0001 ,"
+      },
+      {
+        "id": "eq_p3_002",
+        "page": 3,
+        "bbox": [
+          141.53482055664062,
+          444.5908203125,
+          257.08282470703125,
+          493.7024841308594
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_002.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0003/eq_p3_002.tex",
+        "latex": null,
+        "text_hint": "+𝛾V𝑖,𝜃(x𝑘+1) −V𝑖,𝜃(x𝑘)\u0001 ,"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          175.31996154785156,
+          178.6220703125,
+          205.3063507080078,
+          188.6262969970703
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "Aet-Mapg"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          187.05111694335938,
+          82.43046569824219,
+          217.0374755859375,
+          92.43470001220703
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "Aet-Mapg"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          176.68116760253906,
+          365.9050598144531,
+          206.66754150390625,
+          375.9093017578125
+        ],
+        "inline": false,
+        "path_png": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20338v1_Adaptive_Event-Triggered_Policy_Gradient_for_Multi-Agent_Reinforcement_Learning/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "Aet-Mapg"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "equation",
+      "id": "eq_p1_000",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_001",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_002",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p1_003",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_000",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_001",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_002",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_003",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_004",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p2_005",
+      "page": 2
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    }
+  ]
+}

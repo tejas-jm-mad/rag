@@ -1,0 +1,2433 @@
+{
+  "file": "2509.20358v1_PhysCtrl_ Generative Physics for Controllable and Physics-Grounded Video   Generation.pdf",
+  "output_dir": "parser/2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation",
+  "text_file": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation",
+    "author": "Chen Wang; Chuhao Chen; Yiming Huang; Zhiyang Dou; Yuan Liu; Jiatao Gu; Lingjie Liu",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p0_001",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img001.png"
+      },
+      {
+        "id": "img_p0_002",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img002.png"
+      },
+      {
+        "id": "img_p0_003",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img003.png"
+      },
+      {
+        "id": "img_p0_004",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img004.png"
+      },
+      {
+        "id": "img_p0_005",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img005.png"
+      },
+      {
+        "id": "img_p0_006",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img006.png"
+      },
+      {
+        "id": "img_p0_007",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img007.png"
+      },
+      {
+        "id": "img_p0_008",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img008.png"
+      },
+      {
+        "id": "img_p0_009",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img009.png"
+      },
+      {
+        "id": "img_p0_010",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img010.png"
+      },
+      {
+        "id": "img_p0_011",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img011.png"
+      },
+      {
+        "id": "img_p0_012",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img012.png"
+      },
+      {
+        "id": "img_p0_013",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img013.png"
+      },
+      {
+        "id": "img_p0_014",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img014.png"
+      },
+      {
+        "id": "img_p0_015",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img015.png"
+      },
+      {
+        "id": "img_p0_016",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img016.png"
+      },
+      {
+        "id": "img_p0_017",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img017.png"
+      },
+      {
+        "id": "img_p0_018",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img018.png"
+      },
+      {
+        "id": "img_p0_019",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img019.png"
+      },
+      {
+        "id": "img_p0_020",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img020.png"
+      },
+      {
+        "id": "img_p0_021",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img021.png"
+      },
+      {
+        "id": "img_p0_022",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img022.png"
+      },
+      {
+        "id": "img_p0_023",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img023.png"
+      },
+      {
+        "id": "img_p0_024",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img024.png"
+      },
+      {
+        "id": "img_p0_025",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img025.png"
+      },
+      {
+        "id": "img_p0_026",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img026.png"
+      },
+      {
+        "id": "img_p0_027",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img027.png"
+      },
+      {
+        "id": "img_p0_028",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img028.png"
+      },
+      {
+        "id": "img_p0_029",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img029.png"
+      },
+      {
+        "id": "img_p0_030",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img030.png"
+      },
+      {
+        "id": "img_p0_031",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img031.png"
+      },
+      {
+        "id": "img_p0_032",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img032.png"
+      },
+      {
+        "id": "img_p0_033",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img033.png"
+      },
+      {
+        "id": "img_p0_034",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img034.png"
+      },
+      {
+        "id": "img_p0_035",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img035.png"
+      },
+      {
+        "id": "img_p0_036",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img036.png"
+      },
+      {
+        "id": "img_p0_037",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img037.png"
+      },
+      {
+        "id": "img_p0_038",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img038.png"
+      },
+      {
+        "id": "img_p0_039",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img039.png"
+      },
+      {
+        "id": "img_p0_040",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img040.png"
+      },
+      {
+        "id": "img_p0_041",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img041.png"
+      },
+      {
+        "id": "img_p0_042",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img042.png"
+      },
+      {
+        "id": "img_p0_043",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img043.png"
+      },
+      {
+        "id": "img_p0_044",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img044.png"
+      },
+      {
+        "id": "img_p0_045",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img045.png"
+      },
+      {
+        "id": "img_p0_046",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img046.png"
+      },
+      {
+        "id": "img_p0_047",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img047.png"
+      },
+      {
+        "id": "img_p0_048",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img048.png"
+      },
+      {
+        "id": "img_p0_049",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img049.png"
+      },
+      {
+        "id": "img_p0_050",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img050.png"
+      },
+      {
+        "id": "img_p0_051",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img051.png"
+      },
+      {
+        "id": "img_p0_052",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img052.png"
+      },
+      {
+        "id": "img_p0_053",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img053.png"
+      },
+      {
+        "id": "img_p0_054",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0000/img054.png"
+      },
+      {
+        "id": "img_p4_055",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p4_056",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img001.png"
+      },
+      {
+        "id": "img_p4_057",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img002.png"
+      },
+      {
+        "id": "img_p4_058",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img003.png"
+      },
+      {
+        "id": "img_p4_059",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img004.png"
+      },
+      {
+        "id": "img_p4_060",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img005.png"
+      },
+      {
+        "id": "img_p4_061",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img006.png"
+      },
+      {
+        "id": "img_p4_062",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img007.png"
+      },
+      {
+        "id": "img_p4_063",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img008.png"
+      },
+      {
+        "id": "img_p4_064",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img009.png"
+      },
+      {
+        "id": "img_p4_065",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img010.png"
+      },
+      {
+        "id": "img_p4_066",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img011.png"
+      },
+      {
+        "id": "img_p4_067",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img012.png"
+      },
+      {
+        "id": "img_p4_068",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img013.png"
+      },
+      {
+        "id": "img_p4_069",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img014.png"
+      },
+      {
+        "id": "img_p4_070",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img015.png"
+      },
+      {
+        "id": "img_p4_071",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img016.png"
+      },
+      {
+        "id": "img_p4_072",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img017.png"
+      },
+      {
+        "id": "img_p4_073",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img018.png"
+      },
+      {
+        "id": "img_p4_074",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img019.png"
+      },
+      {
+        "id": "img_p4_075",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img020.png"
+      },
+      {
+        "id": "img_p4_076",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0004/img021.png"
+      },
+      {
+        "id": "img_p6_077",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p6_078",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img001.png"
+      },
+      {
+        "id": "img_p6_079",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img002.png"
+      },
+      {
+        "id": "img_p6_080",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img003.png"
+      },
+      {
+        "id": "img_p6_081",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img004.png"
+      },
+      {
+        "id": "img_p6_082",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img005.png"
+      },
+      {
+        "id": "img_p6_083",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img006.png"
+      },
+      {
+        "id": "img_p6_084",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img007.png"
+      },
+      {
+        "id": "img_p6_085",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img008.png"
+      },
+      {
+        "id": "img_p6_086",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img009.png"
+      },
+      {
+        "id": "img_p6_087",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img010.png"
+      },
+      {
+        "id": "img_p6_088",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img011.png"
+      },
+      {
+        "id": "img_p6_089",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img012.png"
+      },
+      {
+        "id": "img_p6_090",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img013.png"
+      },
+      {
+        "id": "img_p6_091",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img014.png"
+      },
+      {
+        "id": "img_p6_092",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img015.png"
+      },
+      {
+        "id": "img_p6_093",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img016.png"
+      },
+      {
+        "id": "img_p6_094",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img017.png"
+      },
+      {
+        "id": "img_p6_095",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img018.png"
+      },
+      {
+        "id": "img_p6_096",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img019.png"
+      },
+      {
+        "id": "img_p6_097",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img020.png"
+      },
+      {
+        "id": "img_p6_098",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img021.png"
+      },
+      {
+        "id": "img_p6_099",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img022.png"
+      },
+      {
+        "id": "img_p6_100",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img023.png"
+      },
+      {
+        "id": "img_p6_101",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img024.png"
+      },
+      {
+        "id": "img_p6_102",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img025.png"
+      },
+      {
+        "id": "img_p6_103",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img026.png"
+      },
+      {
+        "id": "img_p6_104",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img027.png"
+      },
+      {
+        "id": "img_p6_105",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img028.png"
+      },
+      {
+        "id": "img_p6_106",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0006/img029.png"
+      },
+      {
+        "id": "img_p7_107",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img000.png"
+      },
+      {
+        "id": "img_p7_108",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img001.png"
+      },
+      {
+        "id": "img_p7_109",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img002.png"
+      },
+      {
+        "id": "img_p7_110",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img003.png"
+      },
+      {
+        "id": "img_p7_111",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img004.png"
+      },
+      {
+        "id": "img_p7_112",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img005.png"
+      },
+      {
+        "id": "img_p7_113",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img006.png"
+      },
+      {
+        "id": "img_p7_114",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img007.png"
+      },
+      {
+        "id": "img_p7_115",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img008.png"
+      },
+      {
+        "id": "img_p7_116",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img009.png"
+      },
+      {
+        "id": "img_p7_117",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img010.png"
+      },
+      {
+        "id": "img_p7_118",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img011.png"
+      },
+      {
+        "id": "img_p7_119",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img012.png"
+      },
+      {
+        "id": "img_p7_120",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img013.png"
+      },
+      {
+        "id": "img_p7_121",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img014.png"
+      },
+      {
+        "id": "img_p7_122",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img015.png"
+      },
+      {
+        "id": "img_p7_123",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img016.png"
+      },
+      {
+        "id": "img_p7_124",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img017.png"
+      },
+      {
+        "id": "img_p7_125",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img018.png"
+      },
+      {
+        "id": "img_p7_126",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img019.png"
+      },
+      {
+        "id": "img_p7_127",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img020.png"
+      },
+      {
+        "id": "img_p7_128",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img021.png"
+      },
+      {
+        "id": "img_p7_129",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img022.png"
+      },
+      {
+        "id": "img_p7_130",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img023.png"
+      },
+      {
+        "id": "img_p7_131",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img024.png"
+      },
+      {
+        "id": "img_p7_132",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img025.png"
+      },
+      {
+        "id": "img_p7_133",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img026.png"
+      },
+      {
+        "id": "img_p7_134",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img027.png"
+      },
+      {
+        "id": "img_p7_135",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img028.png"
+      },
+      {
+        "id": "img_p7_136",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img029.png"
+      },
+      {
+        "id": "img_p7_137",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img030.png"
+      },
+      {
+        "id": "img_p7_138",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img031.png"
+      },
+      {
+        "id": "img_p7_139",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img032.png"
+      },
+      {
+        "id": "img_p7_140",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0007/img033.png"
+      },
+      {
+        "id": "img_p8_141",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img000.png"
+      },
+      {
+        "id": "img_p8_142",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img001.png"
+      },
+      {
+        "id": "img_p8_143",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img002.png"
+      },
+      {
+        "id": "img_p8_144",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img003.png"
+      },
+      {
+        "id": "img_p8_145",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img004.png"
+      },
+      {
+        "id": "img_p8_146",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img005.png"
+      },
+      {
+        "id": "img_p8_147",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img006.png"
+      },
+      {
+        "id": "img_p8_148",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img007.png"
+      },
+      {
+        "id": "img_p8_149",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img008.png"
+      },
+      {
+        "id": "img_p8_150",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img009.png"
+      },
+      {
+        "id": "img_p8_151",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img010.png"
+      },
+      {
+        "id": "img_p8_152",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img011.png"
+      },
+      {
+        "id": "img_p8_153",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img012.png"
+      },
+      {
+        "id": "img_p8_154",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img013.png"
+      },
+      {
+        "id": "img_p8_155",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img014.png"
+      },
+      {
+        "id": "img_p8_156",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img015.png"
+      },
+      {
+        "id": "img_p8_157",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img016.png"
+      },
+      {
+        "id": "img_p8_158",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img017.png"
+      },
+      {
+        "id": "img_p8_159",
+        "kind": "xobject",
+        "page": 8,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0008/img018.png"
+      },
+      {
+        "id": "img_p17_160",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img000.png"
+      },
+      {
+        "id": "img_p17_161",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img001.png"
+      },
+      {
+        "id": "img_p17_162",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img002.png"
+      },
+      {
+        "id": "img_p17_163",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img003.png"
+      },
+      {
+        "id": "img_p17_164",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img004.png"
+      },
+      {
+        "id": "img_p17_165",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img005.png"
+      },
+      {
+        "id": "img_p17_166",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img006.png"
+      },
+      {
+        "id": "img_p17_167",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img007.png"
+      },
+      {
+        "id": "img_p17_168",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img008.png"
+      },
+      {
+        "id": "img_p17_169",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img009.png"
+      },
+      {
+        "id": "img_p17_170",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img010.png"
+      },
+      {
+        "id": "img_p17_171",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img011.png"
+      },
+      {
+        "id": "img_p17_172",
+        "kind": "xobject",
+        "page": 17,
+        "path": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/images/page_0017/img012.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          221.5198211669922,
+          304.6587829589844,
+          304.34271240234375,
+          327.1802673339844
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "Dt = ∇· σ + fext"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          321.5047912597656,
+          304.6587829589844,
+          398.1324157714844,
+          327.1802673339844
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "Dt + ρ∇· v = 0"
+      },
+      {
+        "id": "eq_p3_002",
+        "page": 3,
+        "bbox": [
+          300.8667907714844,
+          448.08349609375,
+          345.1458740234375,
+          473.22430419921875
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_002.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_002.tex",
+        "latex": null,
+        "text_hint": "p(xi −xt"
+      },
+      {
+        "id": "eq_p3_003",
+        "page": 3,
+        "bbox": [
+          338.5968322753906,
+          482.8297424316406,
+          386.6425476074219,
+          498.02874755859375
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_003.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_003.tex",
+        "latex": null,
+        "text_hint": "= (I + ∆t"
+      },
+      {
+        "id": "eq_p3_004",
+        "page": 3,
+        "bbox": [
+          357.9457702636719,
+          505.7501525878906,
+          399.20196533203125,
+          522.991455078125
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_004.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_004.tex",
+        "latex": null,
+        "text_hint": "and xt+1"
+      },
+      {
+        "id": "eq_p3_005",
+        "page": 3,
+        "bbox": [
+          413.79376220703125,
+          506.1092224121094,
+          467.0139465332031,
+          525.1456298828125
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_005.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0003/eq_p3_005.tex",
+        "latex": null,
+        "text_hint": "p + ∆tvt+1"
+      },
+      {
+        "id": "eq_p4_000",
+        "page": 4,
+        "bbox": [
+          252.5612335205078,
+          119.83747863769531,
+          277.9515075683594,
+          130.36898803710938
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_000.tex",
+        "latex": null,
+        "text_hint": "Mul.-View"
+      },
+      {
+        "id": "eq_p4_001",
+        "page": 4,
+        "bbox": [
+          389.56005859375,
+          350.7398376464844,
+          469.9015808105469,
+          363.6536560058594
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_001.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_001.tex",
+        "latex": null,
+        "text_hint": "Spa%al Mul%-Head A/en%on"
+      },
+      {
+        "id": "eq_p4_002",
+        "page": 4,
+        "bbox": [
+          386.16278076171875,
+          438.3601379394531,
+          473.1185302734375,
+          451.2739562988281
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_002.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0004/eq_p4_002.tex",
+        "latex": null,
+        "text_hint": "Temporal Mul%-Head A/en%on"
+      },
+      {
+        "id": "eq_p5_000",
+        "page": 5,
+        "bbox": [
+          365.70074462890625,
+          202.3778533935547,
+          417.3329162597656,
+          224.89932250976562
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_000.tex",
+        "latex": null,
+        "text_hint": "∀f ∈[1, F]"
+      },
+      {
+        "id": "eq_p5_001",
+        "page": 5,
+        "bbox": [
+          350.4150390625,
+          249.4248504638672,
+          402.41583251953125,
+          271.9463195800781
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_001.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_001.tex",
+        "latex": null,
+        "text_hint": "∀p ∈[1, N]"
+      },
+      {
+        "id": "eq_p5_002",
+        "page": 5,
+        "bbox": [
+          229.47479248046875,
+          264.1993713378906,
+          299.27581787109375,
+          288.2052917480469
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_002.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_002.tex",
+        "latex": null,
+        "text_hint": "p ] ∈R(F +1)×d."
+      },
+      {
+        "id": "eq_p5_003",
+        "page": 5,
+        "bbox": [
+          271.4347839355469,
+          403.9447937011719,
+          414.457275390625,
+          430.57928466796875
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_003.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_003.tex",
+        "latex": null,
+        "text_hint": "∥(Pf+1 −Pf) −( ˆPf+1 −ˆPf)∥2"
+      },
+      {
+        "id": "eq_p5_004",
+        "page": 5,
+        "bbox": [
+          331.12982177734375,
+          498.20574951171875,
+          387.5873107910156,
+          515.1205444335938
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_004.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_004.tex",
+        "latex": null,
+        "text_hint": "p) = I+∆T"
+      },
+      {
+        "id": "eq_p5_005",
+        "page": 5,
+        "bbox": [
+          422.9058532714844,
+          496.3343505859375,
+          479.13763427734375,
+          521.97314453125
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_005.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_005.tex",
+        "latex": null,
+        "text_hint": "∇N(xi −ˆxf"
+      },
+      {
+        "id": "eq_p5_006",
+        "page": 5,
+        "bbox": [
+          105.02281951904297,
+          524.807373046875,
+          158.27178955078125,
+          542.0486450195312
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_006.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_006.tex",
+        "latex": null,
+        "text_hint": "where Ff+1"
+      },
+      {
+        "id": "eq_p5_007",
+        "page": 5,
+        "bbox": [
+          280.9078369140625,
+          565.699462890625,
+          333.3658142089844,
+          583.9876098632812
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_007.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_007.tex",
+        "latex": null,
+        "text_hint": "p)mp(ˆvf+1"
+      },
+      {
+        "id": "eq_p5_008",
+        "page": 5,
+        "bbox": [
+          349.08184814453125,
+          565.699462890625,
+          394.82861328125,
+          590.8402099609375
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_008.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_008.tex",
+        "latex": null,
+        "text_hint": "p(xi −ˆxf"
+      },
+      {
+        "id": "eq_p5_009",
+        "page": 5,
+        "bbox": [
+          298.7367858886719,
+          599.8294677734375,
+          340.17376708984375,
+          616.40283203125
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_009.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_009.tex",
+        "latex": null,
+        "text_hint": "= (ˆxf+2"
+      },
+      {
+        "id": "eq_p5_010",
+        "page": 5,
+        "bbox": [
+          224.44981384277344,
+          671.8749389648438,
+          271.7444763183594,
+          700.88623046875
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_010.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_010.tex",
+        "latex": null,
+        "text_hint": "Lfloor = 1"
+      },
+      {
+        "id": "eq_p5_011",
+        "page": 5,
+        "bbox": [
+          308.4507751464844,
+          676.7424926757812,
+          363.9505615234375,
+          700.88623046875
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_011.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_011.tex",
+        "latex": null,
+        "text_hint": "max(h −ˆxf"
+      },
+      {
+        "id": "eq_p5_012",
+        "page": 5,
+        "bbox": [
+          105.38179016113281,
+          708.1763916015625,
+          412.0148010253906,
+          732.1822509765625
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_012.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0005/eq_p5_012.tex",
+        "latex": null,
+        "text_hint": "Overall, our training loss is: L = Ldiff + λvelLvel + λphysLphys + λfloorLfloor."
+      },
+      {
+        "id": "eq_p6_000",
+        "page": 6,
+        "bbox": [
+          367.2301025390625,
+          281.0582275390625,
+          388.5727233886719,
+          292.2460021972656
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0006/eq_p6_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0006/eq_p6_000.tex",
+        "latex": null,
+        "text_hint": "E = 105.5"
+      },
+      {
+        "id": "eq_p11_000",
+        "page": 11,
+        "bbox": [
+          126.21382141113281,
+          323.5903625488281,
+          180.42626953125,
+          340.8316955566406
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0011/eq_p11_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0011/eq_p11_000.tex",
+        "latex": null,
+        "text_hint": "1–12 (2013)"
+      },
+      {
+        "id": "eq_p13_000",
+        "page": 13,
+        "bbox": [
+          126.21382141113281,
+          258.6923522949219,
+          180.42626953125,
+          275.9336853027344
+        ],
+        "inline": false,
+        "path_png": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0013/eq_p13_000.png",
+        "path_tex": "2509.20358v1_PhysCtrl__Generative_Physics_for_Controllable_and_Physics-Grounded_Video_Generation/equations/page_0013/eq_p13_000.tex",
+        "latex": null,
+        "text_hint": "1–20 (2024)"
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_001",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_002",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_003",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_004",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_005",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_006",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_007",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_008",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_009",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_010",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_011",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_012",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_013",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_014",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_015",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_016",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_017",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_018",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_019",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_020",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_021",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_022",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_023",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_024",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_025",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_026",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_027",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_028",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_029",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_030",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_031",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_032",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_033",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_034",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_035",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_036",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_037",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_038",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_039",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_040",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_041",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_042",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_043",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_044",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_045",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_046",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_047",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_048",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_049",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_050",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_051",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_052",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_053",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p0_054",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_003",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_004",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_005",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p4_055",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_056",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_057",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_058",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_059",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_060",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_061",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_062",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_063",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_064",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_065",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_066",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_067",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_068",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_069",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_070",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_071",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_072",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_073",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_074",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_075",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_076",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_000",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_001",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p4_002",
+      "page": 4
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_000",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_001",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_002",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_003",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_004",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_005",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_006",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_007",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_008",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_009",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_010",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_011",
+      "page": 5
+    },
+    {
+      "type": "equation",
+      "id": "eq_p5_012",
+      "page": 5
+    },
+    {
+      "type": "image",
+      "id": "img_p6_077",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_078",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_079",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_080",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_081",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_082",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_083",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_084",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_085",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_086",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_087",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_088",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_089",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_090",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_091",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_092",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_093",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_094",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_095",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_096",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_097",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_098",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_099",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_100",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_101",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_102",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_103",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_104",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_105",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p6_106",
+      "page": 6
+    },
+    {
+      "type": "equation",
+      "id": "eq_p6_000",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_107",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_108",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_109",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_110",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_111",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_112",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_113",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_114",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_115",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_116",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_117",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_118",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_119",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_120",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_121",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_122",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_123",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_124",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_125",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_126",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_127",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_128",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_129",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_130",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_131",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_132",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_133",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_134",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_135",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_136",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_137",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_138",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_139",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p7_140",
+      "page": 7
+    },
+    {
+      "type": "image",
+      "id": "img_p8_141",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_142",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_143",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_144",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_145",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_146",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_147",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_148",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_149",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_150",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_151",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_152",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_153",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_154",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_155",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_156",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_157",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_158",
+      "page": 8
+    },
+    {
+      "type": "image",
+      "id": "img_p8_159",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_000",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p13_000",
+      "page": 13
+    },
+    {
+      "type": "image",
+      "id": "img_p17_160",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_161",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_162",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_163",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_164",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_165",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_166",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_167",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_168",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_169",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_170",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_171",
+      "page": 17
+    },
+    {
+      "type": "image",
+      "id": "img_p17_172",
+      "page": 17
+    }
+  ]
+}

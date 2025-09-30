@@ -1,0 +1,1134 @@
+{
+  "file": "2509.20354v1_EmbeddingGemma_ Powerful and Lightweight Text Representations.pdf",
+  "output_dir": "parser/2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations",
+  "text_file": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "EmbeddingGemma: Powerful and Lightweight Text Representations",
+    "author": "Henrique Schechter Vera; Sahil Dua; Biao Zhang; Daniel Salz; Ryan Mullins; Sindhu Raghuram Panyam; Sara Smoot; Iftekhar Naim; Joe Zou; Feiyang Chen; Daniel Cer; Alice Lisak; Min Choi; Lucas Gonzalez; Omar Sanseviero; Glenn Cameron; Ian Ballantyne; Kat Black; Kaifeng Chen; Weiyi Wang; Zhe Li; Gus Martins; Jinhyuk Lee; Mark Sherwood; Juyeong Ji; Renjie Wu; Jingxiao Zheng; Jyotinder Singh; Abheesht Sharma; Divya Sreepat; Aashi Jain; Adham Elarabawy; AJ Co; Andreas Doumanoglou; Babak Samari; Ben Hora; Brian Potetz; Dahun Kim; Enrique Alfonseca; Fedor Moiseev; Feng Han; Frank Palma Gomez; Gustavo Hernández Ábrego; Hesen Zhang; Hui Hui; Jay Han; Karan Gill; Ke Chen; Koert Chen; Madhuri Shanbhogue; Michael Boratko; Paul Suganthan; Sai Meher Karthik Duddu; Sandeep Mariserla; Setareh Ariafar; Shanfeng Zhang; Shijie Zhang; Simon Baumgartner; Sonam Goenka; Steve Qiu; Tanmaya Dabral; Trevor Walker; Vikram Rao; Waleed Khawaja; Wenlei Zhou; Xiaoqi Ren; Ye Xia; Yichang Chen; Yi-Ting Chen; Zhe Dong; Zhongli Ding; Francesco Visin; Gaël Liu; Jiageng Zhang; Kathleen Kenealy; Michelle Casbon; Ravin Kumar; Thomas Mesnard; Zach Gleicher; Cormac Brick; Olivier Lacombe; Adam Roberts; Yunhsuan Sung; Raphael Hoffmann; Tris Warkentin; Armand Joulin; Tom Duerig; Mojtaba Seyedhosseini",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (tex2pdf:)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p1_001",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/images/page_0001/img000.png"
+      },
+      {
+        "id": "img_p1_002",
+        "kind": "xobject",
+        "page": 1,
+        "path": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/images/page_0001/img001.png"
+      },
+      {
+        "id": "img_p15_003",
+        "kind": "xobject",
+        "page": 15,
+        "path": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/images/page_0015/img000.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p3_000",
+        "page": 3,
+        "bbox": [
+          304.2568054199219,
+          106.7039794921875,
+          414.483154296875,
+          133.42344665527344
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_000.tex",
+        "latex": null,
+        "text_hint": "𝑖= 𝑓(𝑔(P(M𝑛(𝑡𝑝⊕𝑝±"
+      },
+      {
+        "id": "eq_p3_001",
+        "page": 3,
+        "bbox": [
+          310.017822265625,
+          193.89610290527344,
+          352.893310546875,
+          216.32395935058594
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_001.tex",
+        "latex": null,
+        "text_hint": "𝑒sim(q𝑖,p+"
+      },
+      {
+        "id": "eq_p3_002",
+        "page": 3,
+        "bbox": [
+          287.5278015136719,
+          202.18003845214844,
+          334.7547607421875,
+          263.09710693359375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_002.tex",
+        "latex": null,
+        "text_hint": "𝑖)/𝜏+ Í𝐵"
+      },
+      {
+        "id": "eq_p3_003",
+        "page": 3,
+        "bbox": [
+          210.66482543945312,
+          277.2839660644531,
+          263.52105712890625,
+          302.32037353515625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_003.tex",
+        "latex": null,
+        "text_hint": "𝟙TN(𝑖, 𝑗) ="
+      },
+      {
+        "id": "eq_p3_004",
+        "page": 3,
+        "bbox": [
+          284.6983642578125,
+          265.6741027832031,
+          355.8861999511719,
+          288.7686767578125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_004.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_004.tex",
+        "latex": null,
+        "text_hint": "if 𝑞𝑖= 𝑞𝑗or 𝑝+"
+      },
+      {
+        "id": "eq_p3_005",
+        "page": 3,
+        "bbox": [
+          226.038818359375,
+          510.8061218261719,
+          266.0647277832031,
+          533.2340087890625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_005.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_005.tex",
+        "latex": null,
+        "text_hint": "𝑖,𝑗∈B : 𝑖≠𝑗"
+      },
+      {
+        "id": "eq_p3_006",
+        "page": 3,
+        "bbox": [
+          356.3868103027344,
+          510.8061218261719,
+          396.41265869140625,
+          533.2340087890625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_006.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0003/eq_p3_006.tex",
+        "latex": null,
+        "text_hint": "𝑖,𝑗∈B : 𝑖≠𝑗"
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          483.2286071777344,
+          94.735107421875,
+          536.6392822265625,
+          148.14581298828125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "text-embedding-"
+      },
+      {
+        "id": "eq_p7_001",
+        "page": 7,
+        "bbox": [
+          153.10765075683594,
+          245.29025268554688,
+          197.3475341796875,
+          263.1975402832031
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_001.tex",
+        "latex": null,
+        "text_hint": "- Reranking"
+      },
+      {
+        "id": "eq_p7_002",
+        "page": 7,
+        "bbox": [
+          153.10765075683594,
+          254.90367126464844,
+          192.57176208496094,
+          272.81097412109375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_002.tex",
+        "latex": null,
+        "text_hint": "- Retrieval"
+      },
+      {
+        "id": "eq_p7_003",
+        "page": 7,
+        "bbox": [
+          74.23062896728516,
+          347.2944030761719,
+          122.84381866455078,
+          365.3100891113281
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0007/eq_p7_003.tex",
+        "latex": null,
+        "text_hint": "XTREME-UP"
+      },
+      {
+        "id": "eq_p8_000",
+        "page": 8,
+        "bbox": [
+          63.32027053833008,
+          162.0269317626953,
+          132.11256408691406,
+          177.9473114013672
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_000.tex",
+        "latex": null,
+        "text_hint": "KaLM mini-instruct-v1"
+      },
+      {
+        "id": "eq_p8_001",
+        "page": 8,
+        "bbox": [
+          63.32027053833008,
+          178.23887634277344,
+          126.53882598876953,
+          194.1592559814453
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_001.tex",
+        "latex": null,
+        "text_hint": "multilingual-e5-base"
+      },
+      {
+        "id": "eq_p8_002",
+        "page": 8,
+        "bbox": [
+          63.32027053833008,
+          194.45079040527344,
+          157.5596923828125,
+          210.3711700439453
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_002.tex",
+        "latex": null,
+        "text_hint": "snowflake-arctic-embed-m-v2.0"
+      },
+      {
+        "id": "eq_p8_003",
+        "page": 8,
+        "bbox": [
+          63.32027053833008,
+          202.55735778808594,
+          108.09469604492188,
+          218.4777374267578
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_003.tex",
+        "latex": null,
+        "text_hint": "USER-bge-m3"
+      },
+      {
+        "id": "eq_p8_004",
+        "page": 8,
+        "bbox": [
+          63.32027053833008,
+          218.76927185058594,
+          159.7787322998047,
+          234.6896514892578
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_004.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_004.tex",
+        "latex": null,
+        "text_hint": "granite-embedding-278m-multi."
+      },
+      {
+        "id": "eq_p8_005",
+        "page": 8,
+        "bbox": [
+          71.72982025146484,
+          743.0020141601562,
+          485.507568359375,
+          762.6056518554688
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_005.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0008/eq_p8_005.tex",
+        "latex": null,
+        "text_hint": "4https://ai.google.dev/gemma/docs/embeddinggemma/model_card#prompt-instructions"
+      },
+      {
+        "id": "eq_p9_000",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          146.08201599121094,
+          153.35586547851562,
+          163.62034606933594
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_000.tex",
+        "latex": null,
+        "text_hint": "GIST-large-Embedding-v0"
+      },
+      {
+        "id": "eq_p9_001",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          155.41551208496094,
+          142.79737854003906,
+          172.95384216308594
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_001.tex",
+        "latex": null,
+        "text_hint": "mxbai-embed-large-v1"
+      },
+      {
+        "id": "eq_p9_002",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          164.74900817871094,
+          114.71399688720703,
+          182.28733825683594
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_002.tex",
+        "latex": null,
+        "text_hint": "UAE-Large-V1"
+      },
+      {
+        "id": "eq_p9_003",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          174.08314514160156,
+          134.4332275390625,
+          191.62147521972656
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_003.tex",
+        "latex": null,
+        "text_hint": "GIST-Embedding-v0"
+      },
+      {
+        "id": "eq_p9_004",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          183.4167022705078,
+          126.60264587402344,
+          200.9550323486328
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_004.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_004.tex",
+        "latex": null,
+        "text_hint": "bge-large-en-v1.5"
+      },
+      {
+        "id": "eq_p9_005",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          192.7501678466797,
+          154.08482360839844,
+          210.2884979248047
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_005.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_005.tex",
+        "latex": null,
+        "text_hint": "GIST-small-Embedding-v0"
+      },
+      {
+        "id": "eq_p9_006",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          202.0836944580078,
+          160.5852508544922,
+          219.6220245361328
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_006.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_006.tex",
+        "latex": null,
+        "text_hint": "NoInstruct-small-Embed.-v0"
+      },
+      {
+        "id": "eq_p9_007",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          211.4171905517578,
+          98.15103912353516,
+          228.9555206298828
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_007.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_007.tex",
+        "latex": null,
+        "text_hint": "gte-large"
+      },
+      {
+        "id": "eq_p9_008",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          220.7506866455078,
+          124.48343658447266,
+          238.2890167236328
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_008.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_008.tex",
+        "latex": null,
+        "text_hint": "bge-base-en-v1.5"
+      },
+      {
+        "id": "eq_p9_009",
+        "page": 9,
+        "bbox": [
+          63.861873626708984,
+          230.0848846435547,
+          96.43763732910156,
+          247.6232147216797
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_009.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_009.tex",
+        "latex": null,
+        "text_hint": "mini-gte"
+      },
+      {
+        "id": "eq_p9_010",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          357.5274353027344,
+          123.52508544921875,
+          372.0811767578125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_010.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_010.tex",
+        "latex": null,
+        "text_hint": "KaLM mini-instruct-v1"
+      },
+      {
+        "id": "eq_p9_011",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          364.5964660644531,
+          119.38150024414062,
+          379.15020751953125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_011.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_011.tex",
+        "latex": null,
+        "text_hint": "gte-modernbert-base"
+      },
+      {
+        "id": "eq_p9_012",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          371.6655578613281,
+          143.6737060546875,
+          386.21929931640625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_012.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_012.tex",
+        "latex": null,
+        "text_hint": "granite-embedding-125m-eng."
+      },
+      {
+        "id": "eq_p9_013",
+        "page": 9,
+        "bbox": [
+          62.86277389526367,
+          392.8732604980469,
+          145.717041015625,
+          407.427001953125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_013.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_013.tex",
+        "latex": null,
+        "text_hint": "snowflake-arctic-embed-m-v2.0"
+      },
+      {
+        "id": "eq_p9_014",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          399.9422912597656,
+          96.18207550048828,
+          414.49603271484375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_014.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_014.tex",
+        "latex": null,
+        "text_hint": "e5-large-v2"
+      },
+      {
+        "id": "eq_p9_015",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          407.0113525390625,
+          134.7206573486328,
+          421.5650939941406
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_015.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_015.tex",
+        "latex": null,
+        "text_hint": "granite-embedding-eng.-r2"
+      },
+      {
+        "id": "eq_p9_016",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          414.0804138183594,
+          149.6044921875,
+          428.6341552734375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_016.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_016.tex",
+        "latex": null,
+        "text_hint": "granite-embedding-small-eng.-r2"
+      },
+      {
+        "id": "eq_p9_017",
+        "page": 9,
+        "bbox": [
+          62.862789154052734,
+          421.1494445800781,
+          145.74551391601562,
+          435.70318603515625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_017.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0009/eq_p9_017.tex",
+        "latex": null,
+        "text_hint": "snowflake-arctic-embed-m-long"
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          115.51732635498047,
+          126.3049545288086,
+          129.8026123046875
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "multiling.-e5-large-instr."
+      },
+      {
+        "id": "eq_p10_001",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          129.2481689453125,
+          115.46502685546875,
+          143.533447265625
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_001.tex",
+        "latex": null,
+        "text_hint": "jina-embeddings-v3"
+      },
+      {
+        "id": "eq_p10_002",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          136.11358642578125,
+          127.00695037841797,
+          150.39886474609375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_002.tex",
+        "latex": null,
+        "text_hint": "Qwen3-Embedding-0.6B"
+      },
+      {
+        "id": "eq_p10_003",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          142.9794921875,
+          115.37105560302734,
+          157.2647705078125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_003.tex",
+        "latex": null,
+        "text_hint": "Linq-Embed-Mistral"
+      },
+      {
+        "id": "eq_p10_004",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          149.84490966796875,
+          122.67874908447266,
+          164.13018798828125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_004.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_004.tex",
+        "latex": null,
+        "text_hint": "gte-Qwen2-7B-instruct"
+      },
+      {
+        "id": "eq_p10_005",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          156.7103271484375,
+          103.31502532958984,
+          170.99560546875
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_005.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_005.tex",
+        "latex": null,
+        "text_hint": "voyage-3-large"
+      },
+      {
+        "id": "eq_p10_006",
+        "page": 10,
+        "bbox": [
+          62.77293014526367,
+          163.57577514648438,
+          124.60792541503906,
+          177.86105346679688
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_006.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_006.tex",
+        "latex": null,
+        "text_hint": "text-embedding-3-large"
+      },
+      {
+        "id": "eq_p10_007",
+        "page": 10,
+        "bbox": [
+          59.74381637573242,
+          226.88107299804688,
+          124.89207458496094,
+          250.12835693359375
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_007.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0010/eq_p10_007.tex",
+        "latex": null,
+        "text_hint": "XTREME-UP"
+      },
+      {
+        "id": "eq_p11_000",
+        "page": 11,
+        "bbox": [
+          70.5908203125,
+          317.3020935058594,
+          280.4615478515625,
+          340.39666748046875
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_000.tex",
+        "latex": null,
+        "text_hint": "https://arxiv.org/abs/2104.08821."
+      },
+      {
+        "id": "eq_p11_001",
+        "page": 11,
+        "bbox": [
+          70.5908203125,
+          366.8771057128906,
+          303.7884521484375,
+          389.9716796875
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_001.tex",
+        "latex": null,
+        "text_hint": "URL https://arxiv.org/abs/2112.09118."
+      },
+      {
+        "id": "eq_p11_002",
+        "page": 11,
+        "bbox": [
+          70.5908203125,
+          614.7511596679688,
+          303.7884521484375,
+          637.845703125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_002.tex",
+        "latex": null,
+        "text_hint": "URL https://arxiv.org/abs/2301.12005."
+      },
+      {
+        "id": "eq_p11_003",
+        "page": 11,
+        "bbox": [
+          134.4391632080078,
+          691.4251098632812,
+          536.7940673828125,
+          714.5196533203125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0011/eq_p11_003.tex",
+        "latex": null,
+        "text_hint": "URL https://proceedings.neurips.cc/paper_files/paper/2022/file/"
+      },
+      {
+        "id": "eq_p12_000",
+        "page": 12,
+        "bbox": [
+          69.96083068847656,
+          271.5851135253906,
+          242.03125,
+          294.6796875
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_000.tex",
+        "latex": null,
+        "text_hint": "//arxiv.org/abs/2503.07891."
+      },
+      {
+        "id": "eq_p12_001",
+        "page": 12,
+        "bbox": [
+          70.59080505371094,
+          319.8811340332031,
+          192.26083374023438,
+          342.9757080078125
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_001.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_001.tex",
+        "latex": null,
+        "text_hint": "org/abs/2210.07316."
+      },
+      {
+        "id": "eq_p12_002",
+        "page": 12,
+        "bbox": [
+          70.5908203125,
+          596.110107421875,
+          303.7884521484375,
+          619.2046508789062
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_002.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_002.tex",
+        "latex": null,
+        "text_hint": "URL https://arxiv.org/abs/2409.10173."
+      },
+      {
+        "id": "eq_p12_003",
+        "page": 12,
+        "bbox": [
+          69.96083068847656,
+          644.4071044921875,
+          242.03125,
+          667.5016479492188
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_003.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_003.tex",
+        "latex": null,
+        "text_hint": "//arxiv.org/abs/2212.09741."
+      },
+      {
+        "id": "eq_p12_004",
+        "page": 12,
+        "bbox": [
+          70.5908203125,
+          692.703125,
+          280.4615478515625,
+          715.7976684570312
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_004.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0012/eq_p12_004.tex",
+        "latex": null,
+        "text_hint": "https://arxiv.org/abs/2503.02656."
+      },
+      {
+        "id": "eq_p13_000",
+        "page": 13,
+        "bbox": [
+          69.96083068847656,
+          228.98910522460938,
+          242.03125,
+          252.0836639404297
+        ],
+        "inline": false,
+        "path_png": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0013/eq_p13_000.png",
+        "path_tex": "2509.20354v1_EmbeddingGemma__Powerful_and_Lightweight_Text_Representations/equations/page_0013/eq_p13_000.tex",
+        "latex": null,
+        "text_hint": "//arxiv.org/abs/2203.05482."
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p1_001",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "id": "img_p1_002",
+      "page": 1
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_000",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_001",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_002",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_003",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_004",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_005",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p3_006",
+      "page": 3
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_001",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_002",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_003",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_000",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_001",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_002",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_003",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_004",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p8_005",
+      "page": 8
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_000",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_001",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_002",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_003",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_004",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_005",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_006",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_007",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_008",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_009",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_010",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_011",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_012",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_013",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_014",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_015",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_016",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_017",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_001",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_002",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_003",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_004",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_005",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_006",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_007",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_000",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_001",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_002",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_003",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_000",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_001",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_002",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_003",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_004",
+      "page": 12
+    },
+    {
+      "type": "equation",
+      "id": "eq_p13_000",
+      "page": 13
+    },
+    {
+      "type": "image",
+      "id": "img_p15_003",
+      "page": 15
+    }
+  ]
+}

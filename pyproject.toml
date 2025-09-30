@@ -3,14 +3,33 @@ name = "rag"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10,<3.13"
 dependencies = [
+    "camelot-py>=0.11.0",
     "docling>=2.54.0",
+    "frontend>=0.0.3",
     "grobid-client-python>=0.0.17",
+    "layoutparser>=0.3.4",
+    "lxml>=5.4.0",
+    "nougat-ocr>=0.1.17",
+    "ocrmypdf>=16.11.0",
+    "opencv-python-headless>=4.11.0.86",
+    "paddleocr>=2.7",
+    "paddlepaddle>=2.6.2",
+    "pandas>=2.3.2",
+    "pdfminer-six>=20250506",
     "pip>=25.2",
+    "pydantic>=2.11.9",
+    "pymupdf==1.24.*",
     "pypdf>=6.1.0",
     "qdrant-client>=1.15.1",
+    "rapidfuzz>=3.14.1",
     "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
     "spacy>=3.8.7",
+    "tabula-py>=2.10.0",
+    "torch>=2.8.0",
+    "torchaudio>=2.8.0",
+    "torchvision>=0.23.0",
     "transformers>=4.56.2",
 ]

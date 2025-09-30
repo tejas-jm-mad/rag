@@ -1,0 +1,496 @@
+{
+  "file": "2509.20318v1_A Comprehensive Evaluation of YOLO-based Deer Detection Performance on   Edge Devices.pdf",
+  "output_dir": "parser/2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices",
+  "text_file": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/clean_text.md",
+  "ocr_applied": false,
+  "metadata_pdf": {
+    "format": "PDF 1.7",
+    "title": "A Comprehensive Evaluation of YOLO-based Deer Detection Performance on",
+    "author": "Bishal Adhikari; Jiajia Li; Eric S. Michel; Jacob Dykes; Te-Ming Paul",
+    "subject": "",
+    "keywords": "",
+    "creator": "arXiv GenPDF (genpdf:aaea407)",
+    "producer": "pikepdf 8.15.1",
+    "creationDate": "",
+    "modDate": "",
+    "trapped": "",
+    "encryption": null
+  },
+  "grobid": null,
+  "assets": {
+    "images": [
+      {
+        "id": "img_p0_000",
+        "kind": "xobject",
+        "page": 0,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0000/img000.png"
+      },
+      {
+        "id": "img_p3_001",
+        "kind": "xobject",
+        "page": 3,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0003/img000.png"
+      },
+      {
+        "id": "img_p4_002",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0004/img000.png"
+      },
+      {
+        "id": "img_p4_003",
+        "kind": "xobject",
+        "page": 4,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0004/img001.png"
+      },
+      {
+        "id": "img_p6_004",
+        "kind": "xobject",
+        "page": 6,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0006/img000.png"
+      },
+      {
+        "id": "img_p7_005",
+        "kind": "xobject",
+        "page": 7,
+        "path": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/images/page_0007/img000.png"
+      }
+    ],
+    "figures": [],
+    "tables": [],
+    "equations": [
+      {
+        "id": "eq_p0_000",
+        "page": 0,
+        "bbox": [
+          221.1238250732422,
+          435.2870788574219,
+          385.164306640625,
+          456.2564392089844
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0000/eq_p0_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0000/eq_p0_000.tex",
+        "latex": null,
+        "text_hint": "https://github.com/WinnerBishal/track-the-deer."
+      },
+      {
+        "id": "eq_p7_000",
+        "page": 7,
+        "bbox": [
+          388.9832458496094,
+          85.81564331054688,
+          446.67303466796875,
+          102.31379699707031
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0007/eq_p7_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0007/eq_p7_000.tex",
+        "latex": null,
+        "text_hint": "mAP@50_95"
+      },
+      {
+        "id": "eq_p9_000",
+        "page": 9,
+        "bbox": [
+          49.59825897216797,
+          338.25421142578125,
+          64.9400863647461,
+          375.2912292480469
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0009/eq_p9_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0009/eq_p9_000.tex",
+        "latex": null,
+        "text_hint": "F1-Score"
+      },
+      {
+        "id": "eq_p10_000",
+        "page": 10,
+        "bbox": [
+          313.9488220214844,
+          157.66416931152344,
+          453.2823791503906,
+          178.6334991455078
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_000.tex",
+        "latex": null,
+        "text_hint": "//ieeexplore.ieee.org/document/10435785."
+      },
+      {
+        "id": "eq_p10_001",
+        "page": 10,
+        "bbox": [
+          313.9488220214844,
+          227.4021453857422,
+          429.5712890625,
+          248.37147521972656
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_001.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_001.tex",
+        "latex": null,
+        "text_hint": "https://arxiv.org/abs/2409.16808."
+      },
+      {
+        "id": "eq_p10_002",
+        "page": 10,
+        "bbox": [
+          401.9687194824219,
+          512.2562866210938,
+          546.5859375,
+          524.3485107421875
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_002.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_002.tex",
+        "latex": null,
+        "text_hint": "https://universe.roboflow.com/aidan-dyer/"
+      },
+      {
+        "id": "eq_p10_003",
+        "page": 10,
+        "bbox": [
+          439.7294006347656,
+          522.2192993164062,
+          546.5850219726562,
+          534.3115234375
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_003.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_003.tex",
+        "latex": null,
+        "text_hint": "https://universe.roboflow.com/"
+      },
+      {
+        "id": "eq_p10_004",
+        "page": 10,
+        "bbox": [
+          313.9488220214844,
+          526.2824096679688,
+          393.3068542480469,
+          547.251708984375
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_004.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_004.tex",
+        "latex": null,
+        "text_hint": "aidan-dyer/deer-iyhon."
+      },
+      {
+        "id": "eq_p10_005",
+        "page": 10,
+        "bbox": [
+          490.35894775390625,
+          576.095458984375,
+          546.5880737304688,
+          597.0647583007812
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_005.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0010/eq_p10_005.tex",
+        "latex": null,
+        "text_hint": "doi: https://doi."
+      },
+      {
+        "id": "eq_p11_000",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          290.16717529296875,
+          291.2910461425781,
+          311.13653564453125
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_000.tex",
+        "latex": null,
+        "text_hint": "Report FHWA/MT-20-001/9596-617, Montana Department of Trans-"
+      },
+      {
+        "id": "eq_p11_001",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          330.0172119140625,
+          291.2873229980469,
+          350.986572265625
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_001.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_001.tex",
+        "latex": null,
+        "text_hint": "10.3390/s23249669. URL https://www.mdpi.com/1424-8220/23/24/9669."
+      },
+      {
+        "id": "eq_p11_002",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          409.71929931640625,
+          252.18212890625,
+          430.68865966796875
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_002.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_002.tex",
+        "latex": null,
+        "text_hint": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.6031."
+      },
+      {
+        "id": "eq_p11_003",
+        "page": 11,
+        "bbox": [
+          261.0926818847656,
+          409.71929931640625,
+          291.29144287109375,
+          430.68865966796875
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_003.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_003.tex",
+        "latex": null,
+        "text_hint": "_eprint:"
+      },
+      {
+        "id": "eq_p11_004",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          449.5693359375,
+          290.03863525390625,
+          470.5386962890625
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_004.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_004.tex",
+        "latex": null,
+        "text_hint": "org/2025/05/21/deer-impact-on-crop-producers-a-bucks-buck-effect/."
+      },
+      {
+        "id": "eq_p11_005",
+        "page": 11,
+        "bbox": [
+          184.43194580078125,
+          495.3202209472656,
+          291.28729248046875,
+          507.4125061035156
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_005.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_005.tex",
+        "latex": null,
+        "text_hint": "https://lila.science/datasets/"
+      },
+      {
+        "id": "eq_p11_006",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          499.3824157714844,
+          291.2886047363281,
+          520.3517456054688
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_006.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_006.tex",
+        "latex": null,
+        "text_hint": "idaho-camera-traps/, June 2022. URL https://lila.science/datasets/"
+      },
+      {
+        "id": "eq_p11_007",
+        "page": 11,
+        "bbox": [
+          58.65180969238281,
+          509.3454284667969,
+          131.23524475097656,
+          530.3147583007812
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_007.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_007.tex",
+        "latex": null,
+        "text_hint": "idaho-camera-traps/."
+      },
+      {
+        "id": "eq_p11_008",
+        "page": 11,
+        "bbox": [
+          313.94879150390625,
+          449.569580078125,
+          460.5582580566406,
+          470.5389404296875
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_008.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_008.tex",
+        "latex": null,
+        "text_hint": "https://www.mdpi.com/2079-9292/13/23/4852."
+      },
+      {
+        "id": "eq_p11_009",
+        "page": 11,
+        "bbox": [
+          313.94879150390625,
+          579.084716796875,
+          429.5712585449219,
+          600.0540161132812
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_009.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0011/eq_p11_009.tex",
+        "latex": null,
+        "text_hint": "https://arxiv.org/abs/2505.10770."
+      },
+      {
+        "id": "eq_p12_000",
+        "page": 12,
+        "bbox": [
+          58.65180969238281,
+          70.98917388916016,
+          174.27426147460938,
+          91.95851135253906
+        ],
+        "inline": false,
+        "path_png": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0012/eq_p12_000.png",
+        "path_tex": "2509.20318v1_A_Comprehensive_Evaluation_of_YOLO-based_Deer_Detection_Performance_on_Edge_Devices/equations/page_0012/eq_p12_000.tex",
+        "latex": null,
+        "text_hint": "https://arxiv.org/abs/2402.13616."
+      }
+    ]
+  },
+  "anchors": [
+    {
+      "type": "image",
+      "id": "img_p0_000",
+      "page": 0
+    },
+    {
+      "type": "equation",
+      "id": "eq_p0_000",
+      "page": 0
+    },
+    {
+      "type": "image",
+      "id": "img_p3_001",
+      "page": 3
+    },
+    {
+      "type": "image",
+      "id": "img_p4_002",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p4_003",
+      "page": 4
+    },
+    {
+      "type": "image",
+      "id": "img_p6_004",
+      "page": 6
+    },
+    {
+      "type": "image",
+      "id": "img_p7_005",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p7_000",
+      "page": 7
+    },
+    {
+      "type": "equation",
+      "id": "eq_p9_000",
+      "page": 9
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_000",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_001",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_002",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_003",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_004",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p10_005",
+      "page": 10
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_000",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_001",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_002",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_003",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_004",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_005",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_006",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_007",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_008",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p11_009",
+      "page": 11
+    },
+    {
+      "type": "equation",
+      "id": "eq_p12_000",
+      "page": 12
+    }
+  ]
+}

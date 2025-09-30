@@ -12,5 +12,8 @@ downloaded_pdfs/
 processed_markdown/
 dataset/
 benchmark/
+parser_output/
+2509.21049v1.pdf
+2509.21221v1.pdf
 # Virtual environments
 .venv
